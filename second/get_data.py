@@ -92,7 +92,6 @@ def crawl_dalian_weather(year_month):
         print(f"爬取 {year_month} 失败: {str(e)}")
         return None
 
-# 在crawl_full_period()函数中添加Excel导出
 def crawl_full_period():
     all_data = []
     failed_months = []
@@ -125,6 +124,38 @@ def crawl_full_period():
         print("爬取失败，无有效数据")
         return None
 
+def crawl_2025_period():
+    all_data = []
+    failed_months = []
+    year = 2025
+    for month in range(1, 7):
+            year_month = f"{year}{month:02d}"
+            df_month = crawl_dalian_weather(year_month)
+            if df_month is not None:
+                all_data.append(df_month)
+            else:
+                failed_months.append(year_month)
+            # time.sleep(random.uniform(1, 3))
+     
+    if all_data:
+        df_full = pd.concat(all_data, ignore_index=True)
+        # df_full['日期'] = pd.to_datetime(df_full['日期'], errors='coerce').dt.strftime('%Y-%m-%d')
+        
+        output_dir = "homework/second/data"
+        os.makedirs(output_dir, exist_ok=True)
+        
+        # 保存为CSV（GBK编码）
+        csv_filename = os.path.join(output_dir, "dalian_weather_2025.csv")
+        df_full.to_csv(csv_filename, index=False, encoding='gbk', errors='ignore')
+        
+        
+        print(f"CSV文件已保存至: {csv_filename}")
+        return df_full
+    else:
+        print("爬取失败，无有效数据")
+        return None
+
 if __name__ == "__main__":
     print("大连市2022-2024年天气数据爬取程序")
     weather_data = crawl_full_period()
+    crawl_2025_period()
