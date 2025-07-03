@@ -15,9 +15,9 @@ data['年份'] = data['日期'].dt.year
 data['月份'] = data['日期'].dt.month
 
 # 确认转换是否正确
-print(data[['日期', '年份', '月份']].head())
+# print(data[['日期', '年份', '月份']].head())
 
-print(data)
+# print(data)
 # 绘制最高温度和最低温度的折线图
 def plot_temperature(data):
     plt.figure(figsize=(12, 6))
@@ -241,4 +241,3 @@ plot_temperature(data)
 bar_wind_distribution(data)
 # 调用函数绘制天气分布图
 bar_weather_distribution(data)
-
