@@ -2,16 +2,11 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
-import time
 import re
 import os
-import random
 from chardet import detect  # 用于自动检测编码
 
 def crawl_dalian_weather(year_month):
-    """
-    爬取大连市指定年月的每日天气数据（编码问题完全解决版）
-    """
     url = f"https://www.tianqihoubao.com/lishi/dalian/month/{year_month}.html"
     
     headers = {
@@ -51,7 +46,7 @@ def crawl_dalian_weather(year_month):
             date_link = cols[0].find('a')
             date_text = date_link.get_text(strip=True) if date_link else cols[0].get_text(strip=True)
             
-            # 提取天气信息（不做任何清理）
+            # 提取天气信息
             weather_text = cols[1].get_text(' ', strip=True).replace('\n', '')
             weather_parts = [w.strip() for w in weather_text.split('/')]
             day_weather = weather_parts[0] if weather_parts else ''
@@ -63,7 +58,7 @@ def crawl_dalian_weather(year_month):
             high_temp = int(temp_numbers[0]) if temp_numbers and len(temp_numbers) >= 1 else np.nan
             low_temp = int(temp_numbers[1]) if temp_numbers and len(temp_numbers) >= 2 else np.nan
             
-            # 提取风力信息（不做任何清理）
+            # 提取风力信息
             wind_text = cols[3].get_text(' ', strip=True).replace('\n', '')
             wind_parts = [w.strip() for w in wind_text.split('/')]
             day_wind = wind_parts[0] if wind_parts else ''
