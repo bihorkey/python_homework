@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import re
 import os
-from chardet import detect  # 用于自动检测编码
+
 
 def crawl_dalian_weather(year_month):
     url = f"https://www.tianqihoubao.com/lishi/dalian/month/{year_month}.html"
@@ -18,12 +18,6 @@ def crawl_dalian_weather(year_month):
     try:
         print(f"正在爬取 {year_month}...")
         response = requests.get(url, headers=headers, timeout=10)
-        
-        # 自动检测网页编码
-        encoding = detect(response.content)['encoding']
-        response.encoding = encoding if encoding else 'gbk'
-        print(f"检测到编码: {response.encoding}")
-        
         if response.status_code != 200:
             print(f"请求失败，状态码: {response.status_code}")
             return None

@@ -20,25 +20,44 @@ data['月份'] = data['日期'].dt.month
 # print(data)
 # 绘制最高温度和最低温度的折线图
 def plot_temperature(data):
-    plt.figure(figsize=(12, 6))
-    plt.title('大连市2022-2024年温度变化趋势')
-    plt.xlabel('月份')
-    plt.ylabel('温度 (℃)')
+    plt.figure(figsize=(12, 6), dpi=100)
+    plt.title('大连市2022-2024年月平均温度变化趋势', fontsize=14, pad=20)
+    plt.xlabel('月份', fontsize=12)
+    plt.ylabel('温度 (℃)', fontsize=12)
     
-    # 准备x轴数据（1-12月）
-    months = range(1, 13)
+    monthly_high = data.groupby('月份')['最高温'].mean()
+    monthly_low = data.groupby('月份')['最低温'].mean()
     
-    # 为每一年绘制折线
-    # 计算每月的平均最高温度
-    monthly_high_avg = data.groupby('月份')['最高温'].mean()
-    monthly_low_avg = data.groupby('月份')['最低温'].mean()
-    # 绘制折线图
-    plt.plot(months, monthly_high_avg, label=f'最高气温', marker='o')
-    plt.plot(months, monthly_low_avg, linestyle='--',label=f'最低气温', marker='x')
-    # 添加图例和网格
-    plt.legend()
-    plt.grid(True, linestyle='--', alpha=0.6)
-    plt.xticks(months)
+    plt.plot(
+        monthly_high.index, monthly_high.values, 
+        color='#E74C3C', linewidth=2, marker='o', 
+        markersize=8, label='最高气温', alpha=0.8
+    )
+    plt.plot(
+        monthly_low.index, monthly_low.values, 
+        color='#3498DB', linewidth=2, linestyle='--', 
+        marker='s', markersize=8, label='最低气温', alpha=0.8
+    )
+    
+    # 标注极值点
+    max_temp = monthly_high.max()
+    min_temp = monthly_low.min()
+    plt.annotate(f'最高: {max_temp:.1f}℃', 
+                 xy=(monthly_high.idxmax(), max_temp),
+                 xytext=(10, 10), textcoords='offset points',
+                 arrowprops=dict(arrowstyle='->'))
+    plt.annotate(f'最低: {min_temp:.1f}℃', 
+                 xy=(monthly_low.idxmin(), min_temp),
+                 xytext=(10, -20), textcoords='offset points',
+                 arrowprops=dict(arrowstyle='->'))
+    
+    # 美化坐标轴和网格
+    plt.xticks(range(1, 13), [f'{m}月' for m in range(1, 13)], rotation=45)
+    plt.grid(True, linestyle='--', alpha=0.4)
+    plt.legend(loc='upper right', fontsize=12)
+    
+    # 调整边距
+    plt.tight_layout()
     plt.show()
         
         
@@ -55,115 +74,95 @@ def wind_level(wind_str):
     else:
         return '7级以上'
 
-# 风力柱状图绘制函数
-def bar_wind_distribution(data):
-    # 提取白天和夜间风力等级
+def plot_wind_distribution(data, year_range="2022-2024"):
+    # 设置中文显示
+    plt.rcParams['font.sans-serif'] = ['Microsoft YaHei']
+    plt.rcParams['axes.unicode_minus'] = False
+    
+    # 提取风力等级
     data['白天风力等级'] = data['白天风力'].apply(wind_level)
     data['夜间风力等级'] = data['夜晚风力'].apply(wind_level)
     
-    # 按月份和风力等级分组统计天数（白天）
-    day_wind_counts = data.groupby(['月份', '白天风力等级']).size().unstack(fill_value=0)
-    
-    # 按月份和风力等级分组统计天数（夜间）
-    night_wind_counts = data.groupby(['月份', '夜间风力等级']).size().unstack(fill_value=0)
-    
-    # 定义统一的风力等级顺序
+    # 定义风力等级顺序和配色
     wind_order = ['1-2级', '3-4级', '5-6级', '7级以上']
+    colors = plt.cm.Blues(np.linspace(0.4, 0.9, len(wind_order)))
     
-    # 确保两个统计表有相同的列顺序
-    for level in wind_order:
-        if level not in day_wind_counts.columns:
-            day_wind_counts[level] = 0
-        if level not in night_wind_counts.columns:
-            night_wind_counts[level] = 0
+    # 统计风力天数
+    def get_wind_stats(df, col):
+        counts = df.groupby(['月份', col]).size().unstack(fill_value=0)
+        for level in wind_order:
+            if level not in counts.columns:
+                counts[level] = 0
+        return counts[wind_order]
     
-    day_wind_counts = day_wind_counts[wind_order]
-    night_wind_counts = night_wind_counts[wind_order]
+    day_counts = get_wind_stats(data, '白天风力等级')
+    night_counts = get_wind_stats(data, '夜间风力等级')
     
-    # 创建图形和子图
-    plt.figure(figsize=(16, 10))
+    # 创建图形
+    fig = plt.figure(figsize=(16, 12), dpi=100)
+    fig.suptitle(f'大连市{year_range}年风力等级分布（按月份统计）', 
+                fontsize=18, y=1.02)
     
-    # 设置柱状图位置和宽度
+    # 公用参数
     bar_width = 0.2
     months = np.arange(1, 13)
+    y_max = max(day_counts.max().max(), night_counts.max().max()) + 3
     
-    # ========== 白天风力分布子图 ==========
-    plt.subplot(2, 1, 1)  # 2行1列，第一个子图
+    # 绘制白天风力分布
+    ax1 = plt.subplot(2, 1, 1)
+    for i, (level, color) in enumerate(zip(wind_order, colors)):
+        pos = months + i * bar_width
+        bars = ax1.bar(pos, day_counts[level], width=bar_width,
+                      color=color, label=level, alpha=0.8)
+        # 智能数据标签位置
+        for bar in bars:
+            height = bar.get_height()
+            if height > 0:
+                ax1.text(bar.get_x() + bar.get_width()/2., height+0.3,
+                        f'{height}', ha='center', va='bottom', fontsize=9)
     
-    # 为每个风力等级绘制柱状图
-    for i, level in enumerate(wind_order):
-        # 计算每个柱子的位置
-        positions = months + i * bar_width
-        # 绘制柱状图
-        plt.bar(positions, day_wind_counts[level], width=bar_width, 
-                label=f'{level}', alpha=0.8)
+    ax1.set_title('白天风力分布', fontsize=14, pad=10)
+    ax1.set_ylabel('出现天数', fontsize=12)
+    ax1.set_xticks(months + bar_width*1.5)
+    ax1.set_xticklabels([f'{m}月' for m in months], fontsize=10)
+    ax1.set_ylim(0, y_max)
+    ax1.legend(title='风力等级', bbox_to_anchor=(1.02, 1), 
+              borderaxespad=0)
+    ax1.grid(axis='y', linestyle=':', alpha=0.4)
     
-    # 添加标题和标签
-    plt.title('大连市近三年白天风力等级分布', fontsize=16)
-    plt.ylabel('出现天数', fontsize=12)
+    # 绘制夜间风力分布
+    ax2 = plt.subplot(2, 1, 2)
+    for i, (level, color) in enumerate(zip(wind_order, colors)):
+        pos = months + i * bar_width
+        bars = ax2.bar(pos, night_counts[level], width=bar_width,
+                      color=color, label=level, alpha=0.8)
+        for bar in bars:
+            height = bar.get_height()
+            if height > 0:
+                ax2.text(bar.get_x() + bar.get_width()/2., height+0.3,
+                        f'{height}', ha='center', va='bottom', fontsize=9)
     
-    # 设置x轴刻度和标签
-    plt.xticks(months + bar_width * 1.5, [f'{m}月' for m in months])
-    max_day = day_wind_counts.max().max()
-    plt.ylim(0, max_day + 5)  # 设置y轴范围
-    
-    # 添加图例和网格
-    plt.legend(title='风力等级', fontsize=10, loc='upper left')
-    plt.grid(axis='y', linestyle='--', alpha=0.7)
-    
-    # 添加数据标签
-    for i, level in enumerate(wind_order):
-        positions = months + i * bar_width
-        for j, pos in enumerate(positions):
-            count = day_wind_counts[level].iloc[j]
-            if count > 0:  # 只显示非零值
-                plt.text(pos, count + 0.5, str(count), 
-                         ha='center', va='bottom', fontsize=9)
-    
-    # ========== 夜间风力分布子图 ==========
-    plt.subplot(2, 1, 2)  # 2行1列，第二个子图
-    
-    # 为每个风力等级绘制柱状图
-    for i, level in enumerate(wind_order):
-        # 计算每个柱子的位置
-        positions = months + i * bar_width
-        # 绘制柱状图
-        plt.bar(positions, night_wind_counts[level], width=bar_width, 
-                label=f'{level}', alpha=0.8)
-    
-    # 添加标题和标签
-    plt.title('大连市近三年夜间风力等级分布', fontsize=16)
-    plt.xlabel('月份', fontsize=12)
-    plt.ylabel('出现天数', fontsize=12)
-    
-    # 设置x轴刻度和标签
-    plt.xticks(months + bar_width * 1.5, [f'{m}月' for m in months])
-    max_night = night_wind_counts.max().max()
-    plt.ylim(0, max_night + 5)  # 设置y轴范围
-    
-    # 添加网格
-    plt.grid(axis='y', linestyle='--', alpha=0.7)
-    
-    # 添加数据标签
-    for i, level in enumerate(wind_order):
-        positions = months + i * bar_width
-        for j, pos in enumerate(positions):
-            count = night_wind_counts[level].iloc[j]
-            if count > 0:  # 只显示非零值
-                plt.text(pos, count + 0.5, str(count), 
-                         ha='center', va='bottom', fontsize=9)
+    ax2.set_title('夜间风力分布', fontsize=14, pad=10)
+    ax2.set_xlabel('月份', fontsize=12)
+    ax2.set_ylabel('出现天数', fontsize=12)
+    ax2.set_xticks(months + bar_width*1.5)
+    ax2.set_xticklabels([f'{m}月' for m in months], fontsize=10)
+    ax2.set_ylim(0, y_max)
+    ax2.grid(axis='y', linestyle=':', alpha=0.4)
     
     plt.tight_layout()
+    
     plt.show()
     
-    # 返回统计结果供参考
-    return day_wind_counts, night_wind_counts
+    return day_counts, night_counts
 
 # 天气类型标准化函数
 def standardize_weather(weather_str):
     weather_str = str(weather_str).strip()
     if('雨夹雪') in weather_str or '雨雪' in weather_str:
         return '雪天'
+    elif('雷') in weather_str:
+        return '雷雨天'
     elif '晴' in weather_str:
         return '晴天'
     elif '多云' in weather_str:
@@ -179,8 +178,8 @@ def standardize_weather(weather_str):
 data['白天天气'] = data['白天天气'].apply(standardize_weather)
 data['夜间天气'] = data['夜晚天气'].apply(standardize_weather)
 
-# 定义天气类型顺序
-weather_order = ['晴天', '多云', '阴天', '雨天', '雪天']
+weather_order = ['晴天', '多云', '阴天', '雨天', '雪天', '雷雨天']
+colors = ['#FFD700', '#87CEEB', '#A9A9A9', '#4682B4', '#B0E0E6', '#9370DB']
 
 def bar_weather_distribution(data):
     # 统计白天和夜晚天气分布
@@ -203,7 +202,6 @@ def bar_weather_distribution(data):
     # 设置柱状图参数
     bar_width = 0.12
     months = np.arange(1, 13)
-    colors = plt.cm.tab20(np.linspace(0, 1, len(weather_order)))
     
     # 绘制白天天气分布
     for i, weather in enumerate(weather_order):
@@ -238,6 +236,6 @@ def bar_weather_distribution(data):
 # 调用函数绘制温度变化趋势图
 plot_temperature(data)
 # 调用函数绘制风力分布图
-bar_wind_distribution(data)
+plot_wind_distribution(data)
 # 调用函数绘制天气分布图
 bar_weather_distribution(data)
