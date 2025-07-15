@@ -1,0 +1,1095 @@
+﻿排名,排名变化,姓名_中文,姓名_英文,年龄,性别,出生地_中文,出生地_英文,常住地_中文,教育程度,毕业院校,公司名称_中文,公司名称_英文,公司总部_中文,公司总部_英文,所在行业_中文,所在行业_英文,财富值_人民币_亿,财富值_美元_万,财富变化,财富来源,关系,年份
+1,4,张一鸣,Zhang Yiming,41,先生,中国-福建-龙岩,China-Fujian-Longyan,中国-北京,本科,南开,字节跳动,ByteDance,北京,Beijing,社交媒体,Social Media,3500.0,49300.0,43%,,未知,2024
+2,-1,钟睒睒,Zhong Shanshan,70,先生,中国-浙江-绍兴,,中国-浙江-杭州,,,养生堂,YST,浙江杭州,Zhejiang,饮料、医疗保健,"Drinks, Pharmaceuticals",3400.0,47900.0,-24%,,未知,2024
+3,-1,马化腾,Ma Huateng,53,先生,中国-海南,China-Hainan,中国-广东-深圳,本科,深圳大学,腾讯,Tencent,广东深圳,Guangdong,互联网服务,Internet Services,3150.0,44400.0,13%,,未知,2024
+4,-1,黄峥,Huang Zheng,44,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-上海,硕士,浙大、威斯康星大学,拼多多,Pinduoduo,上海长宁,Shanghai,购物网站,E-Commerce,2450.0,34500.0,-9%,,未知,2024
+5,3,何享健,He Xiangjian,82,先生,中国-广东-佛山,China-Guangdong-Foshan,中国-广东-佛山,,,美的,Midea,广东佛山,Guangdong,家电制造,Household Appliances,2350.0,33100.0,18%,,家族,2024
+6,-2,曾毓群,Zeng Yuqun,56,先生,中国-福建-宁德,China-Fujian-Ningde,中国-福建-宁德,博士,上交大、中科院,宁德时代,CATL,福建宁德,Fujian,锂电池,Battery Technology,2000.0,28200.0,-20%,,未知,2024
+6,0,丁磊,Ding Lei,53,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-浙江-杭州,本科,电子科技,网易,Netease,浙江杭州,Zhejiang,互联网技术,Internet Services,2000.0,28200.0,-17%,,未知,2024
+6,1,李嘉诚,Li Ka-shing,96,先生,中国-香港,China-Hong Kong,中国-香港,,,长江实业,Cheung Kong,香港,Hong Kong,投资,Investments,2000.0,28200.0,-5%,,父子,2024
+9,2,李兆基,Lee Shau Kee,96,先生,中国-广东-佛山,China-Guangdong-Foshan,中国-香港,,,恒基兆业,Henderson Land,香港,Hong Kong,房地产,Estate Holding,1750.0,24600.0,9%,,家族,2024
+10,0,马云,Ma Yun,60,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-杭州,本科,杭州师范学院,阿里系,Alibaba,浙江杭州,Zhejiang,电子商务、金融科技,"E-Commerce, Fintech",1650.0,23200.0,-3%,,家族,2024
+11,1,严昊,Yan Hao,38,先生,中国-江苏-淮安,China -Jiangsu - Huai’an,中国-江苏-南京,本科,南京师范大学,太平洋建设,China Pacific Construction,新疆乌鲁木齐,Xinjiang,基础建设,Roads,1450.0,20400.0,-3%,,未知,2024
+11,-2,李书福,Li Shufu,61,先生,中国-浙江-台州,China-Zhejiang-Taizhou,中国-浙江-杭州,博士,哈工大、燕山、哈工大,吉利,Geely,浙江杭州,Zhejiang,汽车制造,Car Manufacturing,1450.0,20400.0,-17%,,家族,2024
+11,5,张刚,Zhang Gang,43,先生,中国-山东-聊城,China -Shandong - Liaocheng,中国-山东-聊城,硕士,西北工业、澳大利亚中央昆士兰大学,信发铝电,Xinfalyudian,山东聊城,Shandong,电解铝、氧化铝,Aluminum,1450.0,20400.0,7%,,家族,2024
+14,0,李蔡美灵,Lee Choi Mei Ling,未知,先生,中国-香港,China-Hong Kong,中国-香港,,,李锦记,Lee Kun Kee,香港,Hong Kong,调味品,Food Processing,1400.0,19700.0,0%,,家族,2024
+14,0,吕向阳,Lyu Xiangyang,61,先生,中国-安徽-芜湖,China -Anhui - Wuhu,中国-广东-广州,,,融捷,Youngy,广东广州,Guangdong,投资,Investments,1400.0,19700.0,0%,,夫妇,2024
+16,-3,秦英林,Qin Yinglin,59,先生,中国-河南-南阳,China - Henan - Nanyang,中国-河南-南阳,本科,河南农业大学,牧原,Muyuan,河南南阳,Henan,畜牧,Pig Farming,1350.0,19000.0,-7%,,夫妇,2024
+16,81,赵长鹏,Zhao Changpeng,47,先生,中国-江苏-连云港,China-Jiangsu-Lianyungang,阿联酋迪拜,本科,麦吉尔大学,币安,Binance,美国,USA,虚拟货币交易所,Blockchain,1350.0,19000.0,200%,,未知,2024
+16,0,王传福,Wang Chuanfu,58,先生,中国-安徽-芜湖,China -Anhui - Wuhu,中国-广东-深圳,本科,中南,比亚迪,BYD,广东深圳,Guangdong,汽车、充电电池,"Automobile, New Energy",1350.0,19000.0,0%,,未知,2024
+19,15,雷军,Lei Jun,55,先生,中国-湖北-仙桃,China -Hubei - Fairy Peach,中国-北京,本科,武大,小米,Xiaomi,北京,Beijing,智能硬件与技术、投资,"IoT, Investments",1300.0,18300.0,38%,,未知,2024
+20,0,陈建华,Chen Jianhua,53,先生,中国-江苏-苏州,China-Jiangsu-Suzhou,中国-江苏-苏州,硕士,南京师范,恒力,Hengli,江苏苏州,Jiangsu,化纤、石化、房地产,"Textiles, Chemical Fiber, Real Estate",1250.0,17600.0,0%,,夫妇,2024
+20,6,张志东,Zhang Zhidong,52,先生,中国-广东-东莞,China-Guangdong-Dongguan,中国-广东-深圳,硕士,深圳、华南理工,腾讯,Tencent,广东深圳,Guangdong,互联网服务,Internet Services,1250.0,17600.0,14%,,未知,2024
+22,-4,刘永行,Liu Yongxing,76,先生,中国-四川-成都,China - Sichuan-Chengdu,中国-上海,博士,西华、恒生国际、美国波士顿,东方希望,East Hope,上海浦东,Shanghai,氧化铝、重化工、饲料,"Aluminium, Feed",1200.0,16900.0,-8%,,父子,2024
+23,-3,王卫,Wang Wei,54,先生,中国-上海,China-Shanghai,中国-香港,,,顺丰,SF,广东深圳,Guangdong,快递,Express Delivery,1100.0,15500.0,-12%,,未知,2024
+23,1,魏建军,Wei Jianjun,60,先生,中国-河北-保定,China-Hebei-Baoding,中国-河北-保定,,,长城,Great Wall Motor,河北保定,Hebei,汽车制造,Automobile,1100.0,15500.0,-8%,,夫妇,2024
+23,15,郑淑良,Zheng Shuliang,78,先生,中国-山东,China-Shandong,中国-山东-滨州,,,魏桥创业,Weiqiao Pioneering,山东滨州,Shandong,铝业、纺织,"Aluminum, Textiles",1100.0,15500.0,31%,,家族,2024
+26,1,李西廷,Li Xiting,73,先生,中国-安徽-宿州,China-Anhui-Ceju,新加坡,本科,中科大,迈瑞,Mindray,广东深圳,Guangdong,医疗器械,Pharmaceuticals,1000.0,14100.0,0%,,未知,2024
+27,-9,郑家纯,Henry Cheng Kar-shun,76,先生,中国-香港,China-Hong Kong,中国-香港,,,周大福,Chow Tai Fook,香港,Hong Kong,珠宝,Jewellery,950.0,13400.0,-27%,,家族,2024
+27,4,党彦宝,Dang Yanbao,51,先生,,,中国-宁夏-吴忠,本科,宁夏,宝丰,Baofeng Energy,宁夏银川,Ningxia,煤化工,Coal Chemical,950.0,13400.0,0%,,未知,2024
+27,0,徐航,Xu Hang,62,先生,中国-广东-广州,China-Guangdong-guangzhou,中国-广东-深圳,本科,清华,迈瑞、鹏瑞,"Mindray, Parkland",广东深圳,Guangdong,医疗器械、房地产,"Health Tech, Real Estate",950.0,13400.0,-5%,,未知,2024
+30,36,郭台铭,Terry Guo Tai-Ming,74,先生,中国-台湾-新北,China-Taiwan-New North,中国-台湾-台北,,,鸿海,Hon Hai,台湾台北,Taiwan,电子制造,Manufacturing,930.0,13100.0,55%,,未知,2024
+30,-3,吴光正,Peter Woo Kwong-ching,78,先生,中国-上海,China-Shanghai,中国-香港,,,会德丰,Wheelock,香港,Hong Kong,房地产,Estate Holding,930.0,13100.0,-7%,,家族,2024
+32,3,刘銮雄,Joseph Lau Luen Hung,73,先生,中国-香港,China-Hong Kong,中国-香港,,,华人置业,Chinese Estates,香港,Hong Kong,房地产,Estate Holding,910.0,12800.0,-1%,,家族,2024
+33,-8,黄世霖,Huang Shilin,57,先生,中国-福建-宁德,China-Fujian-Ningde,中国-福建-宁德,本科,合肥工业大学,宁德时代,CATL,福建宁德,Fujian,锂电池,Battery Technology,890.0,12500.0,-23%,,未知,2024
+34,-14,王兴,Wang Xing,45,先生,中国-福建-龙岩,China-Fujian-Longyan,中国-北京,本科,清华,美团,Meituan,北京,Beijing,生活服务,Life Service,885.0,12500.0,-29%,,未知,2024
+35,5,庞康,Pang Kang,68,先生,中国-广东-佛山,China-Guangdong-Foshan,中国-广东-佛山,本科,,海天味业,Haitian,广东佛山,Guangdong,调味品,Food Flavorings,870.0,12300.0,9%,,未知,2024
+36,4,孙大卫,David Sun,73,先生,中国-台湾-台北,China-Taiwan-Taipei,美国-洛杉矶,,,金士顿科技,Kingston Technology,美国洛杉矶,Los Angeles,半导体,Semiconductors,850.0,12000.0,6%,,未知,2024
+36,4,杜纪川,John Tu,83,先生,中国-重庆,China-Chongqing,美国-洛杉矶,,,金士顿科技,Kingston Technology,美国洛杉矶,Los Angeles,半导体,Semiconductors,850.0,12000.0,6%,,未知,2024
+38,-2,林立,Lin Li,61,先生,中国-广东-河源,China-Guangdong-Heyuan,中国-广东-深圳,硕士,湖北工,立业,Liye,广东深圳,Guangdong,投资,Investments,810.0,11400.0,-10%,,未知,2024
+38,-7,宗馥莉,Zong Fuli,未知,女士,,,中国-浙江-杭州,,,娃哈哈,Wahaha,浙江杭州,Zhejiang,饮料,Drinks,810.0,11400.0,-15%,,未知,2024
+40,-20,吕志和,Lui Che Woo,95,先生,中国-香港,China-Hong Kong,中国-香港,,,银河,Galaxy Entertainment,香港,Hong Kong,博彩,Gaming,800.0,11300.0,-36%,,家族,2024
+40,-13,严彬,Yan Bin,70,先生,中国-河南-新乡,China -Henan-New Township,中国-北京,,,华彬,Reignwood,北京,Beijing,饮料、地产,Food & Beverages,800.0,11300.0,-20%,,未知,2024
+42,69,钟慧娟,Zhong Huijuan,63,女士,,,中国-上海,,,翰森,Hansoh,江苏连云港,Jiangsu,医药,Pharmaceuticals,770.0,10800.0,83%,,未知,2024
+43,1,李泽楷,Richard Li Tzar Kai,58,先生,中国-香港,China-Hong Kong,中国-香港,,,电讯盈科,PCCW,香港,Hong Kong,电信,Telecommunications,750.0,10600.0,-3%,,未知,2024
+44,11,蔡浩宇,Cai Haoyu,37,先生,中国-山东-济南,China-Shandong-Jinan,中国-上海,,,米哈游,Mihoyo,上海,Shanghai,游戏,Online games,730.0,10300.0,9%,,未知,2024
+45,26,张聪渊,Zhang Congyuan,76,先生,中国-台湾-桃园,China-Taiwan-Taoyuan,中国-广东-中山,,,华利实业,Huali Industrial,广东中山,Guangdong,鞋业,Footwear,720.0,10100.0,24%,,家族,2024
+46,-15,刘汉元,Liu Hanyuan,60,先生,中国-四川-眉山,China - Sichuan-Meishan,中国-四川-成都,,,通威,Tongwei,四川成都,Sichuan,新能源、农业,"New Energy, Agriculture",700.0,9860.0,-26%,,夫妇,2024
+47,12,林百里,Barry Lin Bai-Li,75,先生,中国-上海,China-Shanghai,中国-台湾-桃园,,,广达电脑,Quanta Computer,台湾桃园,Taiwan,消费电子产品,Consumer and Industry Electronics,695.0,9790.0,10%,,家族,2024
+48,-11,刘永好,Liu Yonghao,73,先生,中国-四川-成都,China - Sichuan-Chengdu,中国-四川-成都,,,新希望,New Hope,四川成都,Sichuan,农业、化工、金融,"Agriculture, Finance",690.0,9720.0,-20%,,家族,2024
+49,37,蔡崇信,Joseph Tsai Chung-Hsin,60,先生,中国-台湾,China-Taiwan,中国-香港,,,阿里系,Alibaba,浙江杭州,Zhejiang,电子商务、金融科技,"E-Commerce, Fintech",680.0,9580.0,42%,,未知,2024
+50,0,陈东升,Chen Dongsheng,67,先生,中国-湖北-荆门,China -Hubei - Jingmen,中国-北京,博士,武大、武大,泰康,Taikang,北京,Beijing,保险,Insurance,670.0,9440.0,-4%,,家族,2024
+50,94,项光达,Xiang Guangda,66,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-浙江-温州,,,青山控股,Tsingshan,浙江温州,Zhejiang,钢铁,Steel,670.0,9440.0,97%,,未知,2024
+50,9,于泳,Yu Yong,未知,先生,,,中国-上海,,,鸿商产业,Cathay Fortune,上海浦东,Shanghai,钼矿,Molybdenum Minerals,670.0,9440.0,6%,,未知,2024
+50,35,张国华,Chang Kuo-Hua,69,先生,中国-台湾-台北,China-Taiwan,中国-台湾-台北,,,长荣集团,Evergreen,台湾台北,Taiwan,物流、钢铁,"Logistics,Iron",670.0,9440.0,38%,,家族,2024
+54,-8,邝肖卿,Kwong Siu Hing,95,女士,中国-香港,China-Hong Kong,中国-香港,,,新鸿基,Sun Hung Kai,香港,Hong Kong,房地产,Estate Holding,665.0,9370.0,-8%,,未知,2024
+55,9,孙飘扬,Sun Piaoyang,66,先生,中国-江苏-镇江,China-Jiangsu-Jiang,中国-上海,硕士,中国药科、南大,恒瑞,Hengrui,江苏连云港,Jiangsu,医药,Pharmaceuticals,650.0,9150.0,7%,,未知,2024
+56,36,周群飞,Zhou Qunfei,54,女士,中国-湖南-湘潭,China-Hunan-Xiangtan,中国-湖南-长沙,,,蓝思科技,Lens,湖南长沙,Hunan,电子器件制造,Manufacturing,635.0,8940.0,40%,,夫妇,2024
+57,19,王来胜,Wang Laisheng,60,先生,中国-广东-汕头,China-Guangdong-Shantou,中国-广东-深圳,,,立讯精密,Luxshare Precision,广东深圳,Guangdong,消费电子,Consumer Electronics,630.0,8870.0,17%,,父女,2024
+57,9,徐浩宇,Xu Haoyu,52,先生,中国-江苏-泰州,China-Jiangsu-Taizhou,中国-江苏-泰州,,,扬子江药业,Yangtze River Pharmacy,江苏泰州,Jiangsu,医药,Pharmaceuticals,630.0,8870.0,5%,,家族,2024
+59,18,王来春,Wang Laichun,57,女士,中国-广东-汕头,China-Guangdong-Shantou,中国-广东-深圳,,,立讯精密,Luxshare Precision,广东深圳,Guangdong,消费电子,Consumer Electronics,620.0,8730.0,17%,,未知,2024
+59,-1,朱保国,Zhu Baoguo,62,先生,中国-河南-新乡,China - Henan - Xinxiang,中国-广东-深圳,硕士,河南师范、中央党校,健康元,Joint Care,广东深圳,Guangdong,医药,Pharmaceuticals,620.0,8730.0,-3%,,家族,2024
+61,-14,龚虹嘉,Gong Hongjia,59,先生,,,中国-香港,本科,华中科技,海康威视,Hikvision,浙江杭州,Zhejiang,视频监控产品,Video Surveillance Products,615.0,8660.0,-13%,,夫妇,2024
+62,17,岑均达,Cen Junda,未知,先生,,,中国-江苏-连云港,,,恒瑞、翰森,"Hengrui, Hansoh",江苏连云港,Jiangsu,医药,Pharmaceuticals,610.0,8590.0,22%,,未知,2024
+63,-16,梁稳根,Liang Wengen,68,先生,中国-湖南-娄底,China-Hunan-Yandi,中国-湖南-长沙,本科,中南,三一,Sany,北京,Beijing,重型机械,Heavy Machinery,600.0,8450.0,-15%,,父子,2024
+63,12,王玉锁,Wang Yusuo,60,先生,中国-河北-廊坊,China-Hebei-Langfang,中国-河北-廊坊,硕士,人大、天津财经,新奥,ENN,河北廊坊,Hebei,天然气、能源化工,"Gas, Energy",600.0,8450.0,9%,,夫妇,2024
+65,12,陈天桥,Chen Tianqiao,51,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,新加坡,本科,复旦,盛大,Shanda,上海浦东,Shanghai,投资,Investments,590.0,8310.0,11%,,夫妇,2024
+65,-18,汪俊林,Wang Junlin,62,先生,中国-四川-眉山,China - Sichuan - Meishan,中国-四川-成都,本科,泸州医,郎酒,Langjiu,四川成都,Sichuan,白酒,Liquor,590.0,8310.0,-17%,,未知,2024
+67,6,杜双华,Du Shuanghua,59,先生,中国-河北-衡水,China-Hebei-Hengshui,中国-山东-日照,,,日照钢铁,Rizhao Iron and Steel,山东日照,Shandong,钢铁,Steel,575.0,8100.0,1%,,未知,2024
+68,3,陈丽华,Chen Lihua,83,女士,中国-北京,China-Beijing,中国-北京,博士,美国佐治亚州萨凡那艺术设计学院荣誉博士,富华,Fu Wah,北京,Beijing,房地产、紫檀博物馆,"Real Estate, Red Sandalwood Museum",550.0,7750.0,-5%,,未知,2024
+68,-15,李水荣,Li Shuirong,68,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,,,荣盛控股,RongSheng,浙江杭州,Zhejiang,化纤,Chemical Fibres,550.0,7750.0,-19%,,未知,2024
+70,-25,张勇,Zhang Yong,53,先生,中国-四川-成都,China - Sichuan-Chengdu,新加坡,,,海底捞,HaiDiLao,北京,Beijing,餐饮,Restaurants,540.0,7610.0,-28%,,夫妇,2024
+71,-32,李彦宏,Li Yanhong,56,先生,中国-山西-阳泉,China -Shanxi - Yangquan,中国-北京,硕士,北大、布法罗纽约州立,百度,Baidu,北京,Beijing,网络信息服务,Internet Information Services,525.0,7390.0,-36%,,夫妇,2024
+72,-6,刘强东,Liu Qiangdong,50,先生,中国-江苏-宿迁,China-Jiangsu-Cebu,中国-北京,本科,人大,京东,JD,北京,Beijing,电子商务、金融,"E-Commerce, Financial Services",520.0,7320.0,-13%,,夫妇,2024
+72,14,曹仁贤,Cao Renxian,56,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-安徽-合肥,硕士,,阳光电源,Sungrow Power Supply,安徽合肥,Anhui,光伏设备,Electric Equipment and Machinery,520.0,7320.0,8%,,夫妇,2024
+74,34,林木勤,Lin Muqin,60,先生,中国-广东-深圳,China-Guangdong-Shenzhen,中国-广东-深圳,,,东鹏饮料,Eastroc Beverage,广东深圳,Guangdong,食品饮料,Food & Beverages,510.0,7180.0,17%,,父子,2024
+74,114,朱义,Zhu Yi,61,先生,,,中国-成都,,,百利天恒,Biokin Pharmaceutical,四川成都,Sichuan,医药,Pharmaceuticals,510.0,7180.0,89%,,未知,2024
+76,-12,汪立平,Wang Liping,58,先生,中国-江苏-无锡,China-Jiangsu-Wuxi,中国-江苏-常州,,,恒立液压,Hengli Hydraulic,江苏常州,Jiangsu,高压油缸,Oil Cylinder,500.0,7040.0,-18%,,家族,2024
+76,3,许仰天,Xu Yangtian,40,先生,山东-淄博,China-Shandong,中国-广东-广州,,青岛科技大学-本科,希音,Shein,广东广州,Guangdong,电商,E-Commerce,500.0,7040.0,0%,,未知,2024
+76,13,严昕,Yan Xin,41,女士,中国-江苏-淮安,China-Jiangsu-Huai'an,中国-江苏-淮安,,,苏商,Susun,上海,Shanghai,基础设施建设,Roads,500.0,7040.0,6%,,未知,2024
+79,-22,吴亚军,Wu Yajun,60,女士,中国-重庆,China-Chongqing,中国-北京,本科,西北工业,龙湖,Longfor,北京,Beijing,房地产,Real Estate,490.0,6900.0,-26%,,家族,2024
+79,-13,罗立国,Luo Liguo,68,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-浙江-宁波,,,合盛,Hoshine,浙江宁波,Zhejiang,硅材料,Silicon,490.0,6900.0,-18%,,家族,2024
+79,61,林斌,Lin Bin,56,先生,,,中国-北京,硕士,中山大学、Drexel Universit,小米,Xiaomi,北京,Beijing,智能硬件与技术,IoT,490.0,6900.0,42%,,未知,2024
+82,-19,裴振华,Pei Zhenhua,未知,先生,,,中国-江苏-苏州,,,天华超净,Canmax,江苏苏州,Jiangsu,超净产品,Industrial Products,480.0,6760.0,-23%,,夫妇,2024
+82,9,许世辉,Xu Shihui,67,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-泉州,,,达利食品,Dali Foods,福建泉州,Fujian,食品,Food,480.0,6760.0,4%,,家族,2024
+84,56,蔡明兴,Richard Tsai Ming-Hsing,67,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,富邦,Fubon,台湾台北,Taiwan,金融服务,Financial Services,460.0,6480.0,33%,,家族,2024
+84,-44,陈邦,Chen Bang,59,先生,中国-湖南-长沙,China-Hunan-Changsha,中国-湖南-长沙,硕士,,爱尔眼科,Aier Ophthalmology,湖南长沙,Hunan,医疗服务,Medical Services,460.0,6480.0,-43%,,未知,2024
+86,-2,黄楚龙,Huang Chulong,65,先生,中国-广东-揭阳,China-Guangdong-Jieyang,中国-广东-深圳,,,星河,Galaxy,广东深圳,Guangdong,房地产、投资,"Real Estate, Investments",450.0,6340.0,-8%,,家族,2024
+86,-31,李华,Li Hua,58,先生,中国-四川,China - Sichuan,中国-广东-深圳,本科,华南理工,卓越,Excellence,广东深圳,Guangdong,房地产,Real Estate,450.0,6340.0,-33%,,未知,2024
+88,67,蔡明忠,Daniel Tsai Ming-Chung,68,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,富邦,Fubon,台湾台北,Taiwan,金融服务,Financial Services,440.0,6200.0,38%,,家族,2024
+88,42,谢青,Ken Xie,未知,先生,中国-北京,China-Beijing,美国-旧金山,硕士,斯坦福大学,飞塔,Fortinet,美国旧金山,San Francisco,网路安全,Network Security,440.0,6200.0,24%,,未知,2024
+90,23,米高·嘉道理,Michael Kadoorie,83,先生,中国-香港,China-Hong Kong,中国-香港,,,中电,CLP,香港,Hong Kong,能源,Energy,435.0,6130.0,6%,,家族,2024
+90,2,李天颖,Wendy Lee,未知,先生,中国-香港,China-Hong Kong,中国-香港,,,新鸿基,Sun Hung Kai,香港,Hong Kong,房地产,Estate Holding,435.0,6130.0,-4%,,家族,2024
+92,38,张虔生,Jason Chang CS,80,先生,中国-台湾,China-Taiwan,中国-台湾-高雄,,,日月光,ASE,台湾高雄,Taiwan,工业品、房地产,"Industrial Products, Real Estate",430.0,6060.0,21%,,家族,2024
+92,5,陈贤哲,Chen Shyan Tser,71,先生,中国-台湾,,中国-台湾-台北,,,北极星,Polaris,台湾台北,Taiwan,投资,Investments,430.0,6060.0,-4%,,家族,2024
+94,8,虞仁荣,Yu Renrong,58,先生,,,中国-上海,本科,清华,韦尔股份,Will,上海浦东,Shanghai,半导体,Semiconductors,425.0,5990.0,-4%,,未知,2024
+95,55,蔡宏图,Tsai Hong-Tu,72,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,霖园,Lin Yuan,台湾台北,Taiwan,金融服务,Financial Services,420.0,5920.0,29%,,家族,2024
+95,-9,杨惠妍,Yang Huiyan,43,女士,中国-广东-佛山,China-Guangdong-Foshan,中国-广东-佛山,本科,俄亥俄州立,碧桂园,Country Garden,广东佛山,Guangdong,投资、房地产、教育,"Investments, Real Estate, Education",420.0,5920.0,-13%,,家族,2024
+97,-38,沈国军,Shen Guojun,62,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-北京,硕士,中南财经,银泰,Yintai,北京,Beijing,零售、房地产、物流,"Retail, Real Estate, Logistics",415.0,5850.0,-34%,,家族,2024
+97,26,宋建波,Song Jianbo,54,先生,中国-山东-烟台,China-Shandong,中国-山东-烟台,,,南山,Nanshan,山东烟台,Shandong,铝业、纺织、房地产,"Aluminium, Apparel, Real Estate",415.0,5850.0,11%,,家族,2024
+99,6,鲁伟鼎,Lu Weiding,53,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-杭州,,,万向,Wanxiang,浙江杭州,Zhejiang,汽车制造业、房地产、农业,"Car parts, real estate, agriculture",410.0,5770.0,-7%,,家族,2024
+99,-33,其实,Qi Shi,54,先生,中国-上海,China-Shanghai,中国-上海,博士,上交大、复旦,东方财富,Eastmoney,上海徐汇,Shanghai,信息服务,Data Services,410.0,5770.0,-32%,,家族,2024
+99,6,阮立平,Ruan Liping,60,先生,,,中国-宁波,,,公牛,Gong Niu Group,浙江宁波,Zhejiang,插座,Power Strip,410.0,5770.0,-7%,,未知,2024
+99,66,霍斯特·帕德威尔,Horst Julius Pudwill,79,先生,中国-香港,China-Hong Kong,中国-香港,,,创科实业,TTI,香港,Hong Kong,消费品,Consumer Goods,410.0,5770.0,34%,,家族,2024
+103,-44,方威,Fang Wei,51,先生,中国-辽宁-沈阳,China-Liaoning-Shenyang,中国-北京,,,方大,Fangda,北京,Beijing,碳素、钢铁、煤焦,"Carbon, Steel, Coal",405.0,5700.0,-36%,,未知,2024
+103,2,阮学平,Ruan Xueping,52,先生,,,中国-宁波,,,公牛,Gong Niu Group,浙江宁波,Zhejiang,插座,Power Strip,405.0,5700.0,-8%,,未知,2024
+103,-11,朱孟依,Zhu Mengyi,65,先生,中国-广东-梅州,China-Guangdong-Meizhou,中国-广东-广州,,,合生创展,Hopson,广东广州,Guangdong,房地产、投资,Real Estate,405.0,5700.0,-11%,,家族,2024
+103,-50,蒋仁生,Jiang Rensheng,71,先生,中国-广西-桂林,China-Guangxi-Guilin,中国-重庆,,,智飞生物,Zhifei,重庆,Chongqing,疫苗,Vaccines,405.0,5700.0,-40%,,家族,2024
+107,-28,赖海民,Lai Haimin,58,先生,中国-广东-揭阳,China-Guangdong-Jieyang,中国-广东-深圳,,,鸿荣源,Horoy,广东深圳,Guangdong,房地产,Real Estate,400.0,5630.0,-20%,,未知,2024
+107,-5,丁世忠,Ding Shizhong,54,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-厦门,,,安踏,Anta,福建厦门,Fujian,体育用品,Sportswear,400.0,5630.0,-10%,,未知,2024
+107,19,刘伟,Liu Wei,37,先生,,,中国-上海,,,米哈游,Mihoyo,上海,Shanghai,游戏,Online games,400.0,5630.0,8%,,未知,2024
+107,11,苏海文,Helmut Sohmen,83,先生,奥地利,Austria,中国-香港,,,BW,BW Group,香港,Hong Kong,物流,Logistics,400.0,5630.0,4%,,家族,2024
+107,2,蔡衍明,Tsai Eng-Meng,67,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-台北,,,旺旺,Want Want,台湾台北,Taiwan,食品和饮料,Food & Beverages,400.0,5630.0,-7%,,家族,2024
+112,201,王旭宁,Wang Xuning,55,先生,中国-北京,China-Beijing,中国-上海,硕士,北交大、中欧,JS环球生活,JS Global Life,香港,Hong Kong,小家电,Household Appliances,395.0,5560.0,126%,,未知,2024
+113,46,谢华,Michael Xie,未知,先生,中国-北京,China-Beijing,美国-旧金山,硕士,曼尼托巴大学,飞塔,Fortinet,美国旧金山,San Francisco,网路安全,Network Security,390.0,5490.0,24%,,未知,2024
+114,-35,李平,Li Ping,56,先生,,,中国-福建-宁德,本科,复旦,宁德时代,CATL,福建宁德,Fujian,锂电池,Battery Technology,385.0,5420.0,-23%,,未知,2024
+114,53,蔡政达,Tsai Cheng-Ta,未知,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,霖园,Lin Yuan,台湾台北,Taiwan,金融服务,Financial Services,385.0,5420.0,28%,,家族,2024
+116,68,曾芳勤,Zeng Fangqin,59,女士,,,中国-广东-深圳,,,领益智造,Lingyi Itech,广东江门,Guangdong,消费电子精密件,Electronic Components,380.0,5350.0,38%,,未知,2024
+116,21,罗宇皓,Luo Yuhao,37,先生,,,中国-上海,,,米哈游,Mihoyo,上海,Shanghai,游戏,Online games,380.0,5350.0,9%,,未知,2024
+116,2,沈彬,Shen Bin,未知,未知,中国-浙江-杭州,Jiangsu,江苏苏州,本科,中国地址大学,沙钢,Sha Steel,江苏苏州,Jiangsu,钢铁,Steel,380.0,5350.0,-1%,,未知,2024
+116,-6,丁世家,Ding Shijia,60,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-厦门,,,安踏,Anta,福建厦门,Fujian,体育用品,Sportswear,380.0,5350.0,-11%,,未知,2024
+120,10,谢炳,Xie Bing,72,先生,中国-广东-汕头,China-Guangdong-Shantou,中国-香港,,,中生制药,Sino Biopharmaceutical,北京,Beijing,医药,Pharmaceuticals,375.0,5280.0,6%,,家族,2024
+120,154,李小冬,Forrest Xiaodong Li,46,先生,,,新加坡,,,冬海集团,Sea,新加坡,Singapore,网络游戏、电商,"Online Games, E-Commerce",375.0,5280.0,92%,,未知,2024
+122,-20,马建荣,Ma Jianrong,59,先生,中国-浙江,China-Zhejiang,中国-浙江-宁波,,,申洲针织,Shenzhou,浙江宁波,Zhejiang,纺织、服装,Textiles,370.0,5210.0,-17%,,家族,2024
+122,40,高德康,Gao Dekang,72,先生,中国-江苏-苏州,China-Jiangsu-Suzhou,中国-江苏-苏州,,,波司登,Bosideng,江苏苏州,Jiangsu,服装,Apparel,370.0,5210.0,19%,,家族,2024
+122,8,修涞贵,Xiu Laigui,69,先生,中国-吉林,China- Jilin,中国-吉林-长春,本科,吉大,修正药业,Xiuzheng,吉林长春,Jilin,医药,Pharmaceuticals,370.0,5210.0,4%,,夫妇,2024
+125,-51,邬建树,Wu Jianshu,60,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-浙江-宁波,,,拓普,Tuopu,浙江宁波,Zhejiang,汽车零部件制造,Automobile parts,360.0,5070.0,-36%,,未知,2024
+126,-4,陈发树,Chen Fashu,63,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-福州,,,新华都,Xinhuadu,福建福州,Fujian,医药、零售、投资,"Retail, Pharmaceuticals, Investments",355.0,5000.0,-7%,,未知,2024
+126,4,黄如论,Huang Rulun,73,先生,中国-福建-福州,China-Fujian-Fuzhou,中国-北京,,,世纪金源,Century Golden Resources,北京,Beijing,房地产,Real Estate,355.0,5000.0,0%,,家族,2024
+128,-10,赖梅松,Lai Meisong,54,先生,,,中国-上海,,,中通,ZTO,上海青浦,Shanghai,物流,Logistics,350.0,4930.0,-9%,,未知,2024
+128,-49,汪滔,Wang Tao,44,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-广东-深圳,本科,香港科技,大疆,DJI,广东深圳,Guangdong,无人机,Drones,350.0,4930.0,-30%,,未知,2024
+128,77,张和君,Zhang Hejun,72,先生,,,中国-浙江-宁波,,,德业股份,Deye Technology,浙江宁波,Zhejiang,电器零部件制造,Electrical machinery ,350.0,4930.0,40%,,未知,2024
+131,-3,朱艳,Zhu Yan,53,先生,中国-陕西-渭南,China-Shaanxi,中国-北京,,,贝壳,KE,北京,Beijing,房地产服务,Real Estate Service,340.0,4790.0,-7%,,家族,2024
+132,30,陈志列,Chen Zhilie,61,先生,中国-江苏-无锡,China-Jiangsu-Wuxi,中国-广东-深圳,硕士,西北工业,研祥,Evoc,广东深圳,Guangdong,特种计算机,Intelligent Devices,335.0,4720.0,8%,,夫妇,2024
+132,-82,李想,Li Xiang,43,先生,,,中国-北京,,,理想汽车,Li Auto,北京,Beijing,新能源汽车,E-cars,335.0,4720.0,-52%,,未知,2024
+132,142,张忠谋,Morris Chang Chung-Mou,93,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-台湾-新竹,,,台积电,TSMC,台湾新竹,Taiwan,半导体,Semiconductors,335.0,4720.0,72%,,未知,2024
+135,-43,刘金成,Liu Jincheng,60,先生,中国-湖北-武汉,China -Hubei-Wuhan,中国-广东-惠州,硕士,武大,亿纬锂能,EVE Energy,广东惠州,Guangdong,锂电池,Lithium Battery,330.0,4650.0,-27%,,夫妇,2024
+135,11,张志祥,Zhang Zhixiang,57,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-北京,本科,浙江工业,建龙,Jianlong,北京,Beijing,钢铁、矿业、船运,"Steel, Mining, Shipbuilding",330.0,4650.0,-1%,,未知,2024
+137,22,林张素娥,Lin Chang Su-E,未知,先生,,,中国-台湾-台北,,,联邦,Liberty Times,台湾台北,Taiwan,房地产、金融,"Real Estate, Financial Services",325.0,4580.0,3%,,家族,2024
+137,-7,史玉柱,Shi Yuzhu,62,先生,中国-安徽-蚌阜,China-Anhui-Yu,中国-上海,本科,浙大,巨人,Giant,上海松江,Shanghai,金融、在线游戏、投资,"Finance, online games, Investments",325.0,4580.0,-8%,,父女,2024
+137,-40,李革,Li Ge,57,先生,中国-北京,China-Beijing,中国-上海,,,药明康德,Wuxi Pharma Tech,上海浦东,Shanghai,医药,Pharmaceuticals,325.0,4580.0,-28%,,未知,2024
+140,150,陈天石,Chen Tianshi,39,先生,,,中国-北京,,,寒武纪,Cambricon,北京,Beijing,人工智能芯片,AI Chips,320.0,4510.0,73%,,未知,2024
+140,-14,胡凯军,Hu Kaijun,62,先生,,,中国-北京,,,远大,Grand Enterprises,北京,Beijing,医药,Pharmaceuticals,320.0,4510.0,-14%,,未知,2024
+140,-43,何小鹏,He Xiaopeng,47,先生,中国-湖北-黄石,China -Hubei - Yellowstone,中国-广东-广州,本科,华南理工,小鹏汽车,Xpeng Motors,广东广州,Guangdong,新能源汽车,E-cars,320.0,4510.0,-29%,,未知,2024
+143,12,陈金霞,Chen Jinxia,56,女士,中国-上海,China-Shanghai,中国-上海,硕士,上财、人大,涌金投资,Yongjin,上海浦东,Shanghai,医药、投资,"Pharmaceutical, Investments",315.0,4440.0,-2%,,未知,2024
+144,21,何超琼,Pansy Ho Chiu-king,62,女士,中国-香港,China-Hong Kong,中国-香港,,,信德、美高梅中国,"Shun Tak, MGM China",香港,Hong Kong,博彩,Gaming,310.0,4370.0,2%,,未知,2024
+145,-30,施永宏,Shi Yonghong,54,先生,中国-四川-成都,China - Sichuan-Chengdu,中国-北京,,,海底捞,Haidilao,北京,Beijing,餐饮,Restaurants,305.0,4300.0,-22%,,夫妇,2024
+145,5,郭炳联,Raymond Kwok,72,先生,中国-香港,China-Hong Kong,中国-香港,,,新鸿基,Sun Hung Kai,香港,Hong Kong,房地产,Estate Holding,305.0,4300.0,-6%,,家族,2024
+145,5,郭基辉,Adam Kwok Kai-fai,41,先生,中国-香港,China-Hong Kong,中国-香港,,,新鸿基,Sun Hung Kai,香港,Hong Kong,房地产,Estate Holding,305.0,4300.0,-6%,,家族,2024
+148,19,董建成,Tung Chee Chen,81,先生,中国-上海,China-Shanghai,中国-香港,,,东方海外,OOCL,香港,Hong Kong,运输,Transportation,300.0,4230.0,0%,,家族,2024
+148,40,沈南鹏,Shen Nanpeng,57,先生,中国-浙江-嘉兴,China-Zhejiang-Jiaxing,中国-香港,硕士,上交大、耶鲁,红杉,Sequoia,北京,Beijing,投资,Investments,300.0,4230.0,11%,,未知,2024
+148,-34,林建华,Lin Jianhua,62,先生,中国-福建,China-Fujian,中国-浙江-杭州,本科,,福斯特,First,浙江杭州,Zhejiang,光伏材料,Photovoltaic,300.0,4230.0,-25%,,夫妇,2024
+148,-25,刘益谦,Liu Yiqian,61,先生,中国-上海,China-Shanghai,中国-上海,,,新理益,Sunline,上海浦东,Shanghai,投资,Investments,300.0,4230.0,-20%,,家族,2024
+148,36,程雪,Cheng Xue,54,女士,中国-江苏-盐城,China - Jiangsu - Yancheng,中国-广东-佛山,本科,,海天味业,Haitian,广东佛山,Guangdong,调味品,Food Flavorings,300.0,4230.0,9%,,未知,2024
+148,51,杨建文,Yeung Kin Man,71,先生,中国-香港,China-Hong Kong,中国-香港,,,伯恩光学,Biel Crystal Manufactory,香港,Hong Kong,工业产品,Industrial Products,300.0,4230.0,15%,,家族,2024
+148,0,易峥,Yi Zhen,54,先生,中国-北京,China-Beijing,中国-浙江-杭州,本科,浙大,同花顺,Hithink RoyalFlush,浙江杭州,Zhejiang,软件,Software,300.0,4230.0,-9%,,未知,2024
+155,0,陈凯旋,Chen Kaixuan,66,先生,中国-广东-揭阳,China-Guangdong-Jieyang,中国-广东-广州,,,立白,Liby,广东广州,Guangdong,日化用品,Personal Care,295.0,4150.0,-8%,,家族,2024
+155,33,辜仲立,Andre Koo Chung-Li,57,先生,中国-台湾-台北,,中国-台湾-台北,,,中信金控,CTBC,台湾台北,Taiwan,金融服务,Financial Services,295.0,4150.0,9%,,家族,2024
+157,-42,蔡奎,Cai Kui,63,先生,中国-四川-资阳,China -Sichuan-Ziyang,中国-香港,本科,南航,龙湖,Longfor,北京,Beijing,房地产,Real Estate,290.0,4080.0,-26%,,家族,2024
+157,22,蔡志明,Francis Choi Chee Ming,79,先生,中国-广东-揭阳,China-Guangdong-Jieyang,中国-香港,,,旭日国际,Early Light International,香港,Hong Kong,玩具,Toys,290.0,4080.0,4%,,未知,2024
+157,17,米恩华,Mi Enhua,66,先生,中国-山东-泰安,China-Shandong-Tai’an,中国-新疆-乌鲁木齐,,,华凌工贸,Hualing,新疆乌鲁木齐,Xinjiang,地产、畜牧,"Real estate, Animal Husbandry",290.0,4080.0,2%,,家族,2024
+157,-68,王健林,Wang Jianlin,70,先生,中国-四川-绵阳,China - Sichuan - Mianyang,中国-北京,本科,辽大,万达,Wanda,北京,Beijing,房地产、文化,"Real Estate, Media & Entertainment",290.0,4080.0,-38%,,家族,2024
+157,-17,吴向东,Wu Xiangdong,54,先生,中国-湖南-株洲,China-Hunan-Zhuzhou,中国-北京,,,华泽,Huaze,北京,Beijing,酒业、投资,"Wine, Investments",290.0,4080.0,-16%,,未知,2024
+157,57,杨绍鹏,Yang Shaopeng,68,先生,中国-山东-青岛,China-Shandong-Qingdao,中国-上海,,,海丰,SITC Maritime,香港,Hong Kong,航运,Shipping,290.0,4080.0,21%,,未知,2024
+157,17,尤小平,You Xiaoping,66,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-浙江-温州,,,华峰,Huafeng,浙江温州,Zhejiang,化工、铝业、投资,"Chemical, Aluminum, Investments",290.0,4080.0,2%,,家族,2024
+164,-20,郭广昌,Guo Guangchang,57,先生,中国-浙江-金华,China-Zhejiang-Jinhua,中国-上海,硕士,复旦、复旦,复星,Fosun,上海黄浦,Shanghai,投资,Investments,285.0,4010.0,-16%,,未知,2024
+164,6,赵涛,Zhao Tao,58,先生,中国-陕西-西安,China-Shanxi-Xi’an,中国-北京,硕士,西安医科、美国福坦莫大学,步长,Buchang,北京,陕西,医药,Pharmaceuticals,285.0,4010.0,-3%,,家族,2024
+164,-27,陈华,Chen Hua,58,先生,中国-广东-湛江,China-Guangdong-Zhanjiang,中国-广东-深圳,,,京基,Kingkey,广东深圳,Guangdong,房地产、投资,Real Estate,285.0,4010.0,-19%,,家族,2024
+164,116,蔡明介,Tsai Ming-Kai,74,先生,中国-台湾,China-Taiwan,中国-台湾-新竹,,,联发科技,Media Tek,台湾新竹,Taiwan,半导体,Semiconductors,285.0,4010.0,50%,,家族,2024
+168,-9,孙广信,Sun Guangxin,62,先生,中国-新疆-乌鲁木齐,China-Xinjiang-Urumchi,中国-新疆-乌鲁木齐,硕士,西安陆军、社科院,广汇,Guanghui,新疆乌鲁木齐,Xinjiang,汽车销售、能源、房地产,"Car Sales, Energy, Real Estate",280.0,3940.0,-11%,,未知,2024
+168,20,李华,Li Hua,46,先生,,,中国-香港,本科,,富途,Futu Holdings,香港,Hong Kong,金融服务,Financial Services,280.0,3940.0,4%,,未知,2024
+168,37,钭正刚,Dou Zhenggang,71,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,,,锦江,Jinjiang,浙江杭州,Zhejiang,能源、化工,"Energy, chemical",280.0,3940.0,12%,,家族,2024
+168,85,徐旭东,Douglas Hsu Hsu-Tung,83,先生,中国-上海,China-Shanghai,中国-台湾-新北,,,远东,Far Eastern,台湾新北,Taiwan,金融服务,Financial Services,280.0,3940.0,33%,,未知,2024
+172,186,王宁,Wang Ning,37,先生,中国-河南-新乡,China-Henan,中国-北京,,,泡泡玛特,Pop Mart,北京,Beijing,玩具,Retail,275.0,3870.0,72%,,家族,2024
+173,15,朱鼎健,Ken Chu,50,先生,中国-香港,China-Hong Kong,中国-广东-深圳,本科,加拿大西安大略大学,观澜湖,Mission Hills,广东深圳,Guangdong,房地产,Real Estate,270.0,3800.0,0%,,家族,2024
+173,15,涂辉龙,Tu Huilong,65,先生,中国-广东-汕尾,China-Guangdong-Tai Wei,中国-广东-深圳,硕士,武汉江汉石油,海雅,Haiya,广东深圳,Guangdong,商业、金融、地产,"Financial, Real estate",270.0,3800.0,0%,,未知,2024
+173,-44,李贤义,Li Xianyi,72,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-香港,,,信义,Xinyi Glass,香港,Hong Kong,玻璃,Glass,270.0,3800.0,-25%,,家族,2024
+176,-2,夏佐全,Xia Zuoquan,61,先生,中国-湖北-襄阳,China -Hubei - Puyang,中国-广东-深圳,本科,北京科技,比亚迪,BYD,广东深圳,Guangdong,汽车、充电电池,"Automobile, New Energy",265.0,3730.0,-7%,,未知,2024
+176,-14,梁庆德,Liang Qingde,87,先生,中国-广东-佛山,China-Guangdong-Foshan,中国-广东-佛山,,,格兰仕,Galanz,广东佛山,Guangdong,家电,Household Appliances,265.0,3730.0,-15%,,家族,2024
+176,29,叶澄海,Ye Chenghai,81,先生,中国-广东-梅州,China-Guangdong-Meizhou,中国-广东-深圳,硕士,人大、中国党校,信立泰,Salubris Pharmaceuticals,广东深圳,Guangdong,医药,Pharmaceuticals,265.0,3730.0,6%,,夫妇,2024
+179,-24,江南春,Jiang Nanchun,51,先生,中国-上海,China-Shanghai,中国-上海,本科,华东师大,分众传媒,FocusMedia,上海长宁,Shanghai,数字新媒体、投资,"Digital media, Investments",260.0,3660.0,-19%,,未知,2024
+179,-67,李振国,Li Zhengguo,56,先生,中国-河南-许昌,China-Henan-Xuchang,中国-陕西-西安,硕士,,隆基,Longi,陕西西安,Shaanxi,硅材料,Silicon Materials,260.0,3660.0,-37%,,夫妇,2024
+179,35,刘克振,Liu Ke-Chen,70,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,研华,Advantech,台湾台北,Taiwan,电脑产品,Computer Products,260.0,3660.0,8%,,家族,2024
+179,35,张磊,Zhang Lei,52,先生,中国-河南-驻马店,China - Henan - Horse Shop,中国-香港,硕士,人大、耶鲁,高瓴资本,Hillhouse Capital,美国纽约,New York,投资,Investments,260.0,3660.0,8%,,未知,2024
+179,64,林陈海,Lin Chen-Hai,未知,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-新北,,,宝佳,Pao Chia,台湾新北,Taiwan,房地产,Real Estate,260.0,3660.0,21%,,家族,2024
+179,33,林鸿南,Lin Hong-Nan,57,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,宏泰,Hung Tai Construction,台湾台北,Taiwan,投资,Investments,260.0,3660.0,6%,,家族,2024
+185,-67,叶国富,Ye Guofu,47,先生,中国-湖北-十堰,China-Hubei-Ten-Yuan,中国-广东-广州,,,名创优品,Miniso,广东广州,Guangdong,新零售,New Retail,255.0,3590.0,-34%,,夫妇,2024
+185,-14,周建平,Zhou Jianping,63,先生,中国-江苏-无锡,China-Jiangsu-Wuxi,中国-江苏-无锡,,,海澜,Heilan,江苏无锡,Jiangsu,服装、投资,"Apparel, Investments",255.0,3590.0,-12%,,家族,2024
+185,-70,缪汉根,Miao Hangen,59,先生,中国-江苏-苏州,China-Jiangsu-Suzhou,中国-江苏-苏州,,,盛虹,Shenghong Printing & Dyeing,江苏苏州,Jiangsu,印染、化纤、房地产,"Printing and Dyeing, Chemical Fiber, Real Estate",255.0,3590.0,-35%,,夫妇,2024
+185,307,余竹云,Yu Zhuyun,51,先生,中国-浙江-衢州,China -Zhejiang-Zhangzhou,中国-安徽-合肥,,,中环新能源,Central Holding,安徽合肥,Anhui,绿色建材、新能源,"Construction Engineering, New Energy",255.0,3590.0,113%,,未知,2024
+185,17,喻会蛟,Yu Huijiao,55,先生,中国-浙江,,中国-上海,,,圆通速递,YTO,上海青浦,Shanghai,物流,Logistics,255.0,3590.0,0%,,家族,2024
+185,-6,李春安,Li Chunan,56,先生,中国-甘肃-兰州,China -Gansu-Lanzhou,中国-陕西-西安,硕士,,隆基,Longi,陕西西安,Shaanxi,硅材料,Silicon Materials,255.0,3590.0,-9%,,未知,2024
+191,-3,缪寿良,Miao Shouliang,69,先生,中国-广东,China-Guangdong,中国-广东-深圳,,,富源,Fuyuan,广东深圳,Guangdong,房地产、水电,"Real Estate, Hydroelectricity, New Energy",250.0,3520.0,-7%,,未知,2024
+191,14,杜江涛,Du Jiangtao,55,先生,中国-内蒙古-乌海,China-Inner Mongolia-Wuhai,中国-内蒙古-乌海,本科,北京理工,君正,Junzheng,内蒙古乌海,Inner Mongolia,煤化工、电力、运输,Energy Chemical,250.0,3520.0,0%,,夫妇,2024
+191,23,彭铁缆,Peng Tielan,未知,先生,中国-湖南-长沙,China -Hunan-Changsha,中国-湖南-长沙,,,博深集团,Bosen,湖南长沙,Hunan,企业服务,Business Services,250.0,3520.0,4%,,未知,2024
+191,32,宋涛,Song Tao,48,先生,,,中国-上海,,,米哈游,Mihoyo,上海,Shanghai,游戏,Online games,250.0,3520.0,6%,,未知,2024
+191,62,曹德旺,Cao Dewang,78,先生,中国-福建-福州,China-Fujian-Fuzhou,中国-福建-福州,,,福耀玻璃,Fuyao Glass,福建福州,Fujian,玻璃,Glass ,250.0,3520.0,19%,,未知,2024
+196,3,袁征,Yuan Zheng,54,先生,中国-山东,China-Shandong,美国-加州,硕士,山东科技大学、斯坦福,zoom,zoom,美国旧金山,San Francisco,视频软件,Video Software,245.0,3450.0,-6%,,家族,2024
+196,36,严建亚,Yan Jianya,58,先生,,,中国-西安,,,巨子生物,Giant Biogene,陕西西安,Shaanxi,生物科技,Biotechnology,245.0,3450.0,9%,,夫妇,2024
+198,-106,姚良松,Yao Liangsong,60,先生,中国-广东-梅州,China-Guangdong-Meizhou,中国-广东-广州,本科,北航,欧派家居,Oppein,广东广州,Guangdong,橱柜,Furniture,240.0,3380.0,-47%,,未知,2024
+198,127,郭金树,Guo Jinshu,73,先生,中国-内蒙古-鄂尔多斯,China-Inner Mongolia-Ordos,中国-内蒙古-鄂尔多斯,,,汇能,Huineng,内蒙古鄂尔多斯,Inner Mongolia,煤炭、路桥、房地产,"Coal, Construction, Real Estate",240.0,3380.0,41%,,未知,2024
+198,7,许家彰,Shi Jiazhang,未知,先生,,,中国-台湾-台南,,,奇美,Chi Mei,台湾台南,Taiwan,化工,Chemicals,240.0,3380.0,-4%,,家族,2024
+198,76,姜滨,Jiang Bin,58,先生,中国-山东-威海,China-Shandong-Weihai,中国-山东-潍坊,本科,北航,歌尔股份,GoerTek,山东潍坊,Shandong,声学及多媒体产品,Electronic Components,240.0,3380.0,23%,,夫妇,2024
+198,55,朱共山,Zhu Gongshan,66,先生,中国-江苏-盐城,China - Jiangsu - Yancheng,中国-香港,博士,南京工程、加拿大乔治布朗、菲律宾比利勤,协鑫,GCL,香港,Hong Kong,太阳能芯片、发电厂,Solar,240.0,3380.0,14%,,家族,2024
+203,50,郑崇华,Bruce Cheng Chung-Hua,88,先生,中国-福建-南平,China-Fujian-Nanping,中国-台湾-台北,,,台达电子,Delta,台湾台北,Taiwan,半导体,Semiconductors,235.0,3310.0,12%,,家族,2024
+203,-19,张茵,Zhang Yin,67,女士,中国-广东-韶关,China-Guangdong-Shaoguan,中国-广东-东莞,本科,,玖龙纸业,Nine Dragons Paper,广东东莞,Guangdong,环保造纸,Paper & Packaging,235.0,3310.0,-15%,,家族,2024
+203,24,曹其峰,Silas KF Chou,78,先生,中国-香港,China-Hong Kong,中国-香港,,,永新,Novel Enterprises,香港,Hong Kong,杂货,Grocery,235.0,3310.0,2%,,未知,2024
+206,-1,许荣茂,Xu Rongmao,74,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-香港,,,世茂,Shimao,上海黄浦,Shanghai,投资、房地产,"Investments, Real Estate",230.0,3240.0,-8%,,家族,2024
+206,26,王麒诚,Wang Qicheng,44,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-上海,本科,浙大,汉鼎宇佑,Hakim,浙江杭州,Zhejiang,文化传媒、投资,"Media, Investments",230.0,3240.0,2%,,夫妇,2024
+206,21,郑正,Cheng Cheng ,未知,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,长春,Chang Chun,台湾台北,Taiwan,化工,Chemicals,230.0,3240.0,0%,,未知,2024
+206,-18,徐波,Xu Bo,47,先生,,,中国-广东-广州,,,多益网络,Duoyi,广东广州,Guangdong,网络游戏,Gaming,230.0,3240.0,-15%,,未知,2024
+206,21,廖龙星,Liao Long-shing,未知,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,长春,Chang Chun,台湾台北,Taiwan,化工,Chemicals,230.0,3240.0,0%,,未知,2024
+206,8,陈大年,Chen Danian,46,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-上海,,,掌门科技,Zenmen,上海浦东,Shanghai,上网平台,Online games,230.0,3240.0,-4%,,未知,2024
+206,21,林书鸿,Lin Shu-hung,96,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,长春,Chang Chun,台湾台北,Taiwan,化工,Chemicals,230.0,3240.0,0%,,未知,2024
+213,1,吴光明,Wu Guangming,62,先生,中国-江苏-镇江,China-Jiangsu-Jiang,中国-江苏-镇江,硕士,,鱼跃医疗,Yuwell,江苏镇江,Jiangsu,医疗设备,Medical equipment ,225.0,3170.0,-6%,,父子,2024
+213,-76,赵燕,Zhao Yan,57,女士,中国-云南-昆明,China-Yunnan-Kunming,中国-北京,本科,华东师大,华熙国际,Bloomage,北京,Beijing,生物医药、房地产,"Biotech, Real Estate",225.0,3170.0,-36%,,家族,2024
+213,-11,茅理翔,Mao Lixiang,83,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-浙江-宁波,,,方太厨具,Fotile,浙江宁波,Zhejiang,厨具,Kitchenware ,225.0,3170.0,-12%,,家族,2024
+213,1,孙纪木,Sun Jimu,68,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-北京,硕士,绍兴农业、澳大利亚昆士兰大学,新华联合冶金,Sinogiant,河北沧州,Hebei,钢铁,Steel,225.0,3170.0,-6%,,夫妇,2024
+213,-42,董经贵,Dong Jinggui,54,先生,,,中国-上海,,,雅迪,Yadea,江苏无锡,Shanghai,电动车,Electric vehicle,225.0,3170.0,-22%,,夫妇,2024
+213,48,刘炽平,Liu Chiping,51,先生,中国-北京,China-Beijing,中国-广东-深圳,硕士,,腾讯,Tencent,广东深圳,Guangdong,互联网服务,Internet Services,225.0,3170.0,10%,,未知,2024
+213,40,尹衍梁,Samuel Yin Yan-Liang,74,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-台北,,,润泰,Ruentex,台湾台北,Taiwan,建筑开发、金融保险,"Real Estate, Insurance",225.0,3170.0,7%,,家族,2024
+213,10,朱林瑶,Zhu Linyao,54,女士,中国-四川,China - Sichuan,中国-广东-深圳,,,华宝国际,Huabao International,广东深圳,Guangdong,香精香料、烟草,"Flavours & Fragrances, Tobacco",225.0,3170.0,-4%,,未知,2024
+213,-34,张红超,Zhang Hongchao,46,先生,中国-河南-商丘,China-Henan-Shangqiu,中国-河南-郑州,,,蜜雪冰城,MXBC,河南郑州,Henan,餐饮,Catering,225.0,3170.0,-20%,,未知,2024
+213,-34,张红甫,Zhang Hongfu,39,先生,中国-河南-商丘,China-Henan-Shangqiu,中国-河南-郑州,,,蜜雪冰城,MXBC,河南郑州,Henan,餐饮,Catering,225.0,3170.0,-20%,,未知,2024
+213,214,郑坚江,Zheng Jianjiang,63,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-浙江-宁波,,,奥克斯,AUX,浙江宁波,Zhejiang,家电、房地产,"Household appliances, real estate",225.0,3170.0,67%,,未知,2024
+224,66,罗才仁,Luo Tsai-Ren,71,先生,中国-台湾-彰化,China-Taiwan-Changhua,中国-台湾-彰化,,,正新橡胶,Cheng Shin Rubber,台湾彰化,Taiwan,橡胶,Rubber,220.0,3100.0,19%,,家族,2024
+224,89,郭建军,Guo Jianjun,未知,先生,,,中国-内蒙古-鄂尔多斯,,,汇能,Huineng,内蒙古鄂尔多斯,Inner Mongolia,煤炭、路桥、房地产,"Coal, Construction, Real Estate",220.0,3100.0,26%,,未知,2024
+224,-57,崔根良,Cui Genliang,66,先生,中国-江苏-苏州,China-Jiangsu-Suzhou,中国-江苏-苏州,,,亨通,Hengtong,江苏苏州,Jiangsu,电缆、热能电力、投资,"Cable, energy, Investments",220.0,3100.0,-27%,,父子,2024
+224,19,蔡镇宇,Tsai Chen-Yu,71,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-台北,,,宝丰隆,Homax Equity,台湾台北,Taiwan,金融服务,Financial Services,220.0,3100.0,2%,,未知,2024
+228,52,郭梅兰,Guo Meilan,未知,女士,,,中国-广东-东莞,,,东阳光,Hec Technology,广东深圳,Guangdong,医药、电子新材料,"Pharmaceuticals, New Materials",215.0,3030.0,13%,,母子,2024
+228,97,赵藤雄,Chao Teng-Hsiung,80,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,远雄,Farglory,台湾台北,Taiwan,房地产,Real Estate,215.0,3030.0,26%,,家族,2024
+228,4,薛敏,Xue Min,未知,先生,,,中国-上海,,,联影医疗,United Imaging,上海嘉定,Shanghai,医疗设备,Medical equipment,215.0,3030.0,-4%,,未知,2024
+231,82,仇建平,Qiu Jianping,62,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-杭州,硕士,西交大,巨星科技,GreatStar Industrial,浙江杭州,Zhejiang,工具制造,Tools,210.0,2960.0,20%,,夫妇,2024
+231,71,马维建,Ma Weijian,未知,先生,,,中国-台湾-台北,,,元大,Yuanta,台湾台北,Taiwan,金融服务,Financial Services,210.0,2960.0,17%,,家族,2024
+231,22,陈永泰,Chen Yung-Tai,88,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-台北,,,震旦,Aurora,台湾台北,Taiwan,办公家具、房地产,"Office Furniture, Real Estate",210.0,2960.0,0%,,未知,2024
+234,9,冷友斌,Leng Youbin,55,先生,中国-黑龙江-黑河,China-Heilongjiang-Heihe,中国-北京,,,中国飞鹤,China Feihe,北京,Beijing,乳业,Dairy,205.0,2890.0,-5%,,未知,2024
+234,-37,宿华,Su Hua,42,先生,中国-湖南,China-Hunan,中国-北京,硕士,清华、清华、清华退学,快手科技,Kuaishou,北京,Beijing,传媒娱乐,Media & Entertainment,205.0,2890.0,-23%,,未知,2024
+234,302,叶刚,Ye Gang,43,先生,,,新加坡,,,冬海集团,Sea,新加坡,Singapore,网络游戏、电商,"Online Games, E-Commerce",205.0,2890.0,86%,,未知,2024
+234,40,郭恩元,Guo Enyuan,76,先生,中国-河北-邯郸,China-Hebei-Handan,,,,普阳钢铁,Puyang Iron and steel,河北邯郸,Hebei,钢铁、煤化工,Metals & Mining,205.0,2890.0,5%,,家族,2024
+234,-86,张道才,Zhang Daocai,74,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-浙江-绍兴,,,三花控股,Sanhua,浙江绍兴,Zhejiang,工业设备、汽车零部件、房地产,"Industrial equipment, automotive parts, real estate",205.0,2890.0,-38%,,家族,2024
+239,-2,张峻,Zhang Jun,未知,先生,中国-广东-揭阳,China-Guangdong-Jieyang,中国-广东-深圳,,,富德,Funde,广东深圳,Guangdong,保险,Insurance,200.0,2820.0,-9%,,夫妇,2024
+239,74,杨致远,Jerry Yang,56,先生,中国-台湾-台北,China-Taiwan-Taipei,美国,,,雅虎,Yahoo,美国,USA,投资,Investments,200.0,2820.0,14%,,未知,2024
+239,4,彭国远,Peng Guoyuan,38,先生,中国-广东-汕尾,China-Guangdong-Tai Wei,中国-广东-深圳,硕士,剑桥,心里程,NWY,广东深圳,Guangdong,教育、房地产,"Education, Real Estate",200.0,2820.0,-7%,,未知,2024
+239,29,许家印,Xu Jiayin,66,先生,中国-河南-周口,China - Henan - Zhoukou,中国-广东-广州,硕士,武汉科技、West Alabama,恒大,Evergrande,广东广州,Guangdong,投资、房地产,"Investments, Real Estate",200.0,2820.0,0%,,未知,2024
+239,29,黄柏年,Elijah Widjaja,68,先生,印尼,Indonesia,中国-上海,,,外滩中心,Bund Center,上海,Shanghai,房地产,Real Estate,200.0,2820.0,0%,,未知,2024
+239,297,张兴海,Zhang Xinghai,61,先生,中国-重庆,China-Chongqing,中国-重庆,硕士,,小康控股,Xiaokang ,重庆,Chongqing,汽车、汽车零配件,"Cars, automobile parts",200.0,2820.0,82%,,夫妇,2024
+239,-7,倪祖根,Ni Zugen,67,先生,中国-江苏-苏州,China-Jiangsu-Suzhou,中国-江苏-苏州,本科,,莱克电气,LEXY,江苏苏州,Jiangsu,小家电,Motor facilities,200.0,2820.0,-11%,,家族,2024
+239,253,潘政民,Pan Zhengmin,57,先生,中国-江苏,China-Jiangsu,中国-广东-深圳,本科,武进师范,瑞声科技,AAC Acoustic Technologies,广东深圳,Guangdong,消费电子精密件,Electronic Components,200.0,2820.0,67%,,家族,2024
+247,130,王伟修,Wang Weixiu,74,先生,中国-山东,China-Shandong,中国-山东-烟台,,,中际旭创,Zhongji Innolight,山东烟台,Shandong,通信设备,Telecommunications,195.0,2750.0,30%,,父子,2024
+247,-10,薛华,Xue Hua,54,先生,,,中国-广东-广州,本科,华中农业,海大,Haid,广东广州,Guangdong,饲料,Agricultural Products,195.0,2750.0,-11%,,未知,2024
+247,-117,阮洪良,Ruan Hongliang,63,先生,中国-浙江,China-Zhejiang,中国-浙江-嘉兴,,,福莱特,Flat Glass,浙江嘉兴,Zhejiang,光伏材料,Photovoltaic,195.0,2750.0,-45%,,家族,2024
+247,43,张剑,Zhang Jian,55,先生,中国-河南-商丘,China-Henan-Shangqiu,中国-天津,,,爱玛,Aima,天津,Tianjin,电动自行车,E-bicycle,195.0,2750.0,5%,,父女,2024
+247,14,周超男,Zhou Chaonan,64,先生,中国-湖南-衡阳,,中国-河北-廊坊,,,润泽科技,Range Technology,河北廊坊,Hebei,软件与信息技术服务,Software and Information Services,195.0,2750.0,-5%,,家族,2024
+247,21,黄光苗,Huang Guangmiao,55,先生,中国-广东-汕头,China-Guangdong-Shantou,中国-广东-深圳,,,中洲,Zhongzhou,广东深圳,Guangdong,房地产,Real Estate,195.0,2750.0,-3%,,未知,2024
+247,95,胡柏藩,Hu Bofan,62,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-浙江-绍兴,硕士,浙大,新和成,NHU,浙江绍兴,Zhejiang,医药,Pharmaceuticals,195.0,2750.0,18%,,未知,2024
+247,33,林敏雄,Lin Ming-Hsiung,74,女士,,,中国-台湾-台北,,,元利,Yuan Lih,台湾台北,Taiwan,房地产,Real Estate,195.0,2750.0,3%,,未知,2024
+255,-32,周晓萍,Zhou Xiaoping,63,女士,中国-江苏-常州,China-Jiangsu-Changzhou,中国-江苏-常州,,,星宇股份,Shinye,江苏常州,Jiangsu,汽车灯具,Automotive lighting ,190.0,2680.0,-19%,,家族,2024
+255,25,李赶坡,Li Ganpo,75,先生,中国-河北,China-Hebei,中国-河北-石家庄,,,敬业,Jingye,河北石家庄,Hebei,钢铁,Steel,190.0,2680.0,0%,,未知,2024
+255,-12,范现国,Fan Xianguo,64,先生,中国-河北-邢台,China-Hebei-Yuantai,中国-河北-邢台,,,今麦郎,JML,河北邢台,Heibei,食品与饮料,Food & Beverage,190.0,2680.0,-12%,,父子,2024
+255,47,陈泰铭,Pierre Chen Tai-Ming,68,先生,中国-台湾-台南,China-Taiwan-Tainan,中国-台湾-台北,,,国巨,Yageo,台湾台北,Taiwan,电子制造、收藏,Manufacturing,190.0,2680.0,6%,,家族,2024
+255,47,廖汤慧霭,Rita Tong Liu,76,女士,中国-香港,China-Hong Kong,中国-香港,,,纪惠,Gale Well Group,香港,Hong Kong,房地产,Estate Holding,190.0,2680.0,6%,,未知,2024
+255,-12,王正华,Wang Zhenghua,80,先生,中国-上海,China-Shanghai,中国-上海,硕士,王煜（美国南伊利诺伊大学）,春秋航空,Spring Airlines,上海长宁,Shanghai,航空,Airlines,190.0,2680.0,-12%,,家族,2024
+255,-53,吴以岭,Wu Yiling,75,先生,中国-河北-衡水,China-Hebei-Hengshui,中国-河北-石家庄,硕士,南京中医,以岭,Yiling Pharmaceutical,河北石家庄,Hebei,医药,Pharmaceuticals,190.0,2680.0,-25%,,家族,2024
+255,58,曹龙祥,Cao Longxiang,67,先生,,,中国-江苏-泰兴,,,济川控股,Jumpcan,江苏泰州,Jiangsu,医药,Pharmaceuticals,190.0,2680.0,9%,,父子,2024
+255,330,项光通,Xiang Guangtong,未知,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-浙江-温州,,,青山控股,Tsingshan,浙江温州,Zhejiang,钢铁,Steel,190.0,2680.0,90%,,未知,2024
+255,-109,李义海,Li Yihai,61,先生,中国-江西-南昌,China-Jiangxi-Nanchang,中国-江西-南昌,本科,江西师范,济民可信,Jemincare,江西南昌,Jiangxi,医药,Pharmaceuticals,190.0,2680.0,-43%,,父子,2024
+265,-4,张文中,Zhang Wenzhong,62,先生,中国-山东,China-Shandong,中国-北京,博士,南开、南开、斯坦福,物美,WuMart,北京,Beijing,零售,Retail,185.0,2610.0,-10%,,未知,2024
+265,New,许邦福,Hsu Bang-Fu,未知,未知,中国-浙江-宁波,Taiwan,台湾桃园,硕士,日本京都大学,华城电机,Fortune Electric,台湾桃园,Taiwan,电子元件,Electronic Components,185.0,2610.0,NEW,,家族,2024
+265,162,梁光伟,Liang Guangwei,61,先生,中国-浙江-台州,China-Zhejiang-Taizhou,中国-广东-深圳,硕士,深圳,华强,Huaqiang,广东深圳,Guangdong,投资,Investments,185.0,2610.0,37%,,未知,2024
+265,-28,黄文仔,Huang Wenzai,71,先生,中国-广东-广州,China-Guangdong-Guangzhou,中国-广东-广州,硕士,,星河湾,Star River,广东广州,Guangdong,房地产、投资,"Real Estate, Investments",185.0,2610.0,-16%,,未知,2024
+265,25,谢伟通,Xie Weitong,67,先生,中国-台湾,China-Taiwan,中国-浙江-嘉兴,,,华友钴业,Huayou Cobalt,浙江嘉兴,Zhejiang,有色金属,Non-ferrous metals,185.0,2610.0,0%,,未知,2024
+265,-4,黄敏利,Huang Minli,59,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-香港,本科,,敏华,Manwah,香港,Hong Kong,休闲沙发,Recreational Sofa,185.0,2610.0,-10%,,夫妇,2024
+265,-142,简军,Jian Jun,61,女士,中国-北京,China -Beijing,中国-北京,,,爱美客,Imeik,北京,Beijing,生物制药,Biotechnology,185.0,2610.0,-51%,,未知,2024
+265,25,曾小山,Zeng Xiaoshan,79,先生,中国-湖南-邵东,China -Hunan-Dongdong,中国-湖南-长沙,,,曾氏企业,Zengshi,湖南长沙,Hunan,铝业,Aluminum,185.0,2610.0,0%,,家族,2024
+265,-91,傅利泉,Fu Liquan,57,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-杭州,,,大华技术,Dahua Technology,浙江杭州,Zhejiang,软件、电子通讯产品,"Software, Electronic and communication products",185.0,2610.0,-35%,,夫妇,2024
+265,77,陈志平,Chen Zhiping,48,先生,,,中国-广东-深圳,,,思摩尔,Smoore,广东深圳,Guangdong,电子烟,Consumer Electronics,185.0,2610.0,12%,,未知,2024
+265,60,张双旺,Zhang Shuangwang,81,先生,中国-内蒙古-鄂尔多斯,China-Inner Mongolia-Ordos,中国-内蒙古-鄂尔多斯,本科,内蒙古轻工,伊泰,Yitai,内蒙古鄂尔多斯,Inner Mongolia,煤炭,Coal,185.0,2610.0,9%,,父子,2024
+276,-49,季琦,Ji Qi,58,先生,中国-江苏-南通,China-Jiangsu-Nantong,中国-上海,,,华住,Home Inn,上海闵行,Shanghai,连锁酒店,Hotel chain ,180.0,2540.0,-22%,,未知,2024
+276,New,毛文超,Mao Wenchao,未知,未知,中国-四川-绵阳,Hubei,上海,本科,上海交通大学,小红书,Xiaohongshu,上海,Shanghai,生活服务平台、电商,E-Commerce,180.0,2540.0,NEW,,未知,2024
+276,49,李洪信,Li Hongxin,71,先生,中国-福建,China-Fujian,中国-山东-济宁,本科,,太阳纸业,Sunpaper,山东济宁,Shandong,造纸,Papermaking ,180.0,2540.0,6%,,家族,2024
+276,-179,靳保芳,Jin Baofang,72,先生,中国-河北-邢台,China-Hebei-Yantai,中国-河北-邢台,,,晶澳科技,JA Solar,河北邢台,Hebei,光伏,Solar Energy,180.0,2540.0,-60%,,家族,2024
+276,-39,周泽荣,Zhou Zerong,70,先生,中国-广东-汕头,China-Guangdong-Shantou,中国-广东-深圳,,,侨鑫,Kingold,广东广州,Guangdong,房地产、投资,"Real Estate, Investments",180.0,2540.0,-18%,,未知,2024
+276,-15,张松桥,Zhang Songqiao,60,先生,中国-重庆,China-Chongqing,中国-香港,硕士,党校,中渝,Zhongyu,香港,Hong Kong,投资、房地产,"Investments, Real Estate",180.0,2540.0,-12%,,未知,2024
+276,151,张力,Zhang Li,71,先生,中国-广东-广州,China-Guangdong-Guangzhou,中国-广东-广州,博士,美国波士顿,富力地产,R & F,广东广州,Guangdong,投资、房地产,"Investments, Real Estate",180.0,2540.0,33%,,父子,2024
+276,49,杨卫东,Yang Weidong,56,先生,中国-浙江,China-Zhejiang,中国-浙江-嘉兴,,,卫星石化,Zhejiang Satellite Petro Chemical,浙江嘉兴,Zhejiang,化工,Chemicals,180.0,2540.0,6%,,夫妇,2024
+276,66,翁先定,Weng Xianding,63,先生,,,中国-广东-深圳,,,新产业,New Industries,广东深圳,Guangdong,医疗器械,Health Tech,180.0,2540.0,9%,,未知,2024
+276,4,阎志,Yan Zhi,52,先生,中国-湖北-黄冈,China -Hubei - Huanggang,中国-湖北-武汉,硕士,武大,卓尔,Zhuoer,湖北武汉,Hubei,房地产、投资,"Real estate, Investments",180.0,2540.0,-5%,,未知,2024
+276,-8,王树华,Wang Shuhua,未知,先生,,,中国-河北-邯郸,,,冀南钢铁,Yuhua Steel,河北邯郸,Hebei,钢铁,Steel,180.0,2540.0,-10%,,家族,2024
+276,151,王俊民,Wang Junmin,56,先生,中国-辽宁,China-Liaoning,新加坡,硕士,沈阳医科、长江商学院,海思科,Haisco Pharmaceutical,西藏山南,Tibet,医药,Pharmaceuticals,180.0,2540.0,33%,,夫妇,2024
+288,2,潘石屹,Pan Shiyi,61,先生,中国-甘肃-天水,China -Gansu - Tianshui,中国-北京,,,SOHO中国,SOHO China,北京,Beijing,投资、房地产,"Investments, Real Estate",175.0,2460.0,-5%,,夫妇,2024
+288,-83,唐彬森,Tang Binsen,42,先生,中国-安徽-合肥,China-Anhui,中国-北京,,,元气森林,Genki Forest,北京,Beijing,饮料,Food & Beverage,175.0,2460.0,-30%,,未知,2024
+288,37,阳萌,Yang Meng,42,先生,,,中国-湖南-长沙,,,安克,Anker,湖南长沙,Hunan,电子商务,E-Commerce,175.0,2460.0,3%,,夫妇,2024
+288,14,张静章,Zhang Jingzhang,87,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-浙江-宁波,,,海天国际,Haitian,浙江宁波,Zhejiang,注塑机,Injection molding machine,175.0,2460.0,-3%,,家族,2024
+288,-138,蒋卫平,Jiang Weiping,69,先生,中国-四川-成都,China - Sichuan-Chengdu,中国-四川-遂宁,本科,,天齐锂业,Tianqi,四川遂宁,Sichuan,锂矿,Mining,175.0,2460.0,-46%,,家族,2024
+293,162,邹支农,Zou Zhinong,56,先生,,,中国-江苏-苏州,,,天孚通信,Tfc Optical,江苏苏州,Jiangsu,通信设备,Manufacturing,170.0,2390.0,31%,,家族,2024
+293,65,张帆,Zhang Fan,59,先生,中国-四川-成都,China - Sichuan-Chengdu,中国-广东-深圳,本科,电子科技,汇顶科技,Goodix,广东深圳,Guangdong,半导体芯片,Electronic Components,170.0,2390.0,6%,,未知,2024
+293,-153,张宏伟,Zhang Hongwei,70,先生,中国-黑龙江-哈尔滨,China - Heilongjiang - Harbin,中国-北京,硕士,哈工大,东方,Orient,北京,Beijing,能源、零售,"Energy, Retail",170.0,2390.0,-51%,,未知,2024
+293,New,周胜馥,Chow Shing Yuk,47,先生,,,中国-香港,,,拉拉科技,Lalatech,广东深圳,Guangdong,货运物流,Transportation & Logistics,170.0,2390.0,NEW,,未知,2024
+293,32,戚振波,Qi Zhenbo,未知,先生,,,中国-上海,,,美腕,Meione,上海,Shanghai,新零售,New Retail,170.0,2390.0,0%,,未知,2024
+293,-50,钱东奇,Qian Dongqi,66,先生,中国-江苏-南京,China-Jiangsu-Nanjing,中国-江苏-苏州,硕士,南大、南大,科沃斯,Ecovacs,江苏苏州,Jiangsu,机器人,Robot,170.0,2390.0,-21%,,父子,2024
+293,32,邢李㷧,Michael Ying Lee-yuen,75,先生,中国-香港,China-Hong Kong,中国-香港,,,思捷环球,Esprit,香港,Hong Kong,投资,Investments,170.0,2390.0,0%,,未知,2024
+293,-61,安康,An Kang,75,先生,中国-河南-新乡,China - Henan - Xinxiang,中国-河南-新乡,本科,河南师范,华兰生物,Hualan Biological Engineering,河南新乡,Henan,生物制药,Biopharmaceuticals,170.0,2390.0,-24%,,家族,2024
+293,-50,黄立,Huang Li,61,先生,中国-陕西-西安,China-Shanxi-Xi’an,中国-湖北-武汉,硕士,华中科技,高德电气,Guide Electrics,湖北武汉,Hubei,电子制造,Electronics,170.0,2390.0,-21%,,父子,2024
+293,32,黄茂如,Huang Maoru,59,先生,中国-广东-潮州,China-Guangdong-Chaozhou,中国-广东-深圳,硕士,,茂业,Maoye,广东深圳,Guangdong,投资、房地产,"Investments, Real Estate",170.0,2390.0,0%,,夫妇,2024
+293,113,肖永明,Xiao Yongming,60,先生,中国-四川-资阳,China -Sichuan-Ziyang,中国-北京,,,藏格矿业,Zangge Mining,青海格尔木,Qinghai,矿产,Mining,170.0,2390.0,21%,,家族,2024
+293,178,林耀英,Scott Lin Yao-Ying,91,先生,,,中国-台湾-台中,,,大立光,Largan,台湾台北,Taiwan,电子元件,Electronic Components,170.0,2390.0,36%,,家族,2024
+293,20,蒋业华,Jiang Yehua,61,先生,中国-重庆,China-Chongqing,中国-重庆,,,华宇,Huayu,重庆,Chongqing,房地产,Real estate,170.0,2390.0,-3%,,未知,2024
+306,36,徐乘,Xu Cheng,72,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-广东-东莞,,,徐福记,Hsu Fu Chi,广东东莞,Guangdong,食品,Food & Beverages,165.0,2320.0,0%,,家族,2024
+306,36,张万镇,Zhang Wanzhen,75,先生,中国-广东-潮州,China-Guangdong-Chaozhou,中国-广东-潮州,,,三环,Three-Circle,广东潮州,Guangdong,通信部件、电子元器件,Electronic Components,165.0,2320.0,0%,,未知,2024
+306,-16,蔡东晨,Cai Dongchen,71,先生,中国-河北-石家庄,China-Hebei-Shijiazhuang,中国-河北-石家庄,硕士,南开,石药,CSPC Pharmaceutical,河北石家庄,Hebei,医药,Pharmaceuticals,165.0,2320.0,-11%,,未知,2024
+306,-63,邓伟明,Deng Weiming,56,先生,中国-湖南-长沙,China -Hunan-Changsha,中国-湖南-长沙,,,中伟股份,Cngr,湖南长沙,Hunan,工业产品,Industrial Products,165.0,2320.0,-23%,,夫妇,2024
+306,-4,陈凯臣,Chen Kaichen,未知,先生,中国-广东-揭阳,China-Guangdong-Jieyang,中国-广东-广州,,,立白,Liby,广东广州,Guangdong,日化用品,Personal Care,165.0,2320.0,-8%,,家族,2024
+306,36,王华君,Wang Junhua,54,先生,中国-江西-九江,China - Jiangxi - Jiujiang,中国-广东-深圳,硕士,,裕同包装,Yuto Packaging,广东深圳,Guangdong,包装,Packaging,165.0,2320.0,0%,,夫妇,2024
+306,-38,王希成,Wang Xicheng,76,先生,中国-山东,China-Shandong,中国-山东-烟台,,,玲珑轮胎,Linglong ,山东烟台,Shandong,轮胎,Tires ,165.0,2320.0,-18%,,家族,2024
+306,36,邵钦祥,Shao Qinxiang,70,先生,中国-浙江-金华,China-Zhejiang-Jinhua,中国-浙江-金华,,,花园,Garden,浙江金华,Zhejiang,工业制造、房地产,"Industrial manufacturing, real estate",165.0,2320.0,0%,,家族,2024
+306,-135,王文京,Wang Wenjing,60,先生,中国-江西-上饶,China-Jiangxi-Shangrao,中国-北京,本科,江西财经,用友,Yonyou,北京,Beijing,软件与信息服务,Software and Information Services,165.0,2320.0,-43%,,未知,2024
+306,-38,吴少勋,Wu Shaoxun,68,先生,中国-湖北-黄石,China -Hubei - Yellowstone,中国-湖北-黄石,本科,黄石市党校,劲牌,Jingjiu,湖北黄石,Hubei,保健酒,Food & Beverages,165.0,2320.0,-18%,,未知,2024
+306,100,利约翰,John Leigh,70,先生,,,中国-香港,,,中电,CLP,香港,Hong Kong,能源,Energy,165.0,2320.0,18%,,未知,2024
+306,19,虞锋,Yu Feng,61,先生,中国-上海,China-Shanghai,中国-上海,本科,复旦,云锋基金,YF Capital,上海徐汇,Shanghai,投资,Investments,165.0,2320.0,-3%,,家族,2024
+318,40,伍步高,Michael Wu Po-kong,80,先生,中国-香港,China-Hong Kong,中国-香港,,,永隆,Wing Lung Bank,香港,Hong Kong,银行业,Banking,160.0,2250.0,0%,,家族,2024
+318,70,陈明永,Chen Mingyong,55,先生,中国-四川-达州,China - Sichuan - Dazhou,中国-广东-东莞,本科,浙大,OPPO,OPPO,广东东莞,Guangdong,消费电子产品,Consumer Electronics,160.0,2250.0,10%,,未知,2024
+318,7,穆荣均,Mu Rongjun,44,先生,,,中国-北京,硕士,清华、清华,美团,Meituan,北京,Beijing,生活服务,Life Service,160.0,2250.0,-6%,,未知,2024
+318,40,梁绍鸿,Edwin Leong,72,先生,中国-香港,China-Hong Kong,中国-香港,,,大鸿辉,Tai Hung Fai,香港,Hong Kong,房地产,Estate Holding,160.0,2250.0,0%,,未知,2024
+318,24,葛卫东,Ge Weidong,55,先生,,,中国-上海,本科,川大,混沌投资,Hundun,上海浦东,Shanghai,投资,Investments,160.0,2250.0,-3%,,未知,2024
+318,-38,冯海良,Feng Hailiang,64,先生,中国-浙江,China-Zhejiang,中国-浙江-绍兴,,,海亮,Hailiang,浙江绍兴,Zhejiang,铜加工、投资,"Copper, Investments",160.0,2250.0,-16%,,未知,2024
+318,153,陈爱莲,Chen Ailian,66,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-浙江-绍兴,,,万丰,Wanfeng Auto,浙江绍兴,Zhejiang,智能制造、投资,Automobile parts,160.0,2250.0,28%,,夫妇,2024
+318,40,陈谭庆芬,Chan Tan Ching Fen,未知,先生,,,中国-香港,,,恒隆,Hang Lung,香港,Hong Kong,房地产,Estate Holding,160.0,2250.0,0%,,家族,2024
+318,24,彭蕾,Peng Lei,53,先生,,,新加坡,,,阿里系,Alibaba,浙江杭州,Zhejiang,电子商务、金融科技,"E-commerce, fintech",160.0,2250.0,-3%,,未知,2024
+327,43,罗家宝,Law Kar Po,75,先生,,,中国-香港,,,百乐,Lobo Investment,香港,Hong Kong,房地产,Estate Holding,155.0,2180.0,0%,,未知,2024
+327,-153,李丐腾,Li Gaiteng,52,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-上海,硕士,,飞科电器,Flyco,上海松江,Shanghai,小家电,Small home appliances,155.0,2180.0,-46%,,家族,2024
+327,-74,程一笑,Cheng Yixiao,39,先生,,,中国-北京,,,快手科技,Kuaishou,北京,Beijing,传媒娱乐,Media & Entertainment,155.0,2180.0,-26%,,未知,2024
+327,-113,谢良志,Xie Liangzhi,58,先生,,,中国-北京,,,神州,Sinocelltech,北京,Beijing,生物制药,Biotech,155.0,2180.0,-35%,,夫妇,2024
+327,-25,吴冠江,Wu Guanjiang,56,先生,中国-四川-乐山,China - Sichuan - Leshan,中国-重庆,,,智飞生物,Zhifei,重庆,Chongqing,疫苗,Medicine ,155.0,2180.0,-14%,,夫妇,2024
+327,-84,周鸿祎,Zhou Hongyi,54,先生,中国-湖北-黄冈,China -Hubei - Huanggang,中国-北京,硕士,西交大、西交大,三六零安全科技,360 Security Technology,北京,Beijing,网络信息服务,Cyber Security,155.0,2180.0,-28%,,未知,2024
+327,61,张荣华,Zhang Ronghua,55,女士,中国-天津,China-Tianjin,中国-天津,硕士,,荣程,Rockcheck,天津,Tianjin,钢铁,Steel,155.0,2180.0,7%,,家族,2024
+327,50,林明成,Lin Ming-Cheng,81,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,华南金控,Hua Nan,台湾台北,Taiwan,金融服务,Financial Services,155.0,2180.0,3%,,家族,2024
+335,23,张雷,Zhang Lei,48,先生,中国-江苏-无锡,China-Jiangsu,中国-江苏-无锡,,,远景能源,Envision,江苏无锡,Jiangsu,风电,Wind Power,150.0,2110.0,-6%,,未知,2024
+335,250,任元林,Ren Yuanlin,71,先生,中国-江苏-无锡,China-Jiangsu-Wuxi,中国-江苏-无锡,,,扬子江船业,Yangzijiang Shipbuilding,江苏无锡,Jiangsu,造船,Shipbuilding ,150.0,2110.0,50%,,父子,2024
+335,23,王水福,Wang Shuifu,69,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-杭州,,,西子联合控股,Xizi,浙江杭州,Zhejiang,电梯、锅炉、房地产,"Elevators, boilers, real estate",150.0,2110.0,-6%,,夫妇,2024
+335,42,魏应州,Wei Ing-Chou,70,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,顶新,Ting Hsin,天津,Tianjin,食品和饮料,Food & Beverages,150.0,2110.0,0%,,未知,2024
+335,186,许昆泰,Hsu Kun-Tai,68,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,蓝天,Clevo,台湾台北,Taiwan,消费电子产品,Consumer and Industry Electronics,150.0,2110.0,30%,,家族,2024
+335,7,蔡东青,Cai Dongqing,55,先生,中国-广东-汕头,China-Guangdong-Shantou,中国-广东-汕头,硕士,,奥飞娱乐,Alpha Animation,广东汕头,Guangdong,动漫,Media & Entertainment,150.0,2110.0,-9%,,家族,2024
+335,92,黄绍武,Huang Shaowu,54,先生,中国-江西-九江,China - Jiangxi - Jiujiang,中国-广东-深圳,,,神州通,SinoPostgraduate,广东深圳,Guangdong,投资,Investments,150.0,2110.0,11%,,未知,2024
+335,-98,倪永培,Ni Yongpei,72,先生,中国-安徽-六安,China-Anhui-Six-An,中国-安徽-六安,,,迎驾,Yingjia,安徽六安,Anhui,白酒,Spirit,150.0,2110.0,-32%,,未知,2024
+335,-55,赵丰刚,Zhao Fenggang,58,先生,,,中国-福建-宁德,硕士,中国科技大学,宁德时代,CATL,福建宁德,Fujian,锂电池,Battery technology,150.0,2110.0,-21%,,未知,2024
+335,-147,李留法,Li Liufa,65,先生,中国-河南-平顶山,China -Henan - Pingding Mountain,中国-河南-平顶山,,,天瑞,Tianrui,河南平顶山,Henan,水泥、铝业,"Cement, Aluminum",150.0,2110.0,-44%,,夫妇,2024
+345,-55,林刚,Lin Gang,60,先生,中国-广东,China-Guangdong,中国-广东-深圳,硕士,广东医学院,康哲药业,CMS,广东深圳,Guangdong,医药,Pharmaceuticals,145.0,2040.0,-22%,,未知,2024
+345,-32,戚金兴,Qi Jinxing,62,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,硕士,,滨江,Binjiang,浙江杭州,Zhejiang,房地产,Real estate,145.0,2040.0,-17%,,父子,2024
+345,-71,聂腾云,Nie Tengyun,48,先生,,,中国-上海,,,韵达,Yunda,上海青浦,Shanghai,物流,Logistics,145.0,2040.0,-26%,,夫妇,2024
+345,-32,池宇峰,Chi Yufeng,53,先生,中国-湖北,China - Hubei,中国-北京,硕士,清华,完美世界,Perfect World,北京,Beijing,网游、影视娱乐,"Online Games, Entertainment",145.0,2040.0,-17%,,未知,2024
+345,-148,高纪凡,Gao Jifan,59,先生,,,中国-江苏-常州,,,天合光能,Trinasolar,江苏常州,Jiangsu,光伏产品,Photovoltaic Products,145.0,2040.0,-45%,,家族,2024
+345,13,李锂,Li Li,60,先生,中国-四川-眉山,China - Sichuan - Meishan,中国-广东-深圳,本科,川大,海普瑞,Hepalink,广东深圳,Guangdong,医药,Pharmaceuticals,145.0,2040.0,-9%,,夫妇,2024
+345,43,沈炜,Shen Wei,未知,先生,,,中国-广东-东莞,,,VIVO,VIVO,广东东莞,Guangdong,消费电子产品,Consumer Electronics,145.0,2040.0,0%,,未知,2024
+345,82,李如成,Li Rucheng,73,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-浙江-宁波,,,雅戈尔,Youngor,浙江宁波,Zhejiang,服装、房地产、投资,"Apparel, Real Estate, Investments ",145.0,2040.0,7%,,父女,2024
+353,-63,王长田,Wang Changtian,59,先生,中国-辽宁-大连,China-Liaoning-Dalian,中国-北京,本科,复旦,光线传媒,Enlight Media,北京,Beijing,影视娱乐,Entertainment,140.0,1970.0,-24%,,夫妇,2024
+353,-11,王一鸣,Wang Yiming,43,先生,,,中国-浙江-宁波,,,锦浪科技,Ginlong Technologies,浙江宁波,Zhejiang,光伏逆变器,Inverter,140.0,1970.0,-15%,,家族,2024
+353,53,魏应充,Wei Yin-Chun,67,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,顶新,Ting Hsin,天津,Tianjin,食品和饮料,Food & Beverages,140.0,1970.0,0%,,未知,2024
+353,53,魏应交,Wei Ying-Chiao,69,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,顶新,Ting Hsin,天津,Tianjin,食品和饮料,Food & Beverages,140.0,1970.0,0%,,未知,2024
+353,53,魏应行,Wei Yin-Heng,65,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,顶新,Ting Hsin,天津,Tianjin,食品和饮料,Food & Beverages,140.0,1970.0,0%,,未知,2024
+353,-40,吴凯,Wu Kai,56,先生,,,中国-福建-宁德,博士,上海交大,宁德时代,CATL,福建宁德,Fujian,锂电池,Battery technology,140.0,1970.0,-20%,,未知,2024
+353,-169,王燕清,Wang Yanqing,58,先生,中国-江苏-无锡,China-Jiangsu-Wuxi,中国-江苏-无锡,,,先导智能,Lead,江苏无锡,Jiangsu,自动化设备,Automation equipment manufacturing,140.0,1970.0,-49%,,家族,2024
+353,-130,汪建,Wang Jian,70,先生,中国-湖南,China-Hunan,中国-广东-深圳,,,华大基因、碳云,"Bgi Genomics, iCarbonX",广东深圳,Guangdong,基因检测、医疗大数据,Genetic Testing,140.0,1970.0,-40%,,未知,2024
+353,35,潘来灿,Pan Laican,未知,先生,,,中国-广东-佛山,,,海天味业,Haitian,广东佛山,Guangdong,调味品,Food Flavorings,140.0,1970.0,-3%,,未知,2024
+353,-51,南存辉,Nan Cunhui,61,先生,中国-山东-济宁,China-Shandong-Jining,中国-浙江-温州,,,正泰,Chint,浙江温州,Zhejiang,工业电器、投资,"Industrial electronics, Investments",140.0,1970.0,-22%,,未知,2024
+353,5,侯军呈,Hou Juncheng,60,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-浙江-杭州,,,珀莱雅,Proya Cosmetics,浙江杭州,Zhejiang,化妆品,Cosmetics,140.0,1970.0,-13%,,未知,2024
+353,282,卓志哲,Cho Jyh-jer,未知,先生,中国-台湾-鹿港,China-Taiwan-Deer Port,中国-台湾-新竹,,,联发科技,Media Tek,台湾新竹,Taiwan,半导体,Semiconductors,140.0,1970.0,47%,,未知,2024
+353,-11,竺兆江,Zhu Zhaojiang,51,先生,,,中国-广东-深圳,,,传音,Transsion,广东深圳,Guangdong,消费电子产品,Mobile,140.0,1970.0,-15%,,未知,2024
+353,74,俞敏洪,Yu Minhong,62,先生,中国-江苏-无锡,China-Jiangsu-Wuxi,中国-北京,本科,北大,新东方,New Oriental,北京,Beijing,教育,Education,140.0,1970.0,4%,,未知,2024
+353,316,吴礼淦,Wu Li-gann,83,先生,中国-台湾,China-Taiwan,中国-上海,,,沪电股份,WUS Printed Circuit,上海,Shanghai,印制电路板,Electronic components,140.0,1970.0,56%,,家族,2024
+353,17,叶立培,Ye Lipei,80,先生,中国-上海,China-Shanghai,中国-香港,硕士,,仲盛,Super Ocean,上海闵行,Shanghai,投资、房地产,"Investments, Real Estate",140.0,1970.0,-10%,,家族,2024
+353,74,易大盛,Yi Dasheng,63,先生,,,中国-湖南-长沙,,,富兴,Fuxing,湖南长沙,Hunan,汽车服务，产业园区,"Car seivices, Real Estate",140.0,1970.0,4%,,未知,2024
+353,24,周永利,Zhou Yongli,68,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-浙江-绍兴,,,永利,Yongli,浙江绍兴,Zhejiang,轻纺、房地产、投资,"Textiles, real estate, Investments",140.0,1970.0,-7%,,家族,2024
+371,100,肖自江,Xiao Zijiang,74,先生,中国-湖南-娄底,,中国-湖南-长沙,,,五江轻化,Wujiang,湖南长沙,Hunan,钛合金、保温容器,Chemicals,135.0,1900.0,8%,,未知,2024
+371,56,刘卫平,Liu Weiping,45,先生,中国-湖南-平江,China -Hunan-Pingjiang,中国-河南-漯河,,,卫龙,Weilong,河南漯河,Henan,食品,Food,135.0,1900.0,0%,,未知,2024
+371,56,方文雄,David Fong Man-hung,未知,先生,中国-广东-东莞,China-Guangdong,中国-香港,,,协成行,Hip Shing Hong,香港,Hong Kong,房地产,Estate Holding,135.0,1900.0,0%,,家族,2024
+371,-13,沈锡强,Shen Xichang,76,先生,中国-江苏-无锡,China-Jiangsu-Wuxi,中国-江苏-无锡,,,雅克科技,Yoke Technology,江苏无锡,Jiangsu,化工新材料,Chemical materials,135.0,1900.0,-16%,,家族,2024
+371,100,肖安江,Xiao Anjiang,61,先生,中国-湖南-娄底,,中国-湖南-长沙,,,五江轻化,Wujiang,湖南长沙,Hunan,钛合金、保温容器,Chemicals,135.0,1900.0,8%,,未知,2024
+371,-29,汪建国,Wang Jianguo,64,先生,中国-江苏-苏州,China-Jiangsu-Suzhou,中国-江苏-南京,,,五星投资,Five Star Appliance,江苏南京,Jiangsu,电子商务、儿童用品连锁,"E-Commerce, Retail",135.0,1900.0,-18%,,父子,2024
+371,100,袁志伦,Yuan Zhilun,60,先生,中国-重庆,China-Chongqing,中国-重庆,本科,川大,博赛矿业,Bosai Minerals,重庆,Chongqing,矿业,Mining,135.0,1900.0,8%,,未知,2024
+371,121,伍伟国,Michael Wu Wai Kwok,54,先生,中国-香港,China-Hong Kong,中国-香港,,,美心,Maxim's Caterers,香港,Hong Kong,餐饮,Restaurants,135.0,1900.0,13%,,家族,2024
+371,17,王世忠,Wang Shih-Chung,未知,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,亚德客,AirTAC,台湾台北,Taiwan,工业机械,Industrial Machinery,135.0,1900.0,-7%,,家族,2024
+371,100,焦佑伦,Chiao Yu-Lon,66,先生,,,中国-台北,,,华新丽华,Walsin Lihwa,台湾台北,Taiwan,半导体,Semiconductors,135.0,1900.0,8%,,家族,2024
+371,-29,林秀成,Lin Xiucheng,69,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-厦门,,,三安,Sanan,福建厦门,Fujian,LED,LED,135.0,1900.0,-18%,,父子,2024
+371,121,董凡,Dong Fan,54,先生,,,中国-广东-珠海,硕士,上财、中山,健帆生物,Jafron Biomedical,广东珠海,Guangdong,生物医疗设备,Health Tech,135.0,1900.0,13%,,未知,2024
+371,6,邓鸿,Deng Hong,61,先生,中国-四川,China - Sichuan,中国-四川-成都,本科,北京工业,成都环球世纪,Chengdu International Exhibition & Convention Center,四川成都,Sichuan,投资、房地产,"Investments, Real Estate",135.0,1900.0,-10%,,未知,2024
+371,-1,何猷龙,Lawrence Ho Yau Lung,48,先生,中国-香港,China-Hong Kong,中国-香港,,,新濠国际,Melco,香港,Hong Kong,博彩,Gaming,135.0,1900.0,-13%,,家族,2024
+371,6,刘志强,Liu Zhiqiang,60,先生,中国-广东,China-Guangdong,中国-广东-深圳,硕士,,香江,Heung Kong,广东深圳,Guangdong,房地产、金融,"Real Estate, Finance",135.0,1900.0,-10%,,夫妇,2024
+371,17,许树根,Xu Shugen,59,先生,中国-浙江,China-Zhejiang,中国-浙江-湖州,本科,,鼎力,Zhejiangdingli,浙江湖州,Zhejiang,机械制造,Manufacturing,135.0,1900.0,-7%,,未知,2024
+371,150,袁富根,Yuan Fugen,74,先生,中国-江苏-苏州,China-Jiangsu-Suzhou,中国-江苏-苏州,,,东山精密,Dongshan Precision Manufacturing,江苏苏州,Jiangsu,精密铸件,Precision castings,135.0,1900.0,17%,,家族,2024
+388,0,苏素玉,Su Suyu,76,先生,中国-广东-汕头,China-Guangdong-Shantou,中国-广东-汕头,,,联美,Lianmei,广东汕头,Guangdong,房地产、投资,"Real Estate, Investments",130.0,1830.0,-10%,,家族,2024
+388,-46,王均金,Wang Junjin,56,先生,,,中国-上海,硕士,,均瑶,JuneYao,上海徐汇,Shanghai,房地产、航空、零售,"Real estate, airline, retail",130.0,1830.0,-21%,,未知,2024
+388,67,王秋雄,Wang Chou-Hsiong ,81,先生,中国-台湾,China-Taiwan,中国-台湾-斗六,,,丰泰,Feng Tay,台湾斗六,Taiwan,服装,Apparel & Accessories,130.0,1830.0,0%,,家族,2024
+388,241,兰春,Lan Chun,58,先生,,,中国-北京,,,新英才,New Talent,北京,Beijing,教育、生物医药、房地产、投资,"Education, Biotech, Real Estate, Investments",130.0,1830.0,31%,,夫妇,2024
+388,104,李湘平,Li Xiangping,未知,先生,,,中国-山东-菏泽,,,东明石化,Dongming,山东菏泽,Shandong,石油化工,Petrochemical,130.0,1830.0,8%,,未知,2024
+388,-127,李良彬,Li Liangbin,57,先生,中国-江西-宜春,China -Jiangxi - Yichun,中国-江西-新余,,,赣锋锂业,Ganfeng Lithium,江西新余,Jiangxi,有色金属冶炼加工,Non-ferrous Metals,130.0,1830.0,-37%,,未知,2024
+388,-174,李卫国,Li Weiguo,59,先生,中国-湖南-常德,China-Hunan-Changde,中国-北京,本科,湖南农,东方雨虹,Oriental Yuhong,北京,Beijing,防水材料,Waterproofing Material,130.0,1830.0,-46%,,未知,2024
+388,-18,李仙德,Li Xiande,49,先生,,,中国-江西-上饶,,,晶科能源,Jinko Solar,江西上饶,Jiangxi,太阳能,Solar,130.0,1830.0,-16%,,未知,2024
+388,39,黄达文,Huang Dawen,64,先生,中国-香港,China-Hong Kong,中国-浙江-宁波,,,合盛,Hoshine Silicon,浙江宁波,Zhejiang,硅材料,Metals & Mining,130.0,1830.0,-4%,,未知,2024
+388,-46,崔鹏,Cui Peng,47,先生,,,中国-广东-深圳,,,菲鹏生物,Fapon Biotech,广东深圳,Guangdong,生物科技,Healthcare,130.0,1830.0,-21%,,夫妇,2024
+388,-30,崔立新,Cui Lixin,未知,先生,,,中国-山东-滨州,,,创新集团,Innovation Group,山东滨州,Shandong,有色金属,Non-ferrous metals,130.0,1830.0,-19%,,未知,2024
+388,316,陈世卿,Tony Chen Shih-Ching,75,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-台中,,,大立光,Largan,台湾台北,Taiwan,电子元件,Electronic Components,130.0,1830.0,51%,,夫妇,2024
+388,83,陈一丹,Chen Yidan,53,先生,中国-广东-深圳,China-Guangdong-Shenzhen,中国-广东-深圳,硕士,深圳、南大,腾讯,Tencent,广东深圳,Guangdong,互联网服务,Internet Services,130.0,1830.0,4%,,未知,2024
+388,-98,梁允超,Liang Yunchao,55,先生,中国-湖北-武汉,China -Hubei-Wuhan,中国-广东-珠海,,,汤臣倍健,By-Health,广东珠海,Guangdong,保健品,Healthcare,130.0,1830.0,-30%,,家族,2024
+388,133,刘革新,Liu Gexin,73,先生,中国-湖北,China - Hubei,中国-四川-成都,,,科伦药业,Kelun Pharmaceutical,四川成都,Sichuan,制药、医药流通,"Pharmaceuticals, medicine circulation",130.0,1830.0,13%,,未知,2024
+388,83,尚吉永,Shang Jiyong,56,先生,中国-山东,China-Shandong,中国-山东-东营,,,万达控股,Wanda,山东东营,Shandong,轮胎、电缆、化工,"Tire, cable, chemical",130.0,1830.0,4%,,未知,2024
+388,104,周敬良,Zhou Jingliang,74,先生,中国-海南-海口,China-Hainan-Haikou,中国-广东-深圳,,,景田,Ganten,广东深圳,Guangdong,饮料,Food & Beverages,130.0,1830.0,8%,,未知,2024
+388,New,张国炜,K.W. Chang,未知,先生,,,中国-台湾-台北,,,星宇航空,Starlux Airlines,台湾台北,Taiwan,航空,Aerospace & Defence,130.0,1830.0,NEW,,家族,2024
+388,18,许冉,Xu Ran,未知,未知,,Henan,河南焦作,硕士,,龙佰,LB,河南焦作,Henan,钛白粉,Titanium Dioxide,130.0,1830.0,-7%,,家族,2024
+388,0,谢秉昆,Xie Bingkun,58,先生,,,中国-福建-福州,,,坤彩科技,Kuncai,福建福州,Fujian,珠光材料,Pearlescent material,130.0,1830.0,-10%,,家族,2024
+388,39,吴绪顺,Wu Xushun,76,先生,中国-安徽-芜湖,China -Anhui - Wuhu,中国-安徽-芜湖,,,三七互娱,37 Interactive Entertainment,广东广州,Guangdong,网络游戏,Network game,130.0,1830.0,-4%,,家族,2024
+388,-114,朱兴明,Zhu Xingming,57,先生,中国-湖南,China-Hunan,中国-广东-深圳,硕士,,汇川技术,Inovance Technology,广东深圳,Guangdong,工业自动化产品,Electronic Equipment,130.0,1830.0,-33%,,父女,2024
+410,-4,许景南,Xu Jingnan,69,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-泉州,,,匹克,Peak,福建泉州,Fujian,体育用品,Sportswear,125.0,1760.0,-11%,,家族,2024
+410,82,闫希军,Yan Xijun,71,先生,中国-甘肃-庆阳,China -Gansu - Qingyang,中国-天津,博士,南京农业,天士力,Tasly,天津,Tianjin,医药,Pharmaceuticals,125.0,1760.0,4%,,家族,2024
+410,-108,唐金奎,Tang Jinkui,69,先生,中国-江苏-苏州,China-Jiangsu-Suzhou,中国-江苏-苏州,,,盛虹,Shenghong,江苏苏州,Jiangsu,印染、化纤、房地产,"Printing and Dyeing, Chemical Fiber, Real Estate",125.0,1760.0,-31%,,夫妇,2024
+410,111,任正非,Ren Zhengfei,80,先生,中国-贵州-安顺,China-Guizhou-Anshun,中国-广东-深圳,本科,重庆,华为,Huawei,广东深圳,Guangdong,消费电子、电讯,"Consumer Electronics, Telecommunications",125.0,1760.0,9%,,未知,2024
+410,-40,邱光和,Qiu Guanghe,73,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-浙江-温州,,,森马,Semir,浙江温州,Zhejiang,服装,Apparel,125.0,1760.0,-19%,,家族,2024
+410,45,吕慧,Lyu Hui,75,先生,,,中国-香港,硕士,,嘉鑫,Pioneer Metals,香港,Hong Kong,钢铁、铁矿石进出口、房地产,"Steel, Mining",125.0,1760.0,-4%,,母女,2024
+410,-52,严陈莉莲,Yen Chen Lilian,59,女士,中国-台湾,China-Taiwan,中国-台湾-新北,,,裕隆,Yulon,台湾新北,Taiwan,汽车销售,Automobile Sales,125.0,1760.0,-22%,,家族,2024
+410,17,蔡华波,Cai huabo,48,先生,,,中国-广东-深圳,,,江波龙,Longsys,广东深圳,Guangdong,半导体,Semiconductors,125.0,1760.0,-7%,,未知,2024
+410,-4,丁雅丽,Ding Yali,未知,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-厦门,,,安踏,Anta,福建厦门,Fujian,体育用品,Sportswear,125.0,1760.0,-11%,,未知,2024
+410,17,丁立国,Ding Liguo,54,先生,中国-河北-任丘,China-Hebei-Renqiu,中国-河北-唐山,,,德龙,Delong,上海,Shanghai,钢铁、天然气,"Iron,Natural Gas",125.0,1760.0,-7%,,家族,2024
+410,82,董伟,Dong Wei,53,先生,,,中国-江苏-连云港,,,恒瑞,Heng Chuang,江苏连云港,Jiangsu,医药,Pharmaceuticals,125.0,1760.0,4%,,未知,2024
+410,341,洪锋,Hong Feng,未知,先生,,,中国-北京,硕士,上海交大、美国普渡大学,小米,Xiaomi,北京,Beijing,智能硬件与技术,IoT,125.0,1760.0,54%,,未知,2024
+410,-4,雷菊芳,Lei Jufang,71,女士,中国-甘肃-定西,China -Gansu - Dingxi,中国-西藏-林芝,本科,西交大,奇正藏药,Qizheng Pharmaceutical,西藏林芝,Tibet,医药,Pharmaceuticals,125.0,1760.0,-11%,,母子,2024
+410,-4,李非列,Li Feilie,58,先生,中国-北京,China-Beijing,中国-广东-深圳,硕士,北京经济,飞尚,Feishang,广东深圳,Guangdong,有色金属、钢铁、物流,"Non-ferrous Metals, Steel, Logistics",125.0,1760.0,-11%,,家族,2024
+410,-22,李伟,Li Wei,56,先生,中国-河南,China-Henan,中国-河南-郑州,本科,郑大,千味央厨,Qianwei,河南郑州,Henan,食品、房地产,"Food, real estate",125.0,1760.0,-14%,,未知,2024
+410,New,林聪吉,Lin Tsung-Chi,未知,未知,,,台湾高雄,,,川湖科技,King Slide,台湾高雄,Taiwan,五金配件,Mechanical Products,125.0,1760.0,NEW,,家族,2024
+410,82,梁亮胜,Liang Liangsheng,73,先生,中国-广东-梅州,China-Guangdong-Meizhou,中国-香港,本科,香港工商管理学院,丝宝,C-Bons,香港,Hong Kong,日化、投资,"Daily Chemical Products, Hygiene Products, Investments",125.0,1760.0,4%,,未知,2024
+410,82,徐新,Xu Xin,58,先生,,,中国-上海,本科,南大,今日资本,Capitaltoday,上海浦东,Shanghai,投资,Investments,125.0,1760.0,4%,,未知,2024
+410,-4,俞发祥,Yu Faxiang,53,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-浙江-绍兴,,,祥源控股,Sunriver,浙江绍兴,Zhejiang,基础设施建设、房地产,"Infrastructure, real estate",125.0,1760.0,-11%,,未知,2024
+410,17,袁志敏,Yuan Zhimin,63,先生,中国-四川,China - Sichuan,中国-广东-广州,硕士,北京理工,金发科技,Kingfa,广东广州,Guangdong,化工塑料,Chemicals,125.0,1760.0,-7%,,夫妇,2024
+410,225,张洪本,Richard H. P. Chang,78,先生,中国-台湾,China-Taiwan,中国-台湾-高雄,,,日月光,ASE,台湾高雄,Taiwan,工业品、房地产,"Industrial Products, Real Estate",125.0,1760.0,32%,,未知,2024
+410,-85,赵立新,Zhao Lixin,58,先生,,,中国-上海,,,格科微,Galaxcore,上海,Shanghai,CMOS图像传感器,Industrial Products,125.0,1760.0,-26%,,家族,2024
+410,82,李妙行,Li Miaohang,未知,先生,,,中国-贵州-贵阳,,,老干妈,Laoganma,贵州贵阳,Guizhou,食品,Food,125.0,1760.0,4%,,未知,2024
+433,New,祝文宇,Chu Wen-Yu,未知,未知,,,台湾台北,本科,逢甲大学,爱山林,JSL,台湾台北,Taiwan,房地产,Real Estate,120.0,1690.0,NEW,,家族,2024
+433,-6,周耀庭,Zhou Yaoting,81,先生,中国-江苏-无锡,China-Jiangsu-Wuxi,中国-江苏-无锡,,,红豆,Hongdou,江苏无锡,Jiangsu,服装、橡胶轮胎、房地产,"Apparel, Rubber Tire, Real Estate",120.0,1690.0,-11%,,家族,2024
+433,-6,叶国一,Yeh Kuo-I,83,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,英业达,Inventec,台湾台北,Taiwan,电脑产品,Computer Products,120.0,1690.0,-11%,,家族,2024
+433,371,黎万强,Li Wanqiang,47,先生,中国-广东,China-Guangdong,中国-北京,本科,西安工程大学,小米,Xiaomi,北京,Beijing,智能硬件与技术,IoT,120.0,1690.0,52%,,未知,2024
+433,-108,陆地,Lu Di,未知,先生,,,中国-广东-深圳,,,大疆,DJI,广东深圳,Guangdong,无人机,Drones,120.0,1690.0,-29%,,未知,2024
+433,103,孟庆山,Meng Qingshan,76,先生,中国-河北,China-Hebei,中国-河北-廊坊,,,梅花,Meihua,河北廊坊,Hebei,食用调味品,Edible Condiment,120.0,1690.0,9%,,家族,2024
+433,88,李贵山,Li Guishan,未知,先生,,,中国-贵州-贵阳,,,老干妈,Laoganma,贵州贵阳,Guizhou,食品,Food,120.0,1690.0,4%,,未知,2024
+433,38,刘锋,Liu Feng,54,先生,中国-山东,China-Shandong,中国-山东-济南,本科,,永锋,Yongfeng,山东济南,Shandong,钢铁,Steel,120.0,1690.0,-4%,,夫妇,2024
+433,-56,王瀚,Wang Han,37,先生,,,中国-上海,本科,英国伦敦大学,均瑶,JuneYao,上海徐汇,Shanghai,房地产、航空、零售,"Real estate, airline, retail",120.0,1690.0,-20%,,未知,2024
+433,New,瞿芳,Qu Fang,未知,未知,,Hubei,上海,本科,北京外国语大学,小红书,Xiaohongshu,上海,Shanghai,生活服务平台、电商,E-Commerce,120.0,1690.0,NEW,,未知,2024
+433,38,王林祥,Wang Linxiang,73,先生,中国-内蒙古-包头,China-Inner Mongolia-Baotou,中国-内蒙古-鄂尔多斯,,,鄂尔多斯,Erdos,内蒙古鄂尔多斯,Inner Mongolia,羊绒、煤电、冶金、房地产,"Cashmere, Coal, Real Estate",120.0,1690.0,-4%,,未知,2024
+433,88,温鹏程,Wen Pengcheng,62,先生,中国-广东-云浮,China-Guangdong-Yunfu,中国-广东-云浮,,,温氏食品,Wens Foodstuff,广东云浮,Guangdong,家禽养殖畜牧,Animal Husbandry,120.0,1690.0,4%,,家族,2024
+433,-56,徐宇,Xu Yu,52,先生,中国-广东-广州,China-Guangdong-Guangzhou,中国-广东-广州,硕士,长江,赫基国际,Trendy International,广东广州,Guangdong,服装,Apparel,120.0,1690.0,-20%,,未知,2024
+433,-221,徐金富,Xu Jinfu,60,先生,中国-广东-广州,China-Guangdong-Guangzhou,中国-广东-广州,本科,浙大,天赐材料,Tinci Materials,广东广州,Guangdong,化学原料制品,Chemicals,120.0,1690.0,-51%,,未知,2024
+433,-27,杨雪岗,Yang Xuegang,59,先生,中国-河北-邢台,China-Hebei-Yantai,中国-河北-邢台,硕士,河北水利电力学院、河北工业大学,旭阳,Risun,北京,Beijing,煤炭、化工,"Coal, Chemicals",120.0,1690.0,-14%,,家族,2024
+433,59,徐振华,Xu Zhenhua,45,先生,中国-上海,China-Shanghai,中国-上海,,,沐瞳科技,Moonton,上海,Shanghai,游戏,Game,120.0,1690.0,0%,,未知,2024
+433,59,金惠明,Jin Huiming,71,先生,中国-上海,China-Shanghai,中国-上海,,,大华,Dahua,上海宝山,Shanghai,房地产,Real estate,120.0,1690.0,0%,,家族,2024
+433,-180,黄毅,Huang Yi,61,先生,,,中国-北京,本科,厦大,中升控股,Zhongsheng,辽宁大连,Liaoning,汽车销售,Automobile Sales,120.0,1690.0,-43%,,未知,2024
+433,22,赖建法,Lai Jianfa,55,先生,,,中国-上海,,,中通,ZTO,上海青浦,Shanghai,快递,Express Delivery,120.0,1690.0,-8%,,未知,2024
+433,371,黄江吉,Huang Jiangji,未知,先生,,,中国-北京,,,小米,Xiaomi,北京,Beijing,智能硬件与技术,IoT,120.0,1690.0,52%,,未知,2024
+433,-6,龚俊龙,Gong Junlong,65,先生,中国-广东-汕尾,China-Guangdong-Tai Wei,中国-广东-深圳,,,恒裕,Hengyu,广东深圳,Guangdong,房地产、投资,"Real Estate, Investments",120.0,1690.0,-11%,,家族,2024
+454,-129,姜银台,Jiang Yintai,74,先生,,,中国-上海,硕士,,岱美股份,Daimay,上海浦东,Shanghai,汽车内饰,Automotive Interior,115.0,1620.0,-32%,,家族,2024
+454,-27,黄世再,Huang Shizai,73,先生,中国-广东-揭阳,China-Guangdong-Jieyang,中国-广东-深圳,,,大中华地产,Great China Properties,广东深圳,Guangdong,房地产,Real Estate,115.0,1620.0,-15%,,家族,2024
+454,38,赖建平,Lai Jianping,未知,先生,,,中国-广东-佛山,,,海天味业,Haitian,广东佛山,Guangdong,调味品,Food Flavorings,115.0,1620.0,-4%,,未知,2024
+454,111,方洪波,Fang Hongbo,57,先生,中国-安徽-安庆,China -Anhui -Anqing,中国-广东-佛山,,,美的,Midea,广东佛山,Guangdong,家电制造,Household Appliances,115.0,1620.0,10%,,未知,2024
+454,-275,洪杰,Hong Jie,57,先生,,,中国-福建-莆田,,,三棵树,3Trees,福建莆田,Fujian ,涂料,Coating,115.0,1620.0,-59%,,未知,2024
+454,-48,黄山,Huang Shan,54,先生,中国-湖北-武汉,China-Hubei-Wuhan,中国-广东-深圳,,,财富趋势,Fortune Trend,广东深圳,Guangdong,金融软件,Application Software,115.0,1620.0,-18%,,未知,2024
+454,-48,黄联禧,Huang Lianxi,61,先生,中国-广东-佛山,China-Guangdong-Foshan,中国-广东-佛山,,,联塑,Lesso,广东佛山,Guangdong,建材家居,Building Materials,115.0,1620.0,-18%,,夫妇,2024
+454,-66,陈琼香,Chen Qiongxiang,未知,先生,,,中国-福建-宁德,,,宁德时代,CATL,福建宁德,Fujian,锂电池,Battery technology,115.0,1620.0,-21%,,未知,2024
+454,17,胡荣达,Hu Rongda,65,先生,中国-浙江,China-Zhejiang,中国-浙江-金华,,,三美化工,Sanmei Chemical,浙江金华,Zhejiang,化工,Petrochemical,115.0,1620.0,-8%,,父子,2024
+454,407,吕义雄,Lyv Yixiong,47,先生,中国-广东-汕头,China-Guangdong-Shantou,中国-上海,,,上美,Chicmax,上海,Shanghai,化妆品,Cosmetic,115.0,1620.0,58%,,未知,2024
+454,-84,马秀慧,Ma Xiuhui,53,先生,,,中国-上海,本科,,欧普照明,Opple,上海闵行,Shanghai,节能灯,Energy saving light,115.0,1620.0,-26%,,家族,2024
+454,-129,齐向东,Qi Xiangdong,59,先生,,,中国-北京,本科,吉大,奇安信,Qi An Xin,北京,Beijing,网络安全,Cyber Security,115.0,1620.0,-32%,,未知,2024
+454,-152,袁江涛,Yuan Jiangtao,未知,先生,,,中国-广东-深圳,,,嘉立创,JLC,广东深圳,Guangdong,半导体,Semiconductor,115.0,1620.0,-36%,,未知,2024
+454,17,邱文生,Qiu Wensheng,未知,先生,,,中国-上海,,,华勤技术,Huaqin,上海浦东,Shanghai,消费电子,Consumer electronics,115.0,1620.0,-8%,,未知,2024
+454,111,任道德,Ren Daode,64,先生,,,中国-北京,,,泰康,Taikang,北京,Beijing,保险,Insurance,115.0,1620.0,10%,,未知,2024
+454,1,俞熔,Yu Rong,53,先生,,,中国-上海,博士,上交大、上财、中医科学院,美年健康,Health 100,上海静安,Shanghai,医疗服务,Medical service,115.0,1620.0,-12%,,未知,2024
+454,-66,吴映明,Wu Yingming,57,先生,,,中国-福建-宁德,本科,东北工学院,宁德时代,CATL,福建宁德,Fujian,锂电池,Battery technology,115.0,1620.0,-21%,,未知,2024
+471,-16,许英灼,Xu Yingzhuo,59,先生,中国-广东-潮州,China-Guangdong-Chaozhou,中国-广东-广州,本科,悉尼大学,海大,Haid,广东广州,Guangdong,饲料,Agricultural Products,110.0,1550.0,-15%,,未知,2024
+471,New,赵绪龙,Zhao Xulong,未知,未知,中国-浙江-杭州,Nei Mongol,上海,,,迈富时,Marketingforce,上海静安,Shanghai,SaaS解决方案,SaaS,110.0,1550.0,NEW,,夫妇,2024
+471,0,姚奎章,Yao Kuizhang,59,先生,,,中国-河北-衡水,,,养元饮品,Yangyuan ZhiHui,河北衡水,Hebei,饮料,Food & Beverage,110.0,1550.0,-12%,,未知,2024
+471,21,郁国祥,Yu Guoxiang,54,先生,,,中国-上海,,,乐游科技,Leyou,上海,Shanghai,投资,Investments,110.0,1550.0,-8%,,未知,2024
+471,21,张宁,Zhang Ning,50,女士,,,中国-上海,硕士,北京工商大学、英国华威大学,彤程新材,Red Avenue,上海浦东,Shanghai,化工原料,Chemical raw materials,110.0,1550.0,-8%,,未知,2024
+471,94,章小华,Zhang Xiaohua,56,先生,,,中国-浙江-金华,,,红狮控股,Hongshi,浙江金华,Zhejiang,水泥,Cement,110.0,1550.0,5%,,未知,2024
+471,94,项光明,Xiang Guangming,61,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-浙江-温州,,,伟明环保,Weiming Environment Protection,浙江温州,Zhejiang,垃圾发电,garbage power,110.0,1550.0,5%,,夫妇,2024
+471,94,许晨晔,Xu Chenye,53,先生,,,中国-广东-深圳,硕士,深圳、南大,腾讯,Tencent,广东深圳,Guangdong,互联网服务,Internet Services,110.0,1550.0,5%,,未知,2024
+471,65,何著胜,He Zhusheng,77,先生,中国-辽宁,China-Liaoning,中国-辽宁-鞍山,,,后英,Houying,辽宁鞍山,Liaoning,耐火材料、钢铁、矿业,"Refractories, Steel, Mining",110.0,1550.0,0%,,家族,2024
+471,-65,曾万辉,Zeng Wanhui,56,先生,中国-湖南,China-Hunan,中国-广东-广州,,,景嘉微,Jingjia Mirco,湖南长沙,Hunan,电子器件制造,Manufacturing,110.0,1550.0,-21%,,夫妇,2024
+471,-83,周宗文,Zhou Zongwen,67,先生,,,中国-广东-深圳,,,周大生,Chow Tai Seng,广东深圳,Guangdong,珠宝,Jewellery,110.0,1550.0,-24%,,家族,2024
+471,21,郑春颖,Zheng Chunying,未知,先生,中国-辽宁-辽阳,China-Liaoning-Liaoyang,中国-上海,,,伽蓝,Jala,上海,Shanghai,化妆品,Cosmetic,110.0,1550.0,-8%,,未知,2024
+471,0,王文默,Wang Wenmo,68,先生,中国-福建,China-Fujian,中国-福建-厦门,,,安踏,Anta,福建厦门,Fujian,体育用品,Sportswear,110.0,1550.0,-12%,,未知,2024
+471,114,吴尚志,Wu Shangzhi,74,先生,中国-北京,China-Beijing,中国-北京,博士,麻省理工,鼎晖,CDH,北京,Beijing,投资,Investments,110.0,1550.0,10%,,未知,2024
+471,-65,胡兴荣,Hu Xingrong,43,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-北京,硕士,中央党校在读,多弗,Doof,北京,Beijing,贸易、房地产,"Trade, Real Estate",110.0,1550.0,-21%,,未知,2024
+471,-83,贺正刚,He Zhenggang,70,先生,,,中国-四川-乐山,,,和邦股份,Hebang,四川乐山,Sichuan,矿产、化工,"Mining, chemicals",110.0,1550.0,-24%,,未知,2024
+471,94,汪顾亦珍,Chee Chen Tung,107,先生,中国-香港,China-Hong Kong,中国-香港,,,德昌电机,Johnson Electric,香港,Hong Kong,工业产品,Industrial Products,110.0,1550.0,5%,,家族,2024
+471,21,严健军,Yan Jianjun,59,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-上海,本科,上海工程技术,致达,Zenitek,上海静安,Shanghai,信息、金融、投资,"Information, Investments",110.0,1550.0,-8%,,未知,2024
+471,21,梅志明,Mei Zhiming,52,先生,,,中国-上海,,,普洛斯,GLP,上海浦东,Shanghai,物流地产、投资,"Real Estate, Investments",110.0,1550.0,-8%,,未知,2024
+471,65,刘洪林,Liu Honglin,73,先生,中国-江苏-无锡,China-Jiangsu-Wuxi,中国-江苏-无锡,,,三木,Sanmu ,江苏无锡,Jiangsu,化工、铜加工、电线电缆,"Chemicals, copper, cable ",110.0,1550.0,0%,,未知,2024
+471,-191,李力,Li Li,59,先生,中国-湖南-长沙,China-Hunan-Changsha,中国-湖南-长沙,,,爱尔眼科,Aier Ophthalmology,湖南长沙,Hunan,医疗服务,Medical services ,110.0,1550.0,-42%,,未知,2024
+471,-16,李明,Li Ming,56,先生,中国-甘肃-陇南,China -Gansu - Minnan,中国-甘肃-陇南,,,亚特,Yate,甘肃陇南,Gansu,投资、有色金属,"Investments, Non-ferrous Metals",110.0,1550.0,-15%,,夫妇,2024
+471,-65,王剑峰,Wang Jianfeng,54,先生,,,中国-浙江-宁波,硕士,,均胜投资,Joyson,浙江宁波,Zhejiang,汽车零部件制造,Automobile parts,110.0,1550.0,-21%,,家族,2024
+494,141,罗智先,Alex C. Lo,68,先生,中国-台湾-台南,China-Taiwan-Tainan,中国-台湾-台南,,,统一,Uni-President,台湾台南,Taiwan,食品和饮料,Food & Beverages,105.0,1480.0,11%,,夫妇,2024
+494,-39,薛向东,Xue Xiangdong,65,先生,中国-山东-泰安,China-Shandong-Tai’an,中国-北京,本科,湖南,东华软件,DHC Digital,北京,Beijing,软件与信息服务,Software and Information Services,105.0,1480.0,-19%,,家族,2024
+494,91,陆昂,Lu Ang,61,女士,,,中国-北京,硕士,武汉大学,嘉德,China Guardian,北京,Beijing,投资、拍卖,"Investments, Auction",105.0,1480.0,5%,,未知,2024
+494,42,董才平,Dong Caiping,61,先生,中国-江苏-常州,China-Jiangsu-Changzhou,中国-江苏-常州,硕士,中央党校,中天钢铁,Zenith,江苏常州,Jiangsu,钢铁、投资,"Steel, Investments",105.0,1480.0,-5%,,未知,2024
+494,261,成正辉,Cheng Zhenghui,60,先生,中国-广东-深圳,China-Guangdong-Shenzhen,中国-广东-深圳,,,惠泰医疗,Apt Medical,广东深圳,Guangdong,医疗器械,Medical Devices,105.0,1480.0,31%,,未知,2024
+494,138,昌敬,Chang Jing,42,先生,,,中国-北京,,,石头科技,Roborock,北京,Beijing,智能机器人,Robotics,105.0,1480.0,8%,,未知,2024
+494,261,蔡镇球,Eric Tsai Cheng-Chiu,59,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-台北,,,霖园,Lin Yuan,台湾台北,Taiwan,金融服务,Financial Services,105.0,1480.0,31%,,家族,2024
+494,42,何旗,He Qi,42,先生,,,中国-上海,本科,,均和,Junhe,上海浦东,Shanghai,钢铁贸易,Steel trade,105.0,1480.0,-5%,,未知,2024
+494,172,甘忠如,Gan Zhongru,76,先生,,,中国-北京,,,甘李药业,Gan & Lee Pharmaceuticals,北京,Beijing,生物制药,Biotech,105.0,1480.0,12%,,未知,2024
+494,-2,陈先保,Chen Xianbao,65,先生,中国-安徽-合肥,China-Anhui-Hefei,中国-安徽-合肥,本科,江南,华泰,Hefei Huatai,安徽合肥,Anhui,农副食品加工业,Food and beverage,105.0,1480.0,-13%,,家族,2024
+494,42,许连捷,Xu Lianjie,71,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-泉州,,,恒安,HengAn,福建泉州,Fujian,个人护理用品,Personal care products,105.0,1480.0,-5%,,未知,2024
+494,212,柯尊洪,Ke Zunhong,70,先生,中国-四川-雅安,China-Sichuan-Ya’an,中国-四川-成都,本科,华西医,康弘药业,Kanghong Pharmaceuticals,四川成都,Sichuan,制药,Pharmaceuticals,105.0,1480.0,24%,,家族,2024
+494,-117,黄巧灵,Huang Qiaoling,66,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,,,宋城,Worldland,浙江杭州,Zhejiang,旅游、房地产,"Tourism, real estate",105.0,1480.0,-30%,,家族,2024
+494,-39,张传卫,Zhang Chuanwei,62,先生,中国-河南-信阳,China -Henan-Xinyang,中国-广东-中山,,,明阳智能,MingYang Smart Energy,广东中山,Guangdong,新能源,New Energy,105.0,1480.0,-19%,,家族,2024
+494,-39,张毓强,Zhang Yuqiang,69,先生,中国-浙江-嘉兴,China-Zhejiang-Jiaxing,中国-浙江-嘉兴,硕士,浙江工业,振石控股,Zhenshi,浙江嘉兴,Zhejiang,房地产、矿产,"Real estate, mining",105.0,1480.0,-19%,,家族,2024
+494,141,王雪红,Cher Wang,66,先生,中国-台湾-新北,China-Taiwan-New North,中国-台湾-桃园,,,宏达,HTC,台湾桃园,Taiwan,半导体,Semiconductors,105.0,1480.0,11%,,夫妇,2024
+494,71,王维,Wang Wei,43,先生,中国-上海,China-Shanghai,中国-广东-深圳,,,行云集团,Xingyun,广东深圳,Guangdong,企业服务,Bussiness Service,105.0,1480.0,0%,,未知,2024
+494,91,王明旺,Wang Mingwang,57,先生,中国-广东-茂名,China-Guangdong-Maoming,中国-广东-深圳,硕士,,欣旺达,Sunwoda,广东深圳,Guangdong,电子部件,Electrical Components,105.0,1480.0,5%,,夫妇,2024
+494,-88,蒲忠杰,Pu Zhongjie,61,先生,,,中国-北京,博士,西交大,乐普,Lepu,北京,Beijing,医疗设备,Medical Equipment,105.0,1480.0,-25%,,夫妇,2024
+494,136,张邦鑫,Zhang Bangxin,44,先生,中国-江苏,China-Jiangsu,中国-北京,硕士,川大、北大,好未来,TAL Education,北京,Beijing,教育,Education,105.0,1480.0,7%,,未知,2024
+494,91,袁仲雪,Yuan Zhongxue,69,先生,,,中国-山东-青岛,,,赛轮轮胎,Sailun,山东青岛,Shandong,轮胎,Tires,105.0,1480.0,5%,,父子,2024
+494,New,余凯,Yu Kai,未知,先生,,,中国-北京,博士,南大、慕尼黑,地平线,Horizon,北京,Beijing,智能芯片,Smart chips,105.0,1480.0,NEW,,未知,2024
+494,-39,叶小平,Ye Xiaoping,61,先生,中国-浙江-嘉兴,China-Zhejiang-Jiaxing,中国-浙江-杭州,博士,牛津,泰格医药,Tigermed,浙江杭州,Zhejiang,医药,Pharmaceuticals,105.0,1480.0,-19%,,未知,2024
+517,48,顾伟,Gu Wei,59,先生,中国-江西-南昌,China-Jiangxi-Nanchang,中国-新疆-乌鲁木齐,硕士,长江,兆驰股份,Mtc,广东深圳,Guangdong,消费电子产品,Consumer Electronics,100.0,1410.0,-5%,,未知,2024
+517,68,胡应湘,Gordon Wu,89,先生,中国-香港,China-Hong Kong,中国-香港,,,合和实业,Hopewell,香港,Hong Kong,房地产、建筑工程,"Real Estate, Architectural Engineering",100.0,1410.0,0%,,未知,2024
+517,-140,李建全,Li Jianquan,67,先生,,,中国-广东-深圳,,,稳健医疗,Winner,广东深圳,Guangdong,医疗用品,Health Tech,100.0,1410.0,-33%,,未知,2024
+517,68,李家权,Li Jiaquan,61,先生,中国-四川,China - Sichuan,中国-四川-成都,,,龙蟒,Lomon,四川成都,Sichuan,钛白粉、磷化工,"Titanium dioxide, phosphate",100.0,1410.0,0%,,家族,2024
+517,-90,孙孟全,Sun Mengquan,74,先生,,,中国-山东-烟台,,,鲁花,Luhua,山东烟台,Shandong,食用油,Edible oils,100.0,1410.0,-26%,,家族,2024
+517,-46,唐修国,Tang Xiuguo,61,先生,中国-湖南,China-Hunan,中国-湖南-长沙,本科,中南,三一,Sany,北京,Beijing,重型机械,Heavy Machinery,100.0,1410.0,-20%,,未知,2024
+517,68,黄宏生,Huang Hongsheng,68,先生,中国-海南-临高,China-Hainan-Lingao,中国-广东-深圳,本科,华南理工,创维,Skyworth,广东深圳,Guangdong,家用电器,Household Appliances,100.0,1410.0,0%,,家族,2024
+517,68,李国宝,Li Kwok-po,85,先生,伦敦,London,中国-香港,,,东亚银行,BEA,香港,Hong Kong,银行业,Banking,100.0,1410.0,0%,,家族,2024
+517,-90,林定强,Lin Dingqiang,58,先生,中国-福建-福州,China-Fujian-Fuzhou,中国-福建-福州,,,金辉,Kamfei,北京,Beijing,房地产,Real Estate,100.0,1410.0,-26%,,家族,2024
+517,189,刘方毅,Liu Fangyi,54,先生,,,中国-山东-淄博,,,英科医疗,Intco,山东淄博,Shandong,医疗器械,Medical devices,100.0,1410.0,18%,,未知,2024
+517,-25,李宁,Li Ning,61,先生,中国-广西-来宾,China-Guangxi-Guest,中国-北京,硕士,北大、北大,李宁,Li-ning,北京,Beijing,体育用品、投资,"Sporting Goods, Investments",100.0,1410.0,-17%,,未知,2024
+517,118,李金阳,Li Jinyang,未知,女士,,,中国-内蒙古-赤峰,,,赤峰黄金,Jilong,内蒙古赤峰,Inner Mongolia,金矿,Gold Mining,100.0,1410.0,5%,,未知,2024
+517,152,周剑,Zhou Jian,48,先生,中国-上海,China-Shanghai,中国-广东-深圳,,,优必选,UBtech,广东深圳,Guangdong,机器人,Robotics,100.0,1410.0,11%,,未知,2024
+517,19,张永平,Zhang Yongping,63,先生,,,中国-北京,,,秀水街,Xiushuijie,北京,Beijing,房地产,Real Estate,100.0,1410.0,-9%,,未知,2024
+517,-215,张立国,Zhang Liguo,60,先生,,,中国-黑龙江-哈尔滨,,,敷尔佳,Voolga,黑龙江哈尔滨,Heilongjiang,护肤品,Skincare Products,100.0,1410.0,-44%,,未知,2024
+517,19,张克强,Zhang Keqiang,64,先生,中国-广东,China-Guangdong,中国-广东-广州,硕士,澳大利亚梅铎,华美国际,Huamei,广东广州,Guangdong,投资、房地产,"Investments, Real Estate",100.0,1410.0,-9%,,未知,2024
+517,152,秦龙,Qin Long,59,先生,,,中国-山东-青岛,,,森麒麟,Sentury,山东青岛,Shandong,轮胎,Tires,100.0,1410.0,11%,,未知,2024
+517,118,饶微,Rao Wei,60,先生,,,中国-广东-深圳,,,新产业,New Industries,广东深圳,Guangdong,医疗器械,Health Tech,100.0,1410.0,5%,,家族,2024
+517,48,施文博,Shi Wenbo,74,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-泉州,,,恒安,HengAn,福建泉州,Fujian,个人护理用品,Personal care products,100.0,1410.0,-5%,,未知,2024
+517,-46,邵根伙,Shao Genhuo,59,先生,中国-浙江-金华,China-Zhejiang-Jinhua,中国-北京,博士,浙大、中国农业,大北农,Dabeinong,北京,Beijing,饲料、种业,"Animal Feed, Seed",100.0,1410.0,-20%,,未知,2024
+517,-147,田明,Tian Ming,71,先生,中国-安徽,China-Anhui,中国-安徽-合肥,,,美亚光电,Meyer,安徽合肥,Anhui,专用设备制造业,"Electronic device, optoelectronic",100.0,1410.0,-35%,,未知,2024
+517,234,万隆,Wan Long,84,先生,中国-河南-漯河,China-Henan-Yuhe,中国-河南-郑州,,,双汇,Shuanghui,河南郑州,Henan,食品,Food processing,100.0,1410.0,23%,,夫妇,2024
+517,423,程维,Cheng Wei,41,先生,中国-江西-上饶,China-Jiangxi-Shangrao,中国-北京,本科,北京化工,滴滴出行,Didi,北京,Beijing,生活服务平台,Life Service,100.0,1410.0,54%,,未知,2024
+517,-46,陈康平,Chen Kangping,51,先生,,,中国-江西-上饶,,,晶科能源,Jinko Solar,江西上饶,Jiangxi,太阳能,Solar,100.0,1410.0,-20%,,未知,2024
+517,118,吴东进,Eugene Wu,79,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-台北,,,新光,Shin Kong,台湾台北,Taiwan,金融、医院,"Financial Services, Hospital",100.0,1410.0,5%,,家族,2024
+517,-90,汪林朋,Wang Linpeng,55,先生,中国-湖北-黄冈,China -Hubei - Huanggang,中国-北京,硕士,北京工商大学、北大,居然之家,Easyhome,北京,Beijing,家居建材,Home Building Materials,100.0,1410.0,-26%,,未知,2024
+517,68,邓耀,Tang Yiu,90,先生,中国-香港,China-Hong Kong,中国-香港,,,百丽,Belle,香港,Hong Kong,服装与配饰,Apparel & Accessories,100.0,1410.0,0%,,家族,2024
+517,152,段永平,Duan Yongping,63,先生,中国-江西-南昌,China-Jiangxi-Nanchang,美国-湾区,硕士,浙大、人大,步步高,BBK,美国,USA,投资,Investments,100.0,1410.0,11%,,未知,2024
+517,189,张恭运,Zhang Gongyun,61,先生,,,中国-山东-高密,本科,,豪迈科技,Himile ,山东潍坊,Shandong,机械制造,Machinery,100.0,1410.0,18%,,未知,2024
+517,113,应书岭,Ying Shuling,43,先生,中国-上海,China-Shanghai,中国-北京,本科,华东师大,英雄互娱,Yingxiong,北京,Beijing,电竞游戏,E-sports Game,100.0,1410.0,2%,,未知,2024
+517,68,杨冰,Yang Bing,39,先生,中国-江西-,China-Jiangxi -,中国-上海,,,得物,Dewu,上海,Shanghai,电商,E-commerce,100.0,1410.0,0%,,未知,2024
+517,-129,谢嘉,Xie Jia,未知,先生,,,中国-广东-深圳,,,大疆,DJI,广东深圳,Guangdong,无人机,Drones,100.0,1410.0,-31%,,未知,2024
+517,-280,李仲初,Li Zhongchu,61,先生,中国-湖南-娄底,China-Hunan-Yandi,中国-北京,硕士,武大、航天二院,石基,Shiji,北京,Beijing,软件与信息服务,Software and Information Services,100.0,1410.0,-55%,,家族,2024
+517,-25,励民,Li Min,59,先生,,,中国-福建-福州,,,瑞芯微,Rockchip Electronics,福建福州,Fujian,集成电路,Integrated circuit,100.0,1410.0,-17%,,未知,2024
+551,84,苏纯兴,Su Chun-Sing,未知,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-台北,,,和泰汽车,Hotai Motor,台湾台北,Taiwan,汽车零售,Automobile Sales,95.0,1340.0,0%,,家族,2024
+551,84,王恒,Roger Wang Hung,76,先生,中国-广东-广州,China-Guangdong-Guangzhou,美国,,,金鹰,Golden Eagle,江苏南京,Taiwan,零售、房地产,Retail,95.0,1340.0,0%,,家族,2024
+551,-59,林来嵘,Lin Lairong,56,先生,中国-内蒙古-巴彦淖尔市,China -Inner Mongolia - Bayangar City,中国-天津,,,众兴,Zhongxing,天津,Tianjin,矿业,Mining,95.0,1340.0,-21%,,夫妇,2024
+551,-352,梁丰,Liang Feng,56,先生,,,中国-上海,硕士,,璞泰来,Putailai,上海浦东,Shanghai,锂电池材料,Lithium Battery,95.0,1340.0,-63%,,夫妇,2024
+551,-15,昝圣达,Zan Shengda,61,先生,中国-江苏-南通,China-Jiangsu-Nantong,中国-江苏-南通,,,综艺,Zongyi,江苏南通,Jiangsu,新能源、信息科技、投资,"New energy, IT, Investments",95.0,1340.0,-14%,,未知,2024
+551,14,张世龙,Zhang Shilong,58,先生,,,中国-北京,博士,,圣邦,SG Micro,北京,Beijing,模拟芯片,Analog Chip,95.0,1340.0,-10%,,家族,2024
+551,155,乔志涌,Qiao Zhiyong,60,先生,中国-四川,China-Sichuan-Aba,中国-四川-成都,,,侨源股份,Qiaoyuan Gas,四川成都,Sichuan,液态气体,Chemical,95.0,1340.0,12%,,家族,2024
+551,84,荣智健,Rong Zhijian,82,先生,中国-上海,China-Shanghai,中国-香港,本科,天大,中信泰富,CITIC,香港,Hong Kong,投资、房地产,"Investments, Real Estate",95.0,1340.0,0%,,未知,2024
+551,-30,王均豪,Wang Junhao,52,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-上海,硕士,亚洲国际公开,均瑶,JuneYao,上海徐汇,Shanghai,房地产、航空、零售,"Real estate, airline, retail",95.0,1340.0,-17%,,未知,2024
+551,34,王振华,Wang Zhenhua,62,先生,中国-江苏,China-Jiangsu,中国-上海,,,新城,Seazen,上海普陀,Shanghai,房地产,Real estate,95.0,1340.0,-5%,,家族,2024
+551,84,周镇科,Zhou Zhenke,49,先生,中国-广东-汕头,China-Guangdong-Shantou,中国-广东-深圳,本科,华南理工,大晟文化,Dasheng Times Cultural,广东深圳,Guangdong,文化娱乐,Media & Entertainment,95.0,1340.0,0%,,未知,2024
+551,539,杨霞,Yang Xia,50,女士,,,中国-山西-太原,,,锦波,Jinbo,山西太原,Shanxi,生物医药,Biopharmaceuticals,95.0,1340.0,73%,,未知,2024
+551,-249,李晓明,Li Xiaoming,66,先生,,,中国-云南-玉溪,硕士,Universit of Massachusetts、Universit of Massachusetts,恩捷股份,Energy New Material,云南玉溪,Yunnan,包装盒生产,Packaging Production,95.0,1340.0,-47%,,家族,2024
+551,14,何涛,He Tao,44,先生,,,中国-北京,,,圆心科技,Yuanxin,北京,Beijing,互联网医院,Pharmaceuticals,95.0,1340.0,-10%,,未知,2024
+551,84,陈得福,Chen Tei-Fu,76,先生,中国-台湾-嘉义,China-Taiwan-Jiayi,美国-洛杉矶,,,仙妮雷德,Sunrider,美国洛杉矶,Los Angeles,医疗保健,Healthcare,95.0,1340.0,0%,,家族,2024
+551,345,范秀莲,Fan Xiulian,61,先生,中国-辽宁-沈阳,China-Liaoning-Shenyang,中国-辽宁-沈阳,硕士,华南工、长江商学院,海思科,Haisco Pharmaceutical,西藏山南,Tibet,医药,Pharmaceuticals,95.0,1340.0,36%,,母女,2024
+551,-59,吴美蓉,Wu Meirong,64,先生,,,中国-上海,,,美科股份,Meike,上海,Shanghai,太阳能设备,Solar energy equipment,95.0,1340.0,-21%,,家族,2024
+551,84,谢菊华,Xie Juhua,73,先生,,,中国-江苏-南京,,,健友股份,King-friend,江苏南京,Jiangsu,原料药,Bulk Drug,95.0,1340.0,0%,,家族,2024
+551,-59,金磊,Jin Lei,70,先生,,,中国-北京,,,佰仁医疗,Balance Medical,北京,Beijing,医疗器械,Health Tech,95.0,1340.0,-21%,,夫妇,2024
+551,118,吴东亮,Thomas Wu Dong-Liang,未知,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-台北,,,新光,Shin Kong,台湾台北,Taiwan,金融,Financial,95.0,1340.0,6%,,家族,2024
+551,84,彭永鹤,Peng Yonghe,55,先生,,,中国-广东-深圳,,,新瑞鹏,Ruipeng Pet,广东深圳,Guangdong,宠物医院,Healthcare,95.0,1340.0,0%,,未知,2024
+551,118,焦震,Jiao Zheng,58,先生,,,中国-北京,硕士,山东、航空航天工业部第二研究院（山东大学）,鼎晖,CDH,北京,Beijing,投资,Investments,95.0,1340.0,6%,,未知,2024
+551,308,许达来,Koh Tuck Lye,53,先生,新加坡,Singapore,中国-北京,硕士,新国大、斯坦福,小米,Xiaomi,北京,Beijing,智能硬件与技术、投资,"IoT, Investments",95.0,1340.0,28%,,未知,2024
+551,34,吴忌寒,Wu Jihan,38,先生,中国-重庆,China-Chongqing,中国-北京,本科,北大,比特小鹿,Bitdeer,新加坡,Singapore,芯片、矿机,"Chips, Mining Hardware",95.0,1340.0,-5%,,未知,2024
+551,-226,罗秋平,Luo Qiuping,61,先生,中国-湖北-荆门,China -Hubei-Jingmen,中国-广东-广州,,,蓝月亮,Blue Moon,广东广州,Guangdong,日化用品,Personal Care,95.0,1340.0,-44%,,夫妇,2024
+576,285,何祖训,He Zuxun,59,先生,中国-云南-曲靖,China-Yunnan-Qujing,中国-云南-昆明,,,神农集团,Shennong Agricultural Industry Group,云南昆明,Yunnan,畜牧,Pig Farming,90.0,1270.0,23%,,未知,2024
+576,432,陈涛,Chen Tao,52,先生,中国-甘肃-陇南,China -Gansu - Minnan,中国-广东-惠州,,,胜宏科技,Victory Giant,广东惠州,Guangdong,高密度印制电路板,Electronic Components,90.0,1270.0,50%,,夫妇,2024
+576,-263,常建鸣,Chang Jianming,59,先生,,,中国-上海,,,鸣志电器,Moons,上海闵行,Shanghai,控制电机,Control motor,90.0,1270.0,-49%,,夫妇,2024
+576,9,陈智松,Chen Zhisong,58,先生,,,中国-福建-厦门,本科,厦大,亿联网络,Yealink,福建厦门,Fujian,通信,Communication,90.0,1270.0,-10%,,未知,2024
+576,9,高云峰,Gao Yunfeng,57,先生,,,中国-广东-深圳,硕士,,大族激光,Han's Laser,广东深圳,Guangdong,激光设备,Laser Equipment ,90.0,1270.0,-10%,,未知,2024
+576,-149,傅光明,Fu Guangming,70,先生,中国-江西-抚州,China-Jiangxi-Fuzhou,中国-福建-南平,,,圣农,Sunner,福建南平,Fujian,农业,Agriculture,90.0,1270.0,-33%,,家族,2024
+576,285,董增平,Dong Zengping,54,先生,,,中国-上海,,,思源电气,Sieyuan,上海闵行,Shanghai,输配电设备,Electronic equipment,90.0,1270.0,23%,,未知,2024
+576,-170,丁会响,Ding Huixiang,未知,先生,,,中国-广东-深圳,,,嘉立创,JLC,广东深圳,Guangdong,半导体,Semiconductor,90.0,1270.0,-36%,,未知,2024
+576,-170,丁会,Ding Hui,未知,先生,,,中国-广东-深圳,,,嘉立创,JLC,广东深圳,Guangdong,半导体,Semiconductor,90.0,1270.0,-36%,,未知,2024
+576,59,黄建勲,Huang Jianxun,59,先生,,,中国-广东-汕头,,,联泰,Lian Tai,广东汕头,Guangdong,基础建设、房地产,"Infrastructure, Real Estate",90.0,1270.0,-5%,,未知,2024
+576,130,黄民奇,Archie Hwang,72,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,汉辰科技,HermesEpitek,台湾台北,Taiwan,半导体,Semiconductors,90.0,1270.0,6%,,未知,2024
+576,179,赖苗,Lai Miao,未知,先生,,,中国-广东-深圳,,,景田,Ganten,广东深圳,Guangdong,饮料,Food & Beverages,90.0,1270.0,13%,,未知,2024
+576,179,黄小芬,Huang Xiaofen,61,女士,中国-广东-深圳,China-Guangdong-Shenzhen,中国-广东-深圳,,,景旺电子,Kinwong,广东深圳,Guangdong,印刷电路板,Printed Circuit Board,90.0,1270.0,13%,,家族,2024
+576,9,利蕴莲,Irene Lee Yun Lien,70,先生,中国-香港,China-Hong Kong,中国-香港,,,希慎兴业,Hysan,香港,Hong Kong,房地产,Estate Holding,90.0,1270.0,-10%,,家族,2024
+576,-40,李琼,Li Qiong,47,先生,,,中国-北京,硕士,天大,昆仑万维,Kunlun,北京,Beijing,互联网游戏、投资,"Game, Investments",90.0,1270.0,-18%,,未知,2024
+576,514,曾繁城,F. C. Tseng,未知,先生,,,中国-台湾-新竹,,,台积电,TSMC,台湾新竹,Taiwan,半导体,Semiconductors,90.0,1270.0,64%,,未知,2024
+576,-11,陈士良,Chen Shiliang,61,先生,中国-浙江-嘉兴,China-Zhejiang-Jiaxing,中国-浙江-嘉兴,,,桐昆,Zhejiang Tongkun,浙江嘉兴,Zhejiang,化纤、房地产,"Chemical fiber, real estate",90.0,1270.0,-14%,,未知,2024
+576,93,陈卓林,Chen Zhuolin,62,先生,中国-广东-中山,China-Guangdong-Zhongshan,中国-广东-广州,博士,美国哈姆斯顿,雅居乐,Agile,广东广州,Guangdong,投资、房地产,"Investments, Real Estate",90.0,1270.0,0%,,家族,2024
+576,-40,邓文,Deng Wen,56,先生,中国-四川-成都,China - Sichuan-Chengdu,中国-四川-成都,本科,,天味食品,Teway Food,四川成都,Sichuan,食品,Food,90.0,1270.0,-18%,,夫妇,2024
+576,-40,沈亚,Shen Ya,53,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-广东-广州,本科,上海铁路,唯品会,Vipshop,广东广州,Guangdong,新零售,New Retail,90.0,1270.0,-18%,,未知,2024
+576,93,王文杉,Duncan Wen-Shan Wang,54,先生,中国-台湾-台中,China-Taiwan-Taichung,中国-台湾-台北,,,联合报业,United Daily News,台湾台北,Taiwan,传媒,Media,90.0,1270.0,0%,,家族,2024
+576,179,张建国,Zhang Jianguo,61,先生,中国-广东-茂名,China-Guangdong-Maoming,中国-广东-广州,,,九丰能源,Jovo Energy,广东广州,Guangdong,能源,Energy,90.0,1270.0,13%,,夫妇,2024
+576,-84,吴志刚,Wu Zhigang,89,先生,中国-辽宁,China-Liaoning,中国-辽宁-沈阳,,,桃李面包,Toly Bread,辽宁沈阳,Liaoning,食品,Food,90.0,1270.0,-25%,,家族,2024
+576,-40,钟乃雄,Zhong Naixiong,61,先生,,,中国-广东-佛山,硕士,暨南,能兴,Nenking,广东佛山,Guangdong,房地产、投资,"Real Estate, Investments",90.0,1270.0,-18%,,未知,2024
+576,179,卓军,Zhuo Jun,未知,女士,中国-香港,China-Hong Kong,中国-广东-深圳,,,景旺电子,Kinwong,广东深圳,Guangdong,印刷电路板,Electronic Components,90.0,1270.0,13%,,未知,2024
+576,9,苏志刚,Su Zhigang,66,先生,中国-广东-广州,China-Guangdong-Guangzhou,中国-广东-广州,,,长隆,Chime Long,广东广州,Guangdong,旅游,Tourism,90.0,1270.0,-10%,,未知,2024
+576,59,史英文,Shi Yingwen,59,先生,中国-广西-南宁,China-Guangxi-Nanning,中国-广西-南宁,硕士,北大,荣和,Ronghe,广西南宁,Guangxi,房地产,Real estate,90.0,1270.0,-5%,,夫妇,2024
+576,130,秦华,Qin Hua,56,先生,,,中国-山东-聊城,,,乖宝宠物,Gambol,山东聊城,Shandong,宠物食品,Food,90.0,1270.0,6%,,未知,2024
+576,-121,任建华,Ren Jianhua,67,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-杭州,,,老板电器,Robam,浙江杭州,Zhejiang,家用电器,Home appliances,90.0,1270.0,-31%,,未知,2024
+576,-11,罗嘉瑞,Lo Ka Shui,71,先生,中国-香港,China-Hong Kong,中国-香港,,,鹰君,Great Eagle,香港,Hong Kong,房地产,Estate Holding,90.0,1270.0,-14%,,家族,2024
+576,59,陆兆禧,Lu Zhaoxi,55,先生,中国-广东-广州,China-Guangdong-Guangzhou,中国-浙江-杭州,本科,广州,阿里系,Alibaba,浙江杭州,Zhejiang,电子商务、金融科技,"E-commerce, fintech",90.0,1270.0,-5%,,未知,2024
+576,348,夏崇耀,Xia Chongyao,65,先生,,,中国-浙江-宁波,,,东方电缆,Orient Wires & Cables,浙江宁波,Zhejiang,电缆,Cable,90.0,1270.0,32%,,家族,2024
+576,-41,向文波,Xiang Wenbo,62,先生,中国-湖南-益阳,China-Hunan-Yiyang,中国-湖南-长沙,硕士,湖南、大连理工、中欧,三一,Sany,北京,Beijing,重型机械,Heavy Machinery,90.0,1270.0,-20%,,未知,2024
+576,130,刘銮鸿,Thomas Lau Luen-hung,71,先生,中国-香港,China-Hong Kong,中国-香港,,,利福国际,Lifestyle,香港,Hong Kong,房地产,Estate Holding,90.0,1270.0,6%,,未知,2024
+576,9,刘振东,Liu Zhendong,53,先生,中国-河北-唐山,China-Hebei-Tangshan,中国-北京,,,联东,Liando,北京,Beijing,房地产,Real Estate,90.0,1270.0,-10%,,未知,2024
+576,9,钟英武,Zhong Yingwu,39,先生,中国-湖南-岳阳,China-Hunan-Yueyang,中国-北京,硕士,大连理工、玛赫西管理大学,趣加科技,FunPlus,北京,Beijing,游戏,Game,90.0,1270.0,-10%,,未知,2024
+576,New,朱世会,Zhu Shihui,57,先生,中国-广东-广州,China-Guangdong-Guangzhou,,,,先导科技,Vital Materials,广东广州,Guangdong,稀散金属,Scattered Metals,90.0,1270.0,NEW,,未知,2024
+576,58,潘刚,Pan Gang,54,先生,中国-内蒙古-锡林郭勒盟,China-Inner Mongolia-Xilin Guole League,中国-内蒙古-呼和浩特,博士,内蒙古农业、中欧、人大,伊利,Yili,内蒙古呼和浩特,Inner Mongolia,乳制品,Dairy,90.0,1270.0,-6%,,未知,2024
+576,9,牛宜顺,Niu Yishun,69,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-山东-济宁,,,华勤,Hixih,山东济宁,Shandong,轮胎、输送带、电力,"Tires, conveyor belts, electricity",90.0,1270.0,-10%,,父子,2024
+615,-51,毛中吾,Mao Zhongwu,62,先生,中国-湖南,China-Hunan,中国-湖南-长沙,本科,中南,三一,Sany,北京,Beijing,重型机械,Heavy Machinery,88.0,1240.0,-19%,,未知,2024
+616,-80,周亚辉,Zhou Yahui,47,先生,中国-云南-丽江,China-Yunnan-Lijiang,中国-北京,硕士,清华、清华,昆仑万维,Kunlun,北京,Beijing,互联网游戏、投资,"Game, Investments",86.0,1210.0,-22%,,未知,2024
+616,-239,洪浩,Hong Hao,68,先生,,,中国-天津,博士后,中国医学科学院博士、美国Georgia大学药物化学博士后,凯莱英,Casymchen,天津,Tianjin,医药,Pharmaceuticals,86.0,1210.0,-43%,,未知,2024
+618,New,荣智权,Yung Chu-Kuen,未知,未知,,,台湾台北,硕士,美国芝加哥大学,上海商银,SCSB,台湾台北,Taiwan,银行业,Banking,85.0,1200.0,NEW,,家族,2024
+618,-163,秦荣华,Qin Ronghua,66,先生,中国-台湾,China-Taiwan,中国-浙江-宁波,,,敏实,Minth,浙江宁波,Zhejiang,汽车零部件,Automobile,85.0,1200.0,-35%,,未知,2024
+618,322,束崇万,Peter Shu,70,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,创见信息,Transcend,台湾台北,Taiwan,半导体,Semiconductors,85.0,1200.0,31%,,家族,2024
+618,-33,童锦泉,Tong Jinquan,69,先生,中国-江苏-南通,China-Jiangsu-Nantong,中国-上海,,,长峰房地产,Changfeng,上海长宁,Shanghai,房地产,Property,85.0,1200.0,-15%,,未知,2024
+618,17,孙惠刚,Sun Huigang,未知,先生,,,中国-山东-烟台,,,万华化学,Wanhua,山东烟台,Shandong,投资,Investments,85.0,1200.0,-11%,,未知,2024
+618,-33,宋飞,Song Fei,58,先生,,,中国-山东-烟台,本科,,艾迪精密,Eddie Precision Machinery,山东烟台,Shandong,机械制造,Manufacturing,85.0,1200.0,-15%,,家族,2024
+618,88,梁勤,Liang Qin,53,先生,中国-江苏-扬州,China-Jiangsu-Yangzhou,中国-江苏-扬州,,,扬杰科技,Yangjie Technology,江苏扬州,Jiangsu,半导体,Electronic components,85.0,1200.0,0%,,夫妇,2024
+618,-126,寇晓康,Kou Xiaokang,57,先生,,,中国-陕西-西安,,,蓝晓科技,Sunresin,陕西西安,Shaanxi,新材料,New materials,85.0,1200.0,-29%,,夫妇,2024
+618,51,梁安琪,Angela Leong on-ki,63,女士,中国-广东-广州,China-Guangdong-Guangzhou,中国-香港,,,澳博,SJM Holdings,香港,Hong Kong,博彩,Gaming,85.0,1200.0,-6%,,未知,2024
+618,17,张涛,Zhang Tao,52,先生,中国-上海,China-Shanghai,中国-上海,硕士,沃顿,美团,Meituan,北京,Beijing,生活服务,Life Service,85.0,1200.0,-11%,,未知,2024
+618,195,蔡其瑞,Tsai Chi-Jui,73,先生,中国-台湾,China-Taiwan,中国-台湾-台中,,,宝成,Pou Chen,台湾台中,Taiwan,服装,Apparel & Accessories,85.0,1200.0,13%,,家族,2024
+618,New,赵宗信,Chao Chung-Hsin,未知,未知,,,台湾桃园,,,健策,Jentech,台湾桃园,Taiwan,电子元件,Electronic Components,85.0,1200.0,NEW,,家族,2024
+618,New,张兴明,Zhang Xingli,67,先生,中国-重庆,China-Chongqing,中国-重庆,,,小康控股,Xiaokang ,重庆,Chongqing,汽车、汽车零配件,"Cars, automobile parts",85.0,1200.0,NEW,,未知,2024
+618,-82,陈湖雄,Chen Huxiong,54,先生,中国-广东-汕头 ,China-Guangdong-Shantou ,中国-上海,,,晨光,M&G Stationery,上海奉贤,Shanghai,文具用品制造,Stationery,85.0,1200.0,-23%,,未知,2024
+618,-82,陈湖文,Chen Huwen,54,先生,中国-广东-汕头 ,China-Guangdong-Shantou,中国-上海,,,晨光,M&G Stationery,上海松江,Shanghai,文具用品制造,Stationery,85.0,1200.0,-23%,,未知,2024
+618,137,陈仕荣,Chan Shirong,未知,先生,中国-台湾,China-Taiwan,中国-台湾-斗六,,,丰泰,Feng Tay,台湾斗六,Taiwan,鞋业,Footwear,85.0,1200.0,6%,,家族,2024
+618,-338,陈士斌,Chen Shibin,58,先生,中国-江苏-连云港,China-Jiangsu-Lianyun Port,中国-江苏-连云港,,,石英股份,Pacific Quartz,江苏连云港,Jiangsu,石英制品,Quartz products,85.0,1200.0,-55%,,夫妇,2024
+618,390,鲍洪星,Bao Hongxing,60,先生,中国-江西-龙南,China-Jiangxi-Longnan,,,,双胞胎,Shuangbaotai,江西南昌,Jiangxi,畜牧,Pig Farming,85.0,1200.0,42%,,未知,2024
+618,-53,凌斌,Ling bin,56,先生,,,中国-广东-深圳,,,康冠科技,KTC,广东深圳,Guangdong,电子器件制造,Manufacturing,85.0,1200.0,-19%,,夫妇,2024
+618,88,陆风,Lu Feng,56,先生,,,中国-上海,,,万得资讯,Wind,上海浦东,Shanghai,数据服务,Data service,85.0,1200.0,0%,,未知,2024
+618,390,罗乐风,Kenneth Lo,未知,先生,中国-香港,China-Hong Kong,英国-伦敦,,,晶苑国际,Crystal,香港,Hong Kong,服装,Apparel & Textile Products,85.0,1200.0,42%,,家族,2024
+618,137,黄子欣,Allan Wong,75,先生,,,中国-香港,,,伟易达,VTECH,香港,Hong Kong,消费电子产品,Consumer Goods,85.0,1200.0,6%,,未知,2024
+618,-97,何志平,He Zhiping,59,先生,中国-江西,China-Jiangxi,中国-广东-深圳,,,华建,Huajian,广东深圳,Guangdong,投资,Investments,85.0,1200.0,-26%,,夫妇,2024
+618,539,俞浩,Yu Hao,37,先生,中国-江苏-南通,,中国-江苏-苏州,,,追觅科技,Dreame,江苏苏州,Jiangsu,智能家电,Consumer electronics,85.0,1200.0,63%,,未知,2024
+618,-191,张国涛,Zhang Guotao,39,先生,中国-河南-开封,China-Henan-Kaifeng,中国-广东-深圳,,,迪阿,DR,广东深圳,Guangdong,珠宝首饰,Jewellery,85.0,1200.0,-37%,,夫妇,2024
+618,New,张积敏,Zhang Jimin,61,先生,,,中国-浙江-温州,,,青山控股,Tsingshan,浙江温州,Zhejiang,钢铁,Steel,85.0,1200.0,NEW,,未知,2024
+618,New,张兴礼,Zhang Xingmin,67,先生,中国-重庆,China-Chongqing,中国-重庆,,,小康控股,Xiaokang ,重庆,Chongqing,汽车、汽车零配件,"Cars, automobile parts",85.0,1200.0,NEW,,未知,2024
+618,322,王硕,Wang Shuo,34,先生,中国-北京,China-Beijing,美国-西雅图,,,Deel,Deel,美国旧金山,Los Angeles,企业服务,Business Services,85.0,1200.0,31%,,未知,2024
+618,472,杜锦豪,Du Jinhao,70,先生,中国-江苏-,China-Jiangsu -,中国-上海,,,艾力斯,Allist,上海,Shanghai,医药,Pharmaceuticals,85.0,1200.0,55%,,夫妇,2024
+618,88,程立力,Chen Lili,59,先生,,,中国-江苏-常州,硕士,,立华股份,Lihua,江苏常州,Jiangsu,畜牧,Husbandry,85.0,1200.0,0%,,夫妇,2024
+618,137,魏学专,Wei Xuezhuan,71,先生,中国-山东-淄博,China-Shandong-Zibo,中国-山东-淄博,,,汇丰石化,Wonfull,山东淄博,Shandong,化工,Chemicals,85.0,1200.0,6%,,未知,2024
+618,322,蔡海山,Tsoi Hoi Shan,46,先生,,,中国-香港,,,联邦制药,United Laboratories,香港,Hong Kong,医药,Pharmaceuticals,85.0,1200.0,31%,,家族,2024
+618,-191,徐广福,Xu Guangfu,未知,先生,,,中国-江苏-镇江,,,大全,Daquan,江苏镇江,Jiangsu,电气设备制造、太阳能,"Electrical equipment, solar energy",85.0,1200.0,-37%,,父子,2024
+618,84,夏鼎湖,Xia Dinghu,80,先生,中国-安徽,China-Anhui,中国-安徽-宁国,硕士,Morehead州立大学,中鼎,Zhongding,安徽宣城,Anhui,汽车零部件,Rubber and plastic,85.0,1200.0,-3%,,父子,2024
+618,-191,叶琼玖,Ye Qiongjiu,70,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-浙江-杭州,,,同花顺,Hithink RoyalFlush,浙江杭州,Zhejiang,软件,Software,85.0,1200.0,-37%,,未知,2024
+653,16,王吉雷,Wang Jilei,59,先生,,,中国-上海,,,中通,ZTO,上海青浦,Shanghai,快递,Express Delivery,83.0,1170.0,-8%,,未知,2024
+653,New,赵永昌,Chao Yung-Tsang,未知,未知,,,台湾桃园,,,健策,Jentech,台湾桃园,Taiwan,电子元件,Electronic Components,83.0,1170.0,NEW,,家族,2024
+653,-161,孙宏斌,Sun Hongbin,61,先生,中国-山西-运城,China -Shanxi - Yuncheng,中国-天津,硕士,武大、清华,融创,Sunac,天津,Tianjin,房地产,Real Estate,83.0,1170.0,-31%,,未知,2024
+656,50,许庆奎,Xu Qingkui,未知,先生,,,中国-山东-莱芜,,,九羊,JiuYang,山东莱芜,Shandong,钢铁、冶金、机械,"Steel, smelt, machinery",80.0,1130.0,-6%,,父子,2024
+656,50,许江南,Xu Jiangnan,62,先生,,,中国-江西-景德镇,,,天新药业,Tianxin Pharmaceutical,江西景德镇,Jiangxi,医药,Pharmaceuticals,80.0,1130.0,-6%,,父女,2024
+656,New,钟德礼,Chung Te-Li,未知,未知,,Taiwan,台湾台中,本科,台湾中原大学,来亿兴业,Lai Yih,台湾台中,Taiwan,鞋业,Footwear,80.0,1130.0,NEW,,家族,2024
+656,-71,周庆治,Zhou Qingzhi,69,先生,,,中国-香港,本科,浙大,南都,Narada,上海浦东,Shanghai,电池、投资,"Battery, Investments",80.0,1130.0,-20%,,家族,2024
+656,-201,刘程宇,Liu Chengyu,62,先生,中国-福建-宁德,China-Fujian-Ningde,中国-广东-深圳,本科,,科士达,Kstar,广东深圳,Guangdong,电力设备,Industrial Equipment,80.0,1130.0,-38%,,夫妇,2024
+656,13,梁信军,Liang Xinjun,56,先生,中国-浙江-台州,China-Zhejiang-Taizhou,新加坡,本科,复旦,-,-,上海,Shanghai,投资,Investments,80.0,1130.0,-11%,,未知,2024
+656,-21,李国库,Li Guoku,未知,先生,,,中国-河北-石家庄,,,千喜鹤,Kinghey,北京,Beijing,餐饮,Catering,80.0,1130.0,-16%,,未知,2024
+656,-71,李国庆,Li Guoqing,54,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,,,荣盛控股,RongSheng,浙江杭州,Zhejiang,化纤,Chemical fibres,80.0,1130.0,-20%,,未知,2024
+656,523,成三荣,Cheng Sanrong,61,先生,,,中国-江苏-苏州,,,沪光股份,Huguang,江苏苏州,Jiangsu,汽车配件,Auto parts,80.0,1130.0,60%,,父子,2024
+656,99,李东生,Li Dongsheng,67,先生,中国-广东-惠州,China-Guangdong-Huizhou,中国-广东-惠州,本科,华南理工,TCL,TCL,广东惠州,Guangdong,家用电器及半导体产品,Household Appliances,80.0,1130.0,0%,,未知,2024
+656,13,陈建成,Chen Jiancheng,65,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-浙江-绍兴,,,卧龙控股,Wolong,浙江绍兴,Zhejiang,电气设备、房地产,"Electrical equipment, real estate",80.0,1130.0,-11%,,父女,2024
+656,-120,陈文源,Chen Wenyuan,56,先生,,,中国-江苏-苏州,,,华兴源创,HYC,江苏苏州,Jiangsu,设备制造,Manufacturing,80.0,1130.0,-27%,,夫妇,2024
+656,-91,曾开天,Zeng Kaitian,未知,先生,,,中国-安徽-芜湖,本科,兰大,三七互娱,37 Interactive Entertainment,广东广州,Guangdong,网络游戏,Network game,80.0,1130.0,-24%,,未知,2024
+656,50,陈德军,Chen Dejun,54,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-上海,本科,,申通快递,STO,上海青浦,Shanghai,物流,Logistics,80.0,1130.0,-6%,,未知,2024
+656,-71,李永庆,Li Yongqing,60,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,,,荣盛控股,RongSheng,浙江杭州,Zhejiang,化纤,Chemical fibres,80.0,1130.0,-20%,,未知,2024
+656,-120,李卫伟,Li Weiwei,47,先生,中国-四川-成都,China - Sichuan-Chengdu,中国-安徽-芜湖,,,三七互娱,37 Interactive Entertainment,广东广州,Guangdong,网络游戏,Network game,80.0,1130.0,-27%,,未知,2024
+656,284,施崇棠,Jonney Shih,72,先生,中国-台湾-彰化,China-Taiwan-Changhua,中国-台湾-台北,,,华硕,Asustek,台湾台北,Taiwan,电脑产品,Computer Products,80.0,1130.0,23%,,未知,2024
+656,-395,苏庆灿,Su Qingcan,55,先生,,,中国-厦门,,,华厦眼科,Huaxia Eye,福建厦门,Fujian,医疗服务,Health Service,80.0,1130.0,-61%,,未知,2024
+656,-21,孙怀庆,Sun Huaiqing,55,先生,中国-重庆,China-Chongqing,中国-广东-广州,,,丸美,Marubi,广东广州,Guangdong,化妆品,Cosmetics,80.0,1130.0,-16%,,夫妇,2024
+656,50,孙清焕,Sun Qinghuan,51,先生,中国-江西-宜春,China -Jiangxi - Yichun,中国-广东-中山,本科,江西工程,木林森,MLS,广东中山,Guangdong,光学光电,Semiconductors,80.0,1130.0,-6%,,父子,2024
+656,95,孙喜双,Sun Xishuang,71,先生,中国-吉林,China- Jilin,中国-北京,,,一方,Yifang,北京,Beijing,房地产、投资,"Real Estate, Investments",80.0,1130.0,-1%,,家族,2024
+656,99,孙勇坚,Sun Yongjian,58,先生,,,中国-上海,,,宝矿,bm,上海闸北,Shanghai,地产、贸易,"Real Estate, Steel trade",80.0,1130.0,0%,,未知,2024
+656,-120,唐敖齐,Tang Aoqi,79,先生,,,中国-江苏-常州,,,新泉股份,Xinquan,江苏常州,Jiangsu,汽车配饰,Automobile accessories,80.0,1130.0,-27%,,家族,2024
+656,-135,陶悦群,Tao Yuequn,64,先生,,,中国-安徽-合肥,博士,美国加州,欧普康视,Orthok,安徽合肥,Anhui,医疗器械制造、销售,Manufacture and sale of medical apparatus,80.0,1130.0,-30%,,未知,2024
+656,13,汪力成,Wang Licheng,64,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-杭州,本科,浙大,华立,Holley,浙江杭州,Zhejiang,医药、投资,"Pharmaceutical, Investments",80.0,1130.0,-11%,,未知,2024
+656,99,王仕锐,Wang Shirui,37,先生,,,中国-四川-成都,,,医联,Medlinker,四川成都,Sichuan,医疗服务,Health Service,80.0,1130.0,0%,,未知,2024
+656,-71,王文渊,William Wang,77,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-高雄,,,台塑,Formosa Plastics,台湾高雄,Taiwan,化工,Chemicals,80.0,1130.0,-20%,,家族,2024
+656,523,肖日明,Xiao Riming,88,先生,中国-上海,,中国-上海,,,华明装备,Huaming,上海,Shanghai,电力设备,Electronic Equipment,80.0,1130.0,60%,,家族,2024
+656,-71,许月娟,Xu Yuejuan,未知,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,,,荣盛控股,RongSheng,浙江杭州,Zhejiang,化纤,Chemical fibres,80.0,1130.0,-20%,,未知,2024
+656,268,杨元庆,Yang Yuanqing,60,先生,中国-安徽-合肥,China-Anhui-Hefei,中国-北京,硕士,上交大、中科大,联想,Lenovo,北京,Beijing,计算机服务、投资,"Computer Services, Investments",80.0,1130.0,18%,,未知,2024
+656,New,杨长基,Chang-Chih Yang,未知,先生,,,中国-台湾-桃园,,,金像电子,Gold Circuit,台湾桃园,Taiwan,消费电子产品,Consumer and Industry Electronics,80.0,1130.0,NEW,,家族,2024
+656,99,叶德林,Ye Delin,56,先生,中国-广东-佛山,China-Guangdong-Foshan,中国-广东-佛山,,,新明珠,New Pearl,广东佛山,Guangdong,建筑陶瓷,Ceramics,80.0,1130.0,0%,,夫妇,2024
+656,-120,高兴江,Gao Xingjiang,61,先生,中国-浙江-湖州,China-Zhejiang-Huzhou,中国-浙江-湖州,硕士,,永兴特钢,Yongxing Iron and steel,浙江湖州,Zhejiang,不锈钢,Steel,80.0,1130.0,-27%,,未知,2024
+656,157,盛百椒,Sheng Baijiao,72,先生,中国-上海,China-Shanghai,中国-广东-深圳,本科,,百丽,Belle,广东深圳,Guangdong,鞋业,Shoes,80.0,1130.0,7%,,未知,2024
+656,-250,沈华,Shen Hua,61,先生,,,中国-浙江-嘉兴,,,斯达半导,StarPower Semiconductor,浙江嘉兴,Zhejiang,半导体,Semiconductors,80.0,1130.0,-43%,,夫妇,2024
+656,-331,李斌,Li Bin,50,先生,中国-安徽,China-Anhui,中国-北京,,,蔚来、易车,"Nio, Yiche",上海嘉定,Shanghai,电动车,E-Cars,80.0,1130.0,-53%,,未知,2024
+656,50,井贤栋,Jin Xiandong,52,先生,,,中国-浙江-杭州,硕士,上交大、明尼苏达,阿里系,Alibaba,浙江杭州,Zhejiang,电子商务、金融科技,"E-commerce, fintech",80.0,1130.0,-6%,,未知,2024
+656,50,江南,Jiang Nan,61,先生,中国-山东-济南,China-Shandong-Jinan,中国-广东-广州,,,圣丰,Shengfeng,广东广州,Guangdong,房地产、工业制造,"Real Estate, Commercial Manufacturing",80.0,1130.0,-6%,,未知,2024
+656,-71,胡扬忠,Hu Yangzhong,59,先生,中国-湖北-武汉,China -Hubei-Wuhan,中国-浙江-杭州,,,海康威视,Hikvision,浙江杭州,Zhejiang,视频监控产品,Video surveillance products,80.0,1130.0,-20%,,未知,2024
+656,205,洪水树,Allen Hong Shui-Shu,65,先生,中国-台湾-台南,China-Taiwan-Tainan,中国-台湾-台南,,,可成科技,Catcher Technology,台湾台南,Taiwan,设备制造,Manufacturing,80.0,1130.0,10%,,家族,2024
+656,-21,罗阳勇,Luo Yangyong,49,先生,,,中国-四川-攀枝花,,,安宁股份,Anning Iron And Titanium,四川攀枝花,Sichuan,钒钛磁铁矿,Magnetite,80.0,1130.0,-16%,,夫妇,2024
+656,New,龙大强,Long Daqiang,未知,先生,,,中国-江苏-徐州,,,中润光能,Solar Space,江苏徐州,Jiangsu,光伏电池,New energy,80.0,1130.0,NEW,,夫妇,2024
+656,-268,刘晓东,Liu Xiaodong,57,先生,,,中国-上海,,,百润,Bairun,上海浦东,Shanghai,香料、酒业,"Flavours, wine industry",80.0,1130.0,-45%,,未知,2024
+656,99,阮水龙,Ruan Shuilong,89,先生,中国-山东-济宁,China-Shandong-Jining,中国-浙江-绍兴,,,龙盛,Lonsen,浙江绍兴,Zhejiang,化工、钢铁,"Chemicals, steel",80.0,1130.0,0%,,家族,2024
+656,New,刘天文,Liu Tianwen,61,先生,,,中国-北京,,,软通动力,Isoftstone,北京,Beijing,软件与信息服务,Software & Services,80.0,1130.0,NEW,,未知,2024
+701,-165,欧雷强,John V. Oyler,56,先生,美国,United States,中国-北京,硕士,MIT、斯坦福,百济神州,BeiGene,北京,Beijing,医药,Pharmaceuticals,78.0,1100.0,-29%,,未知,2024
+702,-117,周志文,Zhou Zhiwen,59,先生,,,中国-北京,硕士,人民解放军军事医学,昭衍新药,Joinn Laboratories,北京,Beijing,生物医药,Biopharmaceuticals,77.0,1080.0,-23%,,夫妇,2024
+703,45,苗拥军,Miao Yongjun,57,先生,中国-河南-郑州,China-Henan-Zhengzhou,中国-河南-郑州,硕士,,安图生物,Anto,河南郑州,Henan,医药制造业,Pharmaceuticals,76.0,1070.0,-7%,,未知,2024
+704,109,茹伯兴,Ru Boxing,77,先生,中国-江苏-常州,China-Jiangsu-Changzhou,中国-江苏-常州,本科,东南,百兴,Jiangnan Baixin,江苏常州,Jiangsu,工业制造、房地产,"Industrial manufacturing, real estate",75.0,1060.0,0%,,父子,2024
+704,236,佘英杰,She Yingjie,67,先生,,,中国-香港,,,新豪国际,Olympic Circuit,香港,Hong Kong,电子设备制造,Electronic Equipment Manufacturing,75.0,1060.0,15%,,未知,2024
+704,-277,李晓华,Li Xiaohua,62,先生,中国-云南,China-Yunnan,中国-云南-玉溪,,,恩捷股份,Energy New Material,云南玉溪,Yunnan,包装盒生产,Packaging Production,75.0,1060.0,-44%,,家族,2024
+704,109,任晋生,Ren Jinsheng,62,先生,中国-江苏-南京,China-Jiangsu-Nanjing,中国-江苏-南京,,,先声药业,Simcere,江苏南京,Jiangsu,生物医药,Pharmacy,75.0,1060.0,0%,,家族,2024
+704,109,杨浩涌,Yang Haoyong,50,先生,中国-安徽-合肥,China-Anhui-Hefei,中国-北京,硕士,天津大学、中科大、耶鲁,车好多,Cars,北京,Beijing,汽车服务,Automobile Service,75.0,1060.0,0%,,未知,2024
+704,51,闫洪嘉,Yan Hongjia,44,先生,中国-山西-沂州,,中国-广东-东莞,,,宇泽,Yuze,云南楚雄,Yunnan,新能源,Energy,75.0,1060.0,-6%,,未知,2024
+704,157,杨钊,Yang Zhao,77,先生,中国-广东-惠州,China-Guangdong-Huizhou,中国-香港,本科,,旭日企业,Glorious Sun,香港,Hong Kong,服装、房地产,"Apparel, Real Estate",75.0,1060.0,3%,,家族,2024
+704,-119,杨秋梅,Yang Qiumei,未知,未知,,,香港,博士,美国伊利诺,商汤科技,SenseTime,北京,Beijing,人工智能,Artificial Intelligence,75.0,1060.0,-25%,,未知,2024
+704,51,张伟祥,Zhang Weixiang,未知,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-北京,,,建龙,Jianlong,北京,Beijing,钢铁、矿业、船运,"Steel, Mining, Shipbuilding",75.0,1060.0,-6%,,未知,2024
+704,51,张新,Zhang Xin,62,先生,中国-甘肃-武威,China-Gansu-Wuwei,中国-新疆-昌吉,,,特变电工,TBEA,新疆昌吉,Xinjiang,电气机械和器材制造,Electrical Machinery And Equipment Manufacturing,75.0,1060.0,-6%,,未知,2024
+704,-212,俞其兵,Yu Qibing,59,先生,中国-浙江,China-Zhejiang,中国-浙江-宁波,,,旗滨,Qibing,浙江宁波,Zhejiang,玻璃,Glass,75.0,1060.0,-38%,,未知,2024
+704,-35,杨志茂,Yang Zhimao,61,先生,中国-广东-东莞,China-Guangdong-Dongguan,中国-广东-东莞,本科,,新世纪科教,New Century Science and Education,广东东莞,Guangdong,投资,Investments,75.0,1060.0,-17%,,夫妇,2024
+704,51,刘伟,Liu Wei,59,先生,中国-广东-梅州,China-Guangdong-Meizhou,中国-广东-广州,本科,中山,佳都科技,PCI-Suntek,广东广州,Guangdong,软件和信息技术,Software and IT Services,75.0,1060.0,-6%,,未知,2024
+704,2,卢宗俊,Lu Zongjun,61,先生,,,中国-上海,,,中谷物流,Zhonggu,上海浦东,Shanghai,物流,Logistics,75.0,1060.0,-12%,,未知,2024
+704,-35,王晖,Wang Hui,63,先生,,,中国-上海,,,盛美半导体,ACM,上海浦东,Shanghai,半导体,Semiconductors,75.0,1060.0,-17%,,家族,2024
+704,-35,谭莉莉,Tan Lili,未知,先生,,,中国-广东-广州,,,海大,Haid,广东广州,Guangdong,饲料,Agricultural Products,75.0,1060.0,-17%,,未知,2024
+704,New,肖红星,Xiao Hongxing,未知,未知,中国-海南,Hubei,广东广州,本科,华南理工大学,广合科技,Delton Technology,广东广州,Guangdong,电子元件,Electronic Components,75.0,1060.0,NEW,,夫妇,2024
+704,2,徐万茂,Xu Wanmao,79,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-浙江-宁波,,,华茂,Huamao,浙江宁波,Zhejiang,文具、教育、房地产、金融,"Stationery, education, real estate, financial",75.0,1060.0,-12%,,家族,2024
+704,2,吴仲毅,Wu Zhongyi,51,先生,,,中国-福建-厦门,,,亿联网络,Yealink,福建厦门,Fujian,通信,Communication,75.0,1060.0,-12%,,未知,2024
+704,109,吴宝田,Wu Pao-Tien,73,先生,,,中国-台湾-台北,,,丽宝,Li Pao,台湾台北,Taiwan,房地产、酒店,"Real Estate, Hotels",75.0,1060.0,0%,,家族,2024
+704,-35,王文洋,Winston Wong,73,先生,中国-台湾-新北,China-Taiwan-New North,中国-台湾-台北,,,宏仁,Grace THW Group,广东广州,Guangdong,化学原料,Chemicals,75.0,1060.0,-17%,,父女,2024
+704,-35,王文潮,Wilfred Wang,73,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-高雄,,,台塑,Formosa Plastics,台湾高雄,Taiwan,化工,Chemicals,75.0,1060.0,-17%,,家族,2024
+704,-35,王义平,Wang Yiping,63,先生,中国-浙江,China-Zhejiang,中国-浙江-宁波,,,继峰股份,Jifeng,浙江宁波,Zhejiang,汽车零部件,Automobile parts,75.0,1060.0,-17%,,家族,2024
+704,2,王信文,Wang Xinwen,37,先生,,,中国-上海,,,莉莉丝,Lilith,上海,Shanghai,游戏,Online games,75.0,1060.0,-12%,,未知,2024
+704,-119,谭炳照,Tan Bingzhao,60,先生,,,中国-广东-广州,,,敏捷,Nimble,广东广州,Guangdong,房地产,Real Estate,75.0,1060.0,-25%,,家族,2024
+704,51,宋卫平,Song Weiping,66,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-浙江-杭州,本科,浙大,绿城,Greentown,浙江杭州,Zhejiang,房地产,Real estate,75.0,1060.0,-6%,,夫妇,2024
+704,109,冯国纶,William Fung Kwok-lun,76,先生,中国-广东-江门,China-Guangdong-Jiangmen,中国-香港,,,利丰,Li & Fung,香港,Hong Kong,物流,Logistics,75.0,1060.0,0%,,未知,2024
+704,-119,方玉友,Fang Yuyou,55,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-浙江-杭州,,,珀莱雅,Proya Cosmetics,浙江杭州,Zhejiang,化妆品,Common products,75.0,1060.0,-25%,,未知,2024
+704,157,陈慧慧,Vivien Chen,65,女士,中国-香港,China-Hong Kong,中国-香港,,,南丰,Nan Fung Group,香港,Hong Kong,房地产,Estate Holding,75.0,1060.0,3%,,未知,2024
+704,-168,曾继疆,Zeng Jijiang,62,先生,中国-湖南,China-Hunan,中国-湖南-株洲,,,宏达电子,Hongda,湖南株洲,Hunan,电子器件制造,Electronic,75.0,1060.0,-32%,,家族,2024
+704,157,曹德风,Tsao Te-Feng,79,先生,,,中国-台湾-台北,,,佳格,Quaker,台湾台北,Taiwan,食品和饮料,Food & Beverages,75.0,1060.0,3%,,夫妇,2024
+704,-35,蒋伟,Jiang Wei,未知,先生,,,中国-上海,,,昊海生物,Haohai Biological,上海松江,Shanghai,生物医药,Biopharmaceuticals,75.0,1060.0,-17%,,夫妇,2024
+704,475,吉为,Ji Wei,67,先生,,,中国-长沙,,,威胜信息,Willfar,湖南长沙,Hunan,通信设备,Communication equipment,75.0,1060.0,50%,,父子,2024
+704,-391,顾江生,Gu Jiangsheng,51,先生,中国-浙江-台州,China-Zhejiang-Taizhou,中国-浙江-杭州,本科,浙大,顾家家居,Kuka,浙江杭州,Zhejiang,家具,Furniture ,75.0,1060.0,-57%,,家族,2024
+704,-69,柯为湘,Or Wai Sheun,73,先生,中国-广东-潮州,China-Guangdong-Chaozhou,中国-香港,,,保利达,Polytec Asset,香港,Hong Kong,房地产,Estate Holding,75.0,1060.0,-21%,,未知,2024
+704,386,马斌,Ma Bin,54,先生,,,中国-上海,,,神马,Shemar,江苏南通,Shanghai,电气机械和器材,transmit electricity,75.0,1060.0,36%,,夫妇,2024
+704,109,李阔,Li Kuo,未知,先生,,,中国-浙江-杭州,,,白贝壳,Babycare,浙江杭州,Zhejiang,母婴产品,Baby and maternal products,75.0,1060.0,0%,,未知,2024
+704,51,柯希平,Ke Xiping,64,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-厦门,本科,湖北经济管理干部,恒兴实业,Hengxing,福建厦门,Fujian,投资、地产,"Investments, real estate",75.0,1060.0,-6%,,未知,2024
+704,109,李添财,Lee Tien Tsai,86,先生,,,中国-台湾-台北,,,金车,King Car,台湾台北,Taiwan,食品和饮料,Food & Beverages,75.0,1060.0,0%,,未知,2024
+743,153,李林,Li Lin,42,先生,,,中国-北京,硕士,同济、清华,火币,Huobi,北京,Beijing,区块链,Blockchain,73.0,1030.0,4%,,未知,2024
+744,69,邵晓峰,Shao Xiaofeng,59,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-杭州,,,阿里系,Alibaba,浙江杭州,Zhejiang,电子商务、金融科技,"E-commerce, fintech",72.0,1010.0,-4%,,未知,2024
+744,11,李晓林,Li Xiaolin,71,先生,中国-北京,China-Beijing,中国-北京,博士,人大、人大、法国马赛商学院,林达,Linda,北京,Beijing,房地产、投资,"Real Estate, Investments",72.0,1010.0,-10%,,未知,2024
+744,11,方同华,Fang Tonghua,61,先生,中国-安徽-毫州,China - Anhui - Muzhou,中国-黑龙-江鸡西,硕士,,珍宝岛药业,ZBD,黑龙江鸡西,Heilongjiang,医药,Pharmaceuticals,72.0,1010.0,-10%,,家族,2024
+747,64,王慧文,Wang Huiwen,46,先生,,,中国-辽宁-大连,,,美团,Meituan,北京,Beijing,生活服务,Life Service,71.0,1000.0,-8%,,未知,2024
+747,-162,沈汉标,Shen Hanbiao,52,先生,中国-广东-汕头,China-Guangdong-Shantou,中国-广东-广州,,,好太太,Hotata,广东广州,Guangdong,耐用消费品,Household Durables,71.0,1000.0,-29%,,夫妇,2024
+747,193,陈奇星,Chen Qixing,65,先生,,,中国-广东-深圳,,,长盈精密,Changying,广东深圳,Guangdong,电子元件,Electronic Components,71.0,1000.0,9%,,未知,2024
+747,4,朱一明,Zhu Yiming,52,先生,,,中国-北京,硕士,清华、清华、美国纽约州立大学石溪分校,兆易创新,GigaDevice Semiconductor,北京,Beijing,芯片研发,Flash chip,71.0,1000.0,-12%,,未知,2024
+747,-78,易贤忠,Yi Xianzhong,65,先生,中国-湖北,China - Hubei,中国-广东-广州,本科,华南理工,百奥泰,Bio-Thera,广东广州,Guangdong,生物医药,Biotech,71.0,1000.0,-21%,,家族,2024
+747,114,彭永东,Peng Yongdong,45,先生,,,中国-北京,,,贝壳,KE,北京,Beijing,房地产服务,Real Estate Service,71.0,1000.0,-3%,,未知,2024
+747,193,蔡荣军,Cai Rongjun,52,先生,中国-广东-汕头,China-Guangdong-Shantou,中国-广东-深圳,本科,汕头,欧菲光,OFILM,广东深圳,Guangdong,光电子元器件,Electronic Components,71.0,1000.0,9%,,未知,2024
+754,1,侯昌财,Hou Changcai,68,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-厦门,,,源昌,Yuanchang,福建厦门,Fujian,房地产,Real estate,70.0,990.0,-13%,,未知,2024
+754,New,陈精业,Chen Jingye,未知,未知,,,新加坡,本科,新加坡国立大学,冬海集团,Sea,新加坡,Singapore,网络游戏、电商,"Online Games, E-Commerce",70.0,990.0,NEW,,未知,2024
+754,142,陈海波,Chen Haibo,55,先生,中国-江苏-连云港,,中国-上海,,,深兰科技,Deepblue,上海,Shanghai,人工智能,AI,70.0,990.0,0%,,未知,2024
+754,-48,郭建刚,Guo Jiangang,58,先生,中国-广东-佛山,China-Guangdong-Foshan,中国-广东-佛山,,,新宝电器,Donlim Kitchen,广东佛山,Guangdong,小家电,Household Appliances,70.0,990.0,-18%,,家族,2024
+754,-119,高毅,Gao Yi,56,先生,中国-湖南-常德,China-Hunan-Changde,中国-湖南-长沙,,,益丰药房,Yifeng Pharmacy,湖南长沙,Hunan,医药零售,Pharmacy retail,70.0,990.0,-26%,,未知,2024
+754,186,周骏,Zhou Jun,未知,先生,,,中国-广东-深圳,,,景田,Ganten,广东深圳,Guangdong,饮料,Food & Beverages,70.0,990.0,8%,,未知,2024
+754,142,姚其湧,Yao Qiyong,60,先生,,,中国-广东-深圳,,,宏兆,Jumbo Sheen,广东深圳,Guangdong,投资,Investments,70.0,990.0,0%,,未知,2024
+754,-233,许志翰,Xu Zhihan,52,先生,,,中国-江苏-无锡,硕士,,卓胜微,Guide Electrics,江苏无锡,Jiangsu,电子器件制造,Electronic,70.0,990.0,-39%,,未知,2024
+754,-119,王敏文,Wang Minwen,61,先生,中国-浙江,China-Zhejiang,中国-浙江-衢州,硕士,复旦,立昂微,Lion Microelectronics,浙江杭州,Zhejiang,半导体,Semiconductors,70.0,990.0,-26%,,未知,2024
+754,107,吴崇仪,Wu Chung-Yi,65,先生,中国-台湾,China-Taiwan,中国-台湾-彰化,,,至兴,Fine Blanking,台湾彰化,Taiwan,汽车零部件,Auto Components,70.0,990.0,-4%,,未知,2024
+754,1,王锦华,Wang Jinhua,61,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,博士,,金石资源,China Kings Resources Group,浙江杭州,Zhejiang,矿产,Mining,70.0,990.0,-13%,,夫妇,2024
+754,59,唐晔,Tang Ye,43,先生,,,中国-上海,硕士,南工大、上海交大,柏楚电子,Friendess,上海闵行,Shanghai,信息技术,Information technology ,70.0,990.0,-7%,,未知,2024
+754,142,孙伟杰,Sun Weijie,61,先生,中国-山东,China-Shandong,中国-山东-烟台,,,杰瑞石油,Jereh Oilfield,山东烟台,Shandong,石油专用设备,Oil equipment,70.0,990.0,0%,,未知,2024
+754,105,谭瑞清,Tan Ruiqing,58,先生,中国-河南,China-Henan,中国-河南-郑州,本科,,龙佰,LB,河南焦作,Henan,钛白粉,Titanium Dioxide,70.0,990.0,-5%,,夫妇,2024
+754,-48,戴文渊,Dai Wenyuan,41,先生,中国-江苏-苏州,China-Jiangsu-Suzhou,中国-北京,,,第四范式,Fourth Paradigm,北京,Beijing,人工智能,Artificial Intelligence,70.0,990.0,-18%,,夫妇,2024
+754,59,李志远,Li Zhiyuan,69,先生,中国-广西-南宁,China-Guangxi-Nanning,中国-海南-海口,,,金盘科技,Jinpan Smart Technology,海南海口,Hainan,变压器,Transformer,70.0,990.0,-7%,,夫妇,2024
+754,174,乔玉华,Qiao Yuhua,58,先生,中国-内蒙古-鄂尔多斯,China-Inner Mongolia-Ordos,中国-内蒙古-鄂尔多斯,,,双欣,Shuangxin,内蒙古鄂尔多斯,Inner Mongolia,煤炭、热电、化工,"Coal, Energy, Chemical",70.0,990.0,4%,,未知,2024
+754,254,黄健,Huang Jian,57,先生,中国-湖南-岳阳,China-Hunan-Yueyang,中国-广东-佛山,,,美的,Midea,广东佛山,Guangdong,家电制造,Household Appliances,70.0,990.0,17%,,未知,2024
+754,142,韩玉龙,Han Yulong,39,先生,中国-江苏-南通,China-Jiangsu-Nantong,中国-上海,,,Manner,Manner,上海,Shanghai,餐饮,Catering,70.0,990.0,0%,,夫妇,2024
+754,-283,李国强,Li Guoqiang,60,先生,,,中国-北京,,,中升控股,Zhongsheng,辽宁大连,Liaoning,汽车销售,Automobile Sales,70.0,990.0,-44%,,未知,2024
+754,59,薛济萍,Xue Jiping,73,先生,中国-江苏-南通,China-Jiangsu-Nantong,中国-江苏-南通,,,中天科技,ZTT,江苏南通,Jiangsu,电缆,Cable,70.0,990.0,-7%,,未知,2024
+754,-48,徐冠巨,Xu Guanju,63,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-杭州,硕士,浙江省委党校,传化,Chuanhua,浙江杭州,Zhejiang,化工、农业、投资,"Chemical, agriculture, Investments",70.0,990.0,-18%,,未知,2024
+754,-48,聂云宸,Nie Yunchen,33,先生,,,中国-广东-深圳,,,喜茶,Heytea,广东深圳,Guangdong,餐饮,Food & Beverages,70.0,990.0,-18%,,未知,2024
+754,-48,庄奎龙,Zhuang Kuilong,62,先生,,,中国-浙江-嘉兴,,,新凤鸣,Xing Fengming Group,浙江嘉兴,Zhejiang,化纤,Chemical fibres,70.0,990.0,-18%,,家族,2024
+754,336,左宗申,Zuo Zongshen,71,先生,中国-重庆,China-Chongqing,中国-重庆,,,宗申,Zongshen,重庆,Chongqing,摩托车、房地产,"Motorcycles, real estate",70.0,990.0,27%,,家族,2024
+754,-48,姜雪飞,Jiang Xuefei,55,先生,中国-辽宁-大连,China-Liaoning-Dalian,中国-广东-深圳,,,崇达科技,Suntak,广东深圳,Guangdong,印刷电路板,Electronic Components,70.0,990.0,-18%,,夫妇,2024
+754,142,袁菁,Yuan Jing,44,先生,,,中国-上海,,,沐瞳科技,Moonton,上海,Shanghai,游戏,Game,70.0,990.0,0%,,未知,2024
+754,-52,张大中,Zhang Dazhong,76,先生,中国-北京,China-Beijing,中国-北京,,,大中,Dazhong,北京,Beijing,投资,Investments,70.0,990.0,-20%,,未知,2024
+754,142,黄泽兰,Huang Zelan,69,先生,中国-江西-赣州,China-Jiangxi-Zhangzhou,中国-江西-赣州,,,章源钨业,Zhangyuan Tungsten,江西赣州,Jiangxi,钨矿,Tungsten Mining,70.0,990.0,0%,,夫妇,2024
+754,-464,黄伟,Huang Wei,65,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-浙江-杭州,本科,温州师范,新湖,XinHu,浙江杭州,Zhejiang,房地产、金融,"Real estate, finance",70.0,990.0,-62%,,夫妇,2024
+754,-233,耿建明,Geng Jianming,62,先生,中国-江苏-南京,China-Jiangsu-Nanjing,中国-河北-廊坊,博士,华北航天工业、天大+南洋理工、武汉理工,荣盛,RiseSun,河北廊坊,Hebei,房地产,Real Estate,70.0,990.0,-39%,,夫妇,2024
+754,-85,张跃,Zhang Yue,64,先生,中国-湖南-长沙,China-Hunan-Changsha,中国-湖南-长沙,,,远大,Broad,湖南长沙,Hunan,环保建筑,"Air Conditioning, Environmental Construction",70.0,990.0,-22%,,夫妇,2024
+754,-50,李进,Li Jin,54,先生,,,中国-四川-成都,,,李宁,Li-ning,北京,Beijing,体育用品、投资,"Sporting Goods, Investments",70.0,990.0,-19%,,父子,2024
+754,245,李振江,Li Zhenjiang,67,先生,中国-河北-石家庄,China-Hebei-Shijiazhuang,中国-河北-石家庄,,,神威,Shineway,河北石家庄,Hebei,医药,Pharmaceuticals,70.0,990.0,13%,,家族,2024
+754,142,彭军,Peng Jun,未知,先生,,,美国,,,小马智行,Pony.ai,广东广州,Guangzhou,自动驾驶技术,Automatic Driving Technology,70.0,990.0,0%,,未知,2024
+754,142,张晖,Zhang Hui,46,先生,中国-江苏,China-Jiangsu,中国-江苏-南京,,,满帮,Manbang Group,贵州贵阳,Guizhou,运输,Transportation,70.0,990.0,0%,,未知,2024
+754,186,张利钿,Zhang Litian,60,先生,中国-广东-潮州,China-Guangdong-Chaozhou,中国-广东-潮州,,,雅士利,Yashily,广东潮州,Guangdong,乳业,Dairy,70.0,990.0,8%,,家族,2024
+754,59,周国辉,Zhou Guohui,59,先生,中国-广东-梅州,China-Guangdong-Meizhou,中国-广东-深圳,,,怡亚通,Eternal Asia,广东深圳,Guangdong,供应链,Logistics,70.0,990.0,-7%,,未知,2024
+792,-86,伍超群,Wu Chaoqun,55,先生,中国-四川-眉山,China - Sichuan - Meishan,中国-四川-眉山,硕士,,千禾味业,Qianhe,四川眉山,Sichuan,食品,Food,68.0,960.0,-20%,,未知,2024
+792,216,Allan Warburg,Allan Warburg,58,先生,丹麦,Denmark,中国-北京,,,绫致时装,Bestseller China,北京,Beijing,服装零售,Apparel Retail,68.0,960.0,13%,,未知,2024
+792,69,丹宏,Dan Hong,未知,先生,,,中国-河北-邯郸,,,五得利,Wudeli,河北邯郸,Hebei,面粉,Flour,68.0,960.0,-7%,,家族,2024
+792,-86,邵建雄,Shao Jianxiong,60,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,,,禾迈股份,Hoymiles,浙江杭州,Zhejiang,光伏逆变器,Inverter,68.0,960.0,-20%,,未知,2024
+792,69,张德生,Zhang Desheng,75,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,,,万马电线电缆,Wanma,浙江杭州,Zhejiang,电缆、房地产、医药,"Cable, real estate, pharmaceuticals",68.0,960.0,-7%,,家族,2024
+792,-207,傅明康,Fu Mingkang,61,先生,,,中国-浙江-宁波,,,日月股份,Riyue,浙江宁波,Zhejiang,机械配件,Machinery Parts,68.0,960.0,-32%,,家族,2024
+792,216,Dan Friis丹飞,Dan Friis,55,先生,,,中国-北京,,,绫致时装,Bestseller China,北京,Beijing,服装零售,Apparel Retail,68.0,960.0,13%,,未知,2024
+799,-278,柯桂华,Ke Guihua,59,先生,,,中国-上海,,,科博达,Keboda,上海浦东,Shanghai,汽车电子产品,Automotive electronics,67.0,940.0,-42%,,未知,2024
+799,New,康永来,Kang Yonglai,未知,未知,,Jiangsu,江苏苏州,,Y,天兵科技,Space Pioneer,江苏苏州,Jiangsu,航天,Aerospace,67.0,940.0,NEW,,未知,2024
+799,188,赵曰岭,Zhao Yueling,72,先生,中国-山东,China-Shandong,中国-山东-东营,,,金岭,Jinlin,山东东营,Shandong,化工,Chemicals,67.0,940.0,5%,,家族,2024
+799,62,张华,Zhang Hua,未知,先生,,,中国-四川-成都,,,福华,Fuhua,四川成都,Sichuan,农业、造纸、矿产,"Agriculture, Paper",67.0,940.0,-8%,,未知,2024
+803,127,邵丹薇,Shao Danwei,42,女士,中国-江苏-常州,,中国-江苏-常州,,,星星充电,Star Charge,江苏常州,Jiangsu,充电桩,New Energy,66.0,930.0,0%,,未知,2024
+803,-48,袁桂宝,Yuan Guibao,未知,先生,,,中国-河南-郑州,,,鸿宝集团,Hongbao,河南郑州,Henan,房地产、园林,Real estate,66.0,930.0,-18%,,父女,2024
+803,-55,赵鹏,Zhao Peng,54,先生,中国-山西-长治,China-Shanxi-Changzhi,中国-北京,,,BOSS直聘,Kanzhun,北京,Beijing,招聘网站,Job Boards,66.0,930.0,-20%,,未知,2024
+803,-48,夏曙东,Xia Shudong,52,先生,中国-湖北-黄冈,China -Hubei - Huanggang,中国-北京,博士,北大,千方科技,TransInfo,北京,Beijing,智能交通,Intelligent Transportation Software,66.0,930.0,-18%,,未知,2024
+803,127,丁锋,Ding Feng,58,先生,,,中国-江苏-常州,,,星星充电,Star Charge,江苏常州,Jiangsu,充电桩,New Energy,66.0,930.0,0%,,未知,2024
+808,282,明再远,Ming Zaiyuan,61,先生,中国-四川-德阳,China -Sichuan - Deyang,中国-四川-德阳,,,新天然气,Xintai Gas,新疆乌鲁木齐,Xinjiang,天然气,Natural Gas,65.0,920.0,18%,,未知,2024
+808,88,李思廉,Li Sze Lim,67,先生,中国-香港,China-Hong Kong,中国-广东-广州,硕士,香港中文大学、波士顿大学,富力地产,R & F,广东广州,Guangdong,投资、房地产,"Investments, Real Estate",65.0,920.0,-7%,,未知,2024
+808,New,李小勤,Li Xiaoqin,53,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-江苏-常州,,,匠心家居,Motomotion,江苏常州,Jiangsu,家具,Furnishing,65.0,920.0,NEW,,夫妇,2024
+808,-420,邱敏秀,Qiu Minxiu,79,先生,,,中国-浙江-绍兴,博士,,晶盛机电,Jingsheng Mechanical & Electrical Co,浙江绍兴,Zhejiang,机电设备,Equipment manufacturing,65.0,920.0,-55%,,家族,2024
+808,53,邱建林,Qiu Jianlin,61,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,硕士,,恒逸,Hengyi,浙江杭州,Zhejiang,化纤,Chemical fibres,65.0,920.0,-11%,,未知,2024
+808,132,李新炎,Li Xinyan,73,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-上海,,,中国龙工,Lonking,上海松江,Shanghai,重型工程用车,Heavy construction vehicles,65.0,920.0,0%,,夫妇,2024
+808,-223,励建立,Li Jianli,52,先生,,,中国-广东-深圳,,,科达利,Kedali,广东深圳,Guangdong,锂电池结构件,Industrial Machinery,65.0,920.0,-35%,,未知,2024
+808,53,吴昕阳,Wu Sin-Yang,未知,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-台北,,,新光三越,SKM,台湾台北,Taiwan,房地产,Real Estate,65.0,920.0,-11%,,家族,2024
+808,5,熊小川,Xiong Xiaochuan,58,先生,,,中国-深圳,,,美好创亿,Mehow Innovative,广东深圳,Guangdong,医疗机械,Medical Devices,65.0,920.0,-13%,,未知,2024
+808,-420,徐旭东,Xu Xudong,54,先生,,,中国-浙江-宁波,,,旭升汽车技术,XuSheng Auto Technology,浙江宁波,Zhejiang,汽车零部件,Automobile parts,65.0,920.0,-55%,,父女,2024
+808,5,姚俊良,Yao Junliang,71,先生,,,中国-山西-太原,,,美锦能源,Meijing Energy,山西太原,Shanxi,煤炭,Coal,65.0,920.0,-13%,,未知,2024
+808,282,詹国海,Zhan Guohai,56,先生,,,中国-河北-沧州,,,鑫海控股,Xinhai,河北沧州,Heibei,石油化工,Chemical,65.0,920.0,18%,,未知,2024
+808,53,张波,Zhang Bo,未知,先生,,,中国-上海,,,美团,Meituan,北京,Beijing,生活服务,Life Service,65.0,920.0,-11%,,未知,2024
+808,-139,张近东,Zhang Jindong,61,先生,中国-江苏-南京,China-Jiangsu-Nanjing,中国-江苏-南京,本科,南京师范,苏宁,Suning,江苏南京,Jiangsu,零售、房地产,"Retail, real estate",65.0,920.0,-28%,,未知,2024
+808,-243,吴波,Wu Bo,70,先生,中国-江苏-南京,China-Jiangsu-Nanjing,中国-江苏-南京,硕士,,埃斯顿,Estun,江苏南京,Jiangsu,机械装备制造,Manufacturing,65.0,920.0,-38%,,家族,2024
+808,5,张思民,Zhang Simin,62,先生,中国-吉林-长春,China-Jilin-Changchun,中国-广东-深圳,本科,哈工大,海王,Neptunus,广东深圳,Guangdong,医药、房地产,Pharmaceuticals,65.0,920.0,-13%,,夫妇,2024
+808,132,欧亚平,Ou Yaping,62,先生,中国-湖南-长沙,China-Hunan-Changsha,中国-香港,本科,北京理工,百仕达,Sinolink Worldwide,香港,Hong Kong,天然气、房地产,"Natural Gas, Real Estate",65.0,920.0,0%,,未知,2024
+808,53,吕培榕,Lyu Peirong,65,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-泉州,,,大帝,Dadi,福建泉州,Fujian,投资、房地产、服装,"Apparel, Investments, Real Estate",65.0,920.0,-11%,,未知,2024
+808,53,罗康瑞,Vincent Lo Hong-shui,76,先生,中国-香港,China-Hong Kong,中国-香港,,,瑞安,Shui On,香港,Hong Kong,房地产,Estate Holding,65.0,920.0,-11%,,家族,2024
+808,-243,折生阳,She Shengyang,69,先生,中国-陕西-西安,China-Shaanxi-Xi'an,中国-陕西-西安,,,铂力特,Xi'An Bright,陕西西安,Shaanxi,金属增材制造,Additive Manufacturing,65.0,920.0,-38%,,未知,2024
+808,-53,张轩松,Zhang Xuansong,53,先生,中国-福建-福州,China-Fujian-Fuzhou,中国-福建-福州,,,永辉,Yonghui Superstores,福建福州,Fujian,超市零售,Supermarket retailing,65.0,920.0,-19%,,未知,2024
+808,5,宗艳民,Zong Yanmin,60,先生,,,中国-山东-济南,,,天岳先进,Sicc,山东济南,Shandong,半导体材料,Semiconductors,65.0,920.0,-13%,,未知,2024
+808,53,朱敏,Zhu Min,76,先生,中国-浙江-宁波,China-Zhejiang-Ningbo,中国-浙江-杭州,硕士,浙江农业、浙大,赛伯乐,Cybernaut,浙江杭州,Zhejiang,投资,Investments,65.0,920.0,-11%,,夫妇,2024
+808,371,钟志平,Roy Chi Ping Chung,71,先生,中国-澳门,China-Macau,中国-香港,,,创科实业,TTI,香港,Hong Kong,消费品,Consumer Goods,65.0,920.0,30%,,未知,2024
+808,5,周伟健,Zhou Wweijian,未知,先生,,,中国-广东-广州,,,美涂士,Maydos,广东广州,Guangdong,墙面保护装饰,Building Materials,65.0,920.0,-13%,,未知,2024
+808,371,陈邦栋,Chen Bangdong,54,先生,,,中国-上海,,,思源电气,Sieyuan,上海闵行,Shanghai,输配电设备,Electronic equipment,65.0,920.0,30%,,未知,2024
+808,-272,曹骥,Cao Ji,72,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,,,杭可科技,Hangke Technology,浙江杭州,Zhejiang,锂电池,Battery technology,65.0,920.0,-41%,,父子,2024
+808,-495,王建沂,Wang Jianyi,61,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,,,富通,Futong,浙江杭州,Zhejiang,光纤光缆,Fiber optic cable,65.0,920.0,-63%,,未知,2024
+808,88,王文城,Wang Wencheng,未知,先生,中国-广东,China-Guangdong,中国-广东-东莞,,,大中,Dazhong,广东东莞,Guangdong,石材、房地产,"Stone, Real Estate",65.0,920.0,-7%,,家族,2024
+808,200,温纯青,Wen Chunqing,53,先生,中国-广东-梅州,China-Guangdong-Meizhou,中国-广东-深圳,,,大百汇,Da Baihui,广东深圳,Guangdong,烟草、房地产、白酒,"Tobacco, Real Estate, Liquor",65.0,920.0,8%,,父子,2024
+808,0,包松安,Bao Songan,未知,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-天津,,,亿联投资,Yilian,天津,Tianjin,房地产、投资,"Real Estate, Investments",65.0,920.0,-17%,,未知,2024
+808,-102,董清世,Dong qingshi,58,先生,,,中国-香港,,,信义,Xinyi Glass,香港,Hong Kong,玻璃,Glass,65.0,920.0,-24%,,夫妇,2024
+808,-139,丁永强,Ding Yongqaing,44,先生,中国-湖北-随州,,中国-广东-深圳,,,古瑞瓦特,Growatt Technology,广东深圳,Guangdong,光伏设备,New energy,65.0,920.0,-28%,,未知,2024
+808,132,邓耀升,Tang Yiu Sing,38,先生,中国-香港,China-Hong Kong,中国-香港,,,升域,Stan Group,香港,Hong Kong,房地产,Estate Holding,65.0,920.0,0%,,未知,2024
+808,5,程涌,Cheng Yong,50,先生,中国-湖南-沅江,China-Hunan-Yujiang,中国-广东-深圳,,,奥士康,Aoshikang,广东深圳,Guangdong,高密度印制电路板,Electronic Components,65.0,920.0,-13%,,夫妇,2024
+808,88,李强,Li Qiang,未知,先生,,,中国-上海,,,百雀羚,Pechion,上海,Shanghai,化妆品,Cosmetic,65.0,920.0,-7%,,未知,2024
+808,-102,李海周,Li Haizhou,54,先生,中国-广东-梅州,China-Guangdong-Meizhou,中国-广东-深圳,,,兆威机电,Zhaowei Machinery & Electronic,广东深圳,Guangdong,电气设备,Electrical Equipment,65.0,920.0,-24%,,夫妇,2024
+808,282,李朝旺,Li Chaowang,66,先生,中国-广东-江门,China-Guangdong-Jiangmen,中国-香港,硕士,广东广播电视,维达国际,Vinda Paper,香港,Hong Kong,生活卫生产品,Hygiene Products,65.0,920.0,18%,,未知,2024
+808,5,何中林,He Zhonglin,56,先生,,,中国-黄石,,,融通,RT-Hitech,湖北黄石,Hubei,锂电池材料,Green Energy,65.0,920.0,-13%,,未知,2024
+808,132,陈保华,Chen Baohua,62,先生,中国-浙江-台州,China-Zhejiang-Taizhou,中国-浙江-台州,本科,,华海药业,Huahai Pharmaceutical,浙江台州,Zhejiang,医药,Pharmaceuticals,65.0,920.0,0%,,未知,2024
+808,New,陈竞宏,Chen Jinghong,78,先生,,,中国-江苏-泰州,,,华达科技,Huada,江苏泰州,Jiangsu,汽车零部件,Auto Components,65.0,920.0,NEW,,家族,2024
+808,-176,刘庆峰,Liu Qingfeng,51,先生,中国-安徽-宣城,China-Anhui-Xuancheng,中国-安徽-合肥,博士,中科大,科大讯飞,Iflytek,安徽合肥,Anhui,软件和信息技术服务业,Software and information technology services,65.0,920.0,-33%,,未知,2024
+808,88,陆永华,Lu Yonghua,61,先生,中国-江苏-南通,China-Jiangsu-Nantong,中国-江苏-南通,,,林洋能源,Linyang Electronics,江苏南通,Jiangsu,太阳能,Green Energy,65.0,920.0,-7%,,夫妇,2024
+808,88,裘国根,Qiu Guogen,55,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-上海,本科,人大,重阳投资,Chongyang,上海浦东,Shanghai,投资,Investments,65.0,920.0,-7%,,夫妇,2024
+808,53,邱奕博,Qiu Yibo,37,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,,,恒逸,Hengyi,浙江杭州,Zhejiang,化纤,Chemical fibres,65.0,920.0,-11%,,未知,2024
+808,88,刘明辉,Liu Minghui,61,先生,中国-香港,China-Hong Kong,中国-香港,,,中国燃气,China Gas,香港,Hong Kong,能源,Energy,65.0,920.0,-7%,,未知,2024
+808,132,廖杰远,Liao Jieyuan,未知,先生,,,中国-浙江-杭州,,,微医,WeDoctor,浙江杭州,Zhejiang,医疗服务,Health Service,65.0,920.0,0%,,未知,2024
+808,-223,刘修才,Liu Xiucai,67,先生,,,中国-上海,,,凯赛生物,Cathay,上海浦东,Shanghai,生物材料,Biomedicine,65.0,920.0,-35%,,家族,2024
+808,New,刘先兵,Liu Xianbing,未知,未知,,,江苏苏州,博士,美国康州大学,珂玛科技,Kema Tech,江苏苏州,Jiangsu,陶瓷材料,Manufacturing,65.0,920.0,NEW,,未知,2024
+808,53,邱祥娟,Qiu Xiangjuan,未知,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,,,恒逸,Hengyi,浙江杭州,Zhejiang,化纤,Chemical fibres,65.0,920.0,-11%,,未知,2024
+808,-102,孙毅,Sun Yi,57,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,硕士,,浙富控股,Zhefu Holding,浙江杭州,Zhejiang,清洁能源装备,Hydropower equipment,65.0,920.0,-24%,,未知,2024
+859,-51,王斌,Wang Bin,38,先生,中国-湖南,,中国-四川-成都,,,书亦餐饮,Shuyi,四川成都,Sichuan,餐饮连锁,Food & Beverages,63.0,890.0,-19%,,未知,2024
+859,-388,石毅峰,Shi Yifeng,50,先生,中国-山西-晋中,China-Shanxi-Jinzhong,中国-北京,,,爱美客,Imeik,北京,Beijing,生物制药,Biotechnology,63.0,890.0,-50%,,未知,2024
+859,-388,樊铮,Fan Zheng,45,先生,中国-上海,,中国-北京,,,理想汽车,Li Auto,北京,Beijing,新能源汽车,E-cars,63.0,890.0,-50%,,未知,2024
+859,-104,褚健,Chu Jian,61,先生,,,中国-浙江-杭州,,,中控技术,Supcon Technology,浙江杭州,Zhejiang,软件系统,SaaS,63.0,890.0,-21%,,未知,2024
+859,-46,黄关林,Huang Guanlin,58,先生,中国-浙江,China-Zhejiang,中国-浙江-宁波,本科,浙江工业,申洲针织,Shenzhou,浙江宁波,Zhejiang,纺织、服装,"Textiles, apparel",63.0,890.0,-16%,,未知,2024
+864,-51,程先锋,Cheng Xianfeng,56,先生,,,中国-浙江-杭州,硕士,,亿帆鑫富,Yifan Xinfu Pharmaceutical,浙江杭州,Zhejiang,医药,Pharmaceuticals,62.0,870.0,-17%,,未知,2024
+864,-109,赵彤彤,Zhao Tongtong,未知,先生,,,中国-上海,,,华住,Home Inn,上海闵行,Shanghai,连锁酒店,Hotel chain ,62.0,870.0,-23%,,未知,2024
+864,76,吴泳铭,Wu Yongming,49,先生,,,中国-浙江-杭州,,,阿里系,Alibaba,浙江杭州,Zhejiang,电子商务、金融科技,"E-commerce, fintech",62.0,870.0,-5%,,未知,2024
+864,-3,石克荣,Shi Kerong,67,先生,中国-河北-廊坊,China-Hebei-Langfang,中国-河北-三河,,,汇福,Hopefull,河北廊坊,Beijing,食品,Food,62.0,870.0,-15%,,未知,2024
+864,76,戴珊,Dai Shan,48,先生,,,中国-浙江-杭州,本科,杭州电子科技,阿里系,Alibaba,浙江杭州,Zhejiang,电子商务、金融科技,"E-commerce, fintech",62.0,870.0,-5%,,未知,2024
+864,127,寿柏年,Shou Bonian,62,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-浙江-杭州,本科,浙大,绿城服务,Greentown,浙江杭州,Zhejiang,物业管理,Real estate,62.0,870.0,-2%,,未知,2024
+870,138,尤金焕,You Jinhuan,未知,先生,,,中国-浙江-温州,,,华峰,Huafeng ,浙江温州,Zhejiang,化工、铝业、投资,"Chemical, aluminum, Investments",61.0,860.0,2%,,未知,2024
+870,138,贾国龙,Jia Guolong,57,先生,中国-内蒙古-巴彦淖尔,China-Inner Mongolia-Bayangar,中国-北京,本科,大连水产学院,西贝,Xibei,北京,Beijing,餐饮,Restaurants,61.0,860.0,2%,,未知,2024
+870,New,姜龙,Jiang Long,50,先生,,,中国-山东-潍坊,,,歌尔股份,GoerTek,山东潍坊,Shandong,声学及多媒体产品,Electronic Components,61.0,860.0,NEW,,未知,2024
+870,-57,徐观宝,Xu Guanbao,67,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-杭州,,,传化,Chuanhua,浙江杭州,Zhejiang,化工、农业、投资,"Chemical, agriculture, Investments",61.0,860.0,-19%,,未知,2024
+870,54,赵凯,Zhao Kai,未知,先生,,,中国-四川-成都,,,成都环球世纪,Chengdu International Exhibition & Convention Center,四川成都,Sichuan,投资、房地产,"Investments, Real Estate",61.0,860.0,-10%,,未知,2024
+875,133,楼天城,Lou Tiancheng,未知,先生,,,美国,,,小马智行,Pony.ai,广东广州,Guangzhou,自动驾驶技术,Automatic Driving Technology,60.0,850.0,0%,,未知,2024
+875,-62,吕绍林,Lv Shaolin,51,先生,中国-湖南-邵阳,China -Hunan-Yuyang,中国-江苏-苏州,,,博众精工,Bozhon Precision,江苏苏州,Jiangsu,自动化设备,Pharmaceuticals,60.0,850.0,-20%,,夫妇,2024
+875,-14,缪双大,Miao Shuangda,73,先生,中国-江苏-无锡,China-Jiangsu-Wuxi,中国-江苏-无锡,,,双良,Shuangliang,江苏无锡,Jiangsu,空调设备,Air Conditioning,60.0,850.0,-18%,,父子,2024
+875,-62,李平,Li Ping,60,先生,中国-江西-赣州,China-Jiangxi-Zhangzhou,中国-广东-广州,硕士,合肥工业,天高,Teamgo,广东广州,Guangdong,矿业开发、冶金贸易,"Mining, Metallurgy",60.0,850.0,-20%,,未知,2024
+875,-14,杨受成,Albert Yeung,80,先生,中国-香港,China-Hong Kong,中国-香港,,,英皇,Emperor,香港,Hong Kong,房地产,Estate Holding,60.0,850.0,-18%,,家族,2024
+875,-71,周旭明,Zhou Xuming,51,先生,,,中国-江苏-南京,,,科思股份,Cosmos,江苏南京,Jiangsu,化学品原料,Chemical raw materials,60.0,850.0,-24%,,家族,2024
+875,133,甄荣辉,Zhen Ronghui,62,先生,中国-香港,China-Hong Kong,中国-上海,本科,香港中文大学,51job,51job,上海静安,Shanghai,互联网服务,Internet Services,60.0,850.0,0%,,未知,2024
+875,65,赵延平,Zhao Yanping,56,先生,中国-吉林,China- Jilin,中国-上海,本科,浙大,华测导航,Huace,上海青浦,Shanghai,卫星导航,GPS,60.0,850.0,-8%,,夫妇,2024
+875,282,王跃旦,Wang Yuedan,71,先生,,,中国-浙江-宁波,,,富佳实业,Furja,浙江宁波,Zhejiang,家用电器,Home appliances ,60.0,850.0,15%,,家族,2024
+875,112,张勇,Zhang Yong,未知,先生,,,中国-浙江-杭州,本科,上财,阿里系,Alibaba,浙江杭州,Zhejiang,电子商务、金融科技,"E-commerce, fintech",60.0,850.0,-6%,,未知,2024
+875,65,鲁楚平,Lu Chuping,59,先生,中国-湖北-孝感,China -Hubei - A Sense of Filial Piety,中国-广东-中山,本科,华南理工,大洋电机,Broad-Ocean Motor,广东中山,Guangdong,工业电机,Electrical Equipment,60.0,850.0,-8%,,夫妇,2024
+875,New,张清森,Zhang Qingsen,未知,未知,,Fujian,广东深圳,本科,仰恩大学,绿联科技,Ugreen,广东深圳,Guangdong,电子配件,Digital Products,60.0,850.0,NEW,,未知,2024
+875,-169,王泽龙,Wang Zelong,未知,先生,,,中国-广东-广州,,,中核钛白,CNNC,广东广州,Guangdong,钛白粉,Titanium Dioxide,60.0,850.0,-29%,,未知,2024
+875,-206,袁莉萍,Yuan Liping,53,先生,,,中国-广东-深圳,,,康泰生物,Kangtai Biological,广东深圳,Guangdong,生物医药,Biotech,60.0,850.0,-33%,,未知,2024
+875,-290,徐少春,Xu Shaochun,61,先生,中国-湖南-益阳,China-Hunan-Yiyang,中国-广东-深圳,本科,东南,金蝶国际,Kingdee,广东深圳,Guangdong,财务软件,Financial Software,60.0,850.0,-40%,,未知,2024
+875,-67,徐进,Xu Jin,59,先生,,,中国-安徽-淮北,,,口子窖,Kouzi Distillery,安徽淮北,Anhui,白酒,Liquor,60.0,850.0,-23%,,未知,2024
+875,-487,王宵锟,Wang Xiaokun,41,先生,,,中国-四川-成都,,,茶百道,ChaPanda,四川成都,Sichuan,餐饮连锁,Food & Beverages,60.0,850.0,-59%,,夫妇,2024
+875,193,谢剑辉,Xie Jianhui,未知,先生,,,中国-湖南-长沙,,,富兴,Fuxing,湖南长沙,Hunan,汽车服务，产业园区,"Real estate, car sales, Investments",60.0,850.0,3%,,未知,2024
+875,-14,王铭祥,Wang Mingxiang,46,先生,中国-江苏-南通,China-Jiangsu-Nantong,中国-江苏-南京,硕士,北京中医药、南京理工,东华能源,Oriental Energy,江苏南京,Jiangsu,石油化工,Petrochemicals,60.0,850.0,-18%,,夫妇,2024
+875,New,张重兴,Chang Chung Hsing,未知,未知,,,台湾台中,,,台湾精锐,Apex Dynamics,台湾台中,Taiwan,工业机械,Industrial Machinery,60.0,850.0,NEW,,家族,2024
+875,116,童文红,Tong Wenhong,54,先生,,,中国-浙江-杭州,,,阿里系,Alibaba,浙江杭州,Zhejiang,电子商务、金融科技,"E-commerce, fintech",60.0,850.0,-5%,,未知,2024
+875,-339,李杰,Li Jie,49,先生,中国-四川,China - Sichuan,印度尼西亚-雅加达,,,极兔速递,J&T Global Express,印度尼西亚雅加达,Indonesia,物流快递,Logistics,60.0,850.0,-45%,,未知,2024
+875,124,赖国贵,Lai Guogui,60,先生,,,中国-浙江-杭州,,,春风控股集团,Cfmoto,浙江杭州,Zhejiang,摩托车,Motorcycles,60.0,850.0,-3%,,家族,2024
+875,215,沈波,Shen Bo,61,先生,,,中国-上海,,,分布式资本,Fenbushi,上海虹口,Shanghai,投资,Investments,60.0,850.0,9%,,未知,2024
+875,272,李凯莉,Kelly Lee,未知,女士,,,中国-台湾-新北,,,龙岩,Lungyen,台湾新北,Taiwan,殡葬服务,Life Services,60.0,850.0,13%,,家族,2024
+875,133,李咏怡,Li Yongyi,未知,女士,,,中国-广东-东莞,,,粤丰环保,Canvestt,广东东莞,Guangdong,环保,Environmental Protection,60.0,850.0,0%,,家族,2024
+875,-62,梁桐灿,Liang Tongcan,未知,先生,中国-广东-佛山,China-Guangdong-Foshan,中国-广东-佛山,,,宏宇,Hongyu,广东佛山,Guangdong,建筑陶瓷,Ceramics,60.0,850.0,-20%,,未知,2024
+875,-62,刘宝林,Liu Baolin,71,先生,中国-湖北-孝感,China -Hubei - A Sense of Filial Piety,中国-湖北-武汉,,,九州通,Jointown,湖北武汉,Hubei,医药流通,Pharmaceutical distribution,60.0,850.0,-20%,,未知,2024
+875,215,孙中伟,Sun Zhongwei,46,先生,中国-山东,China-Shandong,中国-广东-深圳,,,华宝新能,Hello Tech,广东深圳,Guangdong,便携储能电池、太阳能,Portable Batteries,60.0,850.0,9%,,夫妇,2024
+875,65,苏如春,Su Ruchun,56,先生,,,中国-广东-广州,,,华邦,Huabang,广东广州,Guangdong,房地产、建筑、投资,"Real Estate,Infrastructure,Investments",60.0,850.0,-8%,,家族,2024
+875,New,柯利明,Ke Liming,未知,未知,,Hubei,北京,硕士,澳大利亚格里菲斯大学,中国儒意,China Ruyi,香港,Hong Kong,娱乐,Entertainment,60.0,850.0,NEW,,未知,2024
+875,21,金鑫,Jin Xin,57,先生,,,中国-辽宁-阜新,,,大金重工,Dajin Heavy Industry,辽宁阜新,Liaoning,钢结构产品,Steel Products,60.0,850.0,-14%,,未知,2024
+875,304,胡鹍辉,Hu Kunhui,33,先生,中国-广东-深圳,China-Guangdong-Shenzhen,中国-广东-深圳,,,亚辉龙,YHLO,广东深圳,Guangdong,生物科技,Biotech,60.0,850.0,20%,,未知,2024
+875,65,辜侯天仪,Koo Hou Tien-I,未知,先生,,,中国-台湾-台北,,,台泥,Koos Group,台湾台北,Taiwan,水泥,Cement,60.0,850.0,-8%,,家族,2024
+875,-240,杜伟民,Du Weimin,61,先生,中国-江西-南昌,China-Jiangxi-Nanchang,中国-广东-深圳,,,康泰生物,Biokangtai,广东深圳,Guangdong,生物医药,Biotech,60.0,850.0,-37%,,未知,2024
+875,-174,黄金祥,Huang Jinxiang,59,先生,中国-安徽-宣城,China-Anhui-Xuancheng,中国-安徽-宣城,,,安徽广信,Anhui Guangxin,安徽宣城,Anhui,农药化肥、房地产,"Fertilizer, real estate",60.0,850.0,-33%,,夫妇,2024
+875,133,陈睿,Chen Rui,46,先生,中国-四川-成都,China - Sichuan-Chengdu,中国-上海,本科,成都信息工程大学,哔哩哔哩,Bilibili,上海杨浦,Shanghai,视频弹幕网站,Video barrage,60.0,850.0,0%,,未知,2024
+875,-120,蔡开云,Cai Kaiyun,52,先生,,,中国-湖北-宜昌,,,稻花香,Hubei Daohuaxiang,湖北宜昌,Hubei,白酒,Liquor,60.0,850.0,-25%,,未知,2024
+875,21,赵满堂,Zhao Mantang,64,先生,中国-甘肃-天水,China -Gansu - Tianshui,中国-甘肃-天水,,,盛达,Shengda,甘肃兰州,Gansu,矿业、酒店,"Mining, Hotels",60.0,850.0,-14%,,家族,2024
+875,-206,王明鎏,Wang Mingliu,41,先生,中国-四川-成都,China - Sichuan-Chengdu,中国-四川-成都,硕士,加拿大卑诗大学（UBC）、纽约大学,毛球科技,Tomorrow,四川成都,Sichuan,投资、区块链、游戏,"Investments, Blockchain, Gaming",60.0,850.0,-33%,,未知,2024
+875,-120,王建东,Wang Jiandong,52,先生,中国-河北-邯郸,China-Hebei,中国-河北-邯郸,,,中建融东,CSCEC Rongdong,河北邯郸,Hebei,钢铁,Steel,60.0,850.0,-25%,,未知,2024
+875,21,王维东,Wang Weidong,47,先生,中国-甘肃-酒泉,China -Gansu - Jiuquan,中国-广东-深圳,,,赢合科技,Yinghe Technology,广东深圳,Guangdong,自动化设备,Industrial Equipment,60.0,850.0,-14%,,夫妇,2024
+875,-290,王佳,Wang Jia,55,先生,中国-云南-昆明,China-Yunnan-Kunming,中国-北京,硕士,复旦、宾夕法尼亚,启明星辰,Venustech,北京,Beijing,网络安全,Cyber Security,60.0,850.0,-40%,,夫妇,2024
+918,-333,张亚,Zhang Ya,55,先生,,,中国-四川-成都,,,国光电气,Guoguang Electric,四川成都,Sichuan,微波电子器件,Electronic device,59.0,830.0,-41%,,夫妇,2024
+918,-107,陈泽民,Chen Zemin,81,先生,中国-重庆-江津,China-Chongqing-Jiangjin,中国-河南-郑州,本科,,三全食品,Sanquan Food,河南郑州,Henan,食品,Food,59.0,830.0,-23%,,家族,2024
+918,-397,赵鸿飞,Zhao Hongfei,50,先生,,,中国-北京,硕士,北京理工,中科创达,Thunder,北京,Beijing,智能终端操作系统,Intelligent Terminal Operating System,59.0,830.0,-49%,,未知,2024
+918,New,刘德,Liu De,未知,先生,,,中国-北京,硕士,北京理工大学、美国加州亚帕萨迪Art Center College of Design,小米,Xiaomi,北京,Beijing,北京,IoT,59.0,830.0,NEW,,未知,2024
+918,90,姚劲波,Yao Jinbo,48,先生,中国-湖南-益阳,China-Hunan-Yiyang,中国-北京,本科,中国海洋,58同城,58,北京,Beijing,生活服务,Life Service,59.0,830.0,-2%,,未知,2024
+923,-254,王德根,Wang Degen,53,先生,中国-四川,,中国-四川-成都,,,德康农牧,Dekon,四川成都,Sichuan,畜牧业、教育,Animal Husbandry,58.0,820.0,-36%,,夫妇,2024
+923,256,周华松,Zhou Huasong,58,先生,,,中国-福建-厦门,,,松霖科技,Solex High-tech Industries,福建厦门,Fujian,淋浴设备,Shower equipment,58.0,820.0,16%,,夫妇,2024
+923,-217,吕建明,Lyu Jiangming,59,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,硕士,浙大,通策医疗,Top Choice Medical,浙江杭州,Zhejiang,医疗器械,Medical devices,58.0,820.0,-32%,,未知,2024
+923,-110,吴城,Wu Cheng,未知,先生,,,中国-北京,,,国城,Guocheng,北京,Beijing,矿业,Mining,58.0,820.0,-23%,,未知,2024
+923,-217,吴凯庭,Wu Kaiting,未知,先生,中国-福建-漳州,China-Fujian-Zhangzhou,中国-福建-漳州,,,万利达,Malata,福建漳州,Fujian,电子信息产品,Information technology,58.0,820.0,-32%,,家族,2024
+923,85,谢识才,Xie Shicai,63,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-宁波,本科,,博威合金,Boway Alloy Material,浙江宁波,Zhejiang,合金材料,Alloy Materials,58.0,820.0,-3%,,家族,2024
+923,17,余海军,Yu Haijun,50,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-浙江-杭州,本科,,宝利德,Baolide,浙江杭州,Zhejiang,汽车销售,Car sales,58.0,820.0,-11%,,未知,2024
+923,-217,周文,Zhou Wen,59,先生,,,中国-上海,博士,工商管理,普利特,Pret Composites,上海青浦,Shanghai,塑料制造、汽车配件,"Plastics manufacturing, automotive parts",58.0,820.0,-32%,,夫妇,2024
+923,-175,申东日,Shen Dongri,52,先生,中国-黑龙江-绥化,China -Heilongjiang - Yuhua,中国-北京,,,朗姿,Lancy,北京,Beijing,服装,Apparel,58.0,820.0,-29%,,家族,2024
+932,8,吴惠芳,Wu Huifang,未知,先生,中国-江苏-,China-Jiangsu -,中国-江苏-苏州,,,永钢,Yonggang,江苏苏州,Jiangsu,钢铁,Iron & Steel,57.0,800.0,-12%,,未知,2024
+932,59,苏增福,Su Zengfu,84,先生,中国-浙江-台州,China-Zhejiang-Taizhou,中国-浙江-杭州,,,苏泊尔,Supor,浙江杭州,Zhejiang,厨具、投资,"Kitchen tools, Investments",57.0,800.0,-10%,,家族,2024
+932,8,吴永华,Wu Yonghua,54,先生,中国-福建,China-Fujian,中国-福建-厦门,,,安踏,Anta,福建厦门,Fujian,体育用品,Sportswear,57.0,800.0,-12%,,未知,2024
+932,-347,陈学利,Chen Xueli,73,先生,,,中国-山东-威海,,,威高,Wego,山东威海,Shandong,医疗器械,Medical devices,57.0,800.0,-43%,,父子,2024
+932,-119,王富济,Wang Fuji,未知,先生,,,中国-福建-漳州,,,片仔癀,Pientzehuang Pharmaceutical,福建漳州,Fujian,医药,Pharmaceuticals,57.0,800.0,-24%,,未知,2024
+932,76,周俊杰,Zhou Junjie,56,先生,,,中国-浙江-杭州,,,银都股份,Yindu Kitchen Equipment,浙江杭州,Zhejiang,餐饮设备,Industrial equipment,57.0,800.0,-5%,,未知,2024
+932,-177,钟培峰,Zhong Peifeng,61,先生,,,中国-上海,硕士,乔治亚理工,晶晨股份,Amlogic,上海浦东,Shanghai,电子,Semiconductor,57.0,800.0,-29%,,家族,2024
+939,141,刘姗姗,Liu Shanhan,未知,女士,,,中国-北京,,,摩尔线程,Moore Thread,北京,Beijing,半导体,Semiconductors,56.0,790.0,0%,,未知,2024
+940,-79,何亚民,He Yamin,67,先生,中国-四川,China - Sichuan,中国-四川-成都,,,利君股份,Leejun Industrial,四川成都,Sichuan,机械制造,Machinery manufacturing ,55.0,770.0,-25%,,家族,2024
+940,-375,花轩德,Hua Xuande,81,先生,中国-浙江-台州,China-Zhejiang-Taizhou,中国-浙江-台州,,,中贝九洲,Zonebanner Jiuzhou,浙江台州,Zhejiang,医药,Pharmaceuticals,55.0,770.0,-48%,,家族,2024
+940,-44,黄炳文,Huang Bingwen,70,先生,,,中国-广东-汕头,,,东风印刷,Dongfeng Printing,广东汕头,Guangdong,印刷,Printing,55.0,770.0,-21%,,家族,2024
+940,239,黄善兵,Huang Shanbing,68,先生,,,中国-江苏-南通,,,捷捷微电,JieJie Microelectronics,江苏南通,Jiangsu,半导体器件,Semiconductor device,55.0,770.0,10%,,家族,2024
+940,-234,张镇潮,Zhang Zhenchao,57,先生,,,中国-浙江-杭州,,,税友股份,Servyou Software,浙江杭州,Zhejiang,财税软件,SaaS,55.0,770.0,-35%,,未知,2024
+940,0,赵轶,Zhao Yi,48,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,本科,,长川科技,Changchuan Technology Co,浙江杭州,Zhejiang,半导体设备,Semiconductors,55.0,770.0,-15%,,夫妇,2024
+940,-44,钟声坚,Zhong Shengjian,66,先生,中国-广东-汕尾,China-Guangdong-Tai Wei,新加坡,,,仁恒,Yanlord,上海浦东,Shanghai,房地产,"Property, industrial",55.0,770.0,-21%,,未知,2024
+940,68,郑元豹,Zheng Yuanbao,66,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-浙江-温州,,,人民电器,People ElE Appliance ,浙江温州,Zhejiang,工业电器、房地产、投资,"Industrial electronics, real estate, Investments ",55.0,770.0,-8%,,未知,2024
+940,New,何德佑,Ho Te-Yu,未知,未知,,,台湾基隆,,,嘉泽端子,Lotes,台湾基隆,Taiwan,电子元件,Electronic Components,55.0,770.0,NEW,,未知,2024
+940,-469,郭振宇,Guo Zhenyu,61,先生,中国-云南-昆明,China-Yunnan-Kunming,中国-云南-昆明,,,贝泰妮,Botanee,云南昆明,Yunnan,护肤品,Skincare,55.0,770.0,-56%,,父子,2024
+940,-185,邓颖忠,Deng Yingzhong,73,先生,中国-广东,China-Guangdong,中国-广东-中山,,,中顺洁柔,Zhongshun,广东中山,Guangdong,生活用纸,Household Products,55.0,770.0,-31%,,家族,2024
+940,68,陈卓贤,Chen Zhuoxian,57,先生,中国-广东-中山,China-Guangdong-Zhongshan,中国-广东-广州,,,雅居乐,Agile,广东广州,Guangdong,投资、房地产,"Investments, Real Estate",55.0,770.0,-8%,,家族,2024
+940,68,陈育宣,Chen Yuxuan,58,先生,中国-江西-九江,China - Jiangxi - Jiujiang,中国-广东-深圳,,,电连技术,Electric Connector,广东深圳,Guangdong,电子元件连接器,Electronic Components,55.0,770.0,-8%,,夫妇,2024
+940,-44,陈清州,Chen Qingzhou,59,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-广东-深圳,,,海能达,Hytera,广东深圳,Guangdong,专业无线通信设备,Communications Equipment,55.0,770.0,-21%,,夫妇,2024
+940,-404,周剑,Zhou Jian,48,先生,,,中国-江苏-苏州,,,迈为股份,Maxwell,江苏苏州,Jiangsu,智能制造装备,Intelligent manufacturing equipment,55.0,770.0,-50%,,未知,2024
+940,New,周光平,Zhou Guangping,未知,先生,,,中国-北京,,,小米,Xiaomi,北京,Beijing,智能硬件与技术、投资,"IoT, Investments",55.0,770.0,NEW,,家族,2024
+940,-355,金磊,Jin Lei,59,先生,,,中国-吉林-长春,,,长春高新,Changchun High-tech Industries,吉林长春,Jilin,生物制药,Biopharmaceuticals,55.0,770.0,-45%,,未知,2024
+940,68,黎经华,Li Jinghua,62,先生,,,中国-广东-佛山,,,罗浮宫家居,Louvre,广东佛山,Guangdong,家具零售,Furniture,55.0,770.0,-8%,,未知,2024
+940,68,李建华,Li Jianhua,71,先生,中国-广东-梅州,China-Guangdong-Meizhou,中国-广东-广州,,,威华,Weihua,广东广州,Guangdong,地板,Building Materials,55.0,770.0,-8%,,父女,2024
+940,68,李文美,Li Wenmei,62,先生,中国-吉林-长春,China-Jilin-Changchun,中国-广东-广州,硕士,吉大,万孚生物,Wondfo Biotech,广东广州,Guangdong,快速诊断试剂,Biotech,55.0,770.0,-8%,,夫妇,2024
+940,150,李学凌,Li Xueling,51,先生,,,中国-广东-深圳,,,欢聚时代,YY,广东深圳,Guangdong,游戏、语音软件,Gaming,55.0,770.0,0%,,未知,2024
+940,-16,李缜,Li Zhen,60,先生,,,中国-安徽-合肥,,,国轩高科,Anhui Guoxuan,安徽合肥,Anhui,电池、房地产、影视、投资,"Batteries, Real estate, screen culture",55.0,770.0,-19%,,父子,2024
+940,68,黄婉茹,Huang Wanru,未知,先生,,,中国-广东-汕头,,,联泰,Lian Tai,广东汕头,Guangdong,基础建设、房地产,"Infrastructure, Real Estate",55.0,770.0,-8%,,未知,2024
+940,0,江淦钧,Jiang Ganjun,60,先生,中国-广东-广州,China-Guangdong-Guangzhou,中国-广东-广州,,,索菲亚,Suofeiya,广东广州,Guangdong,家具,Furniture,55.0,770.0,-15%,,未知,2024
+940,150,蒋锦志,Jiang Jinzhi,未知,先生,,,中国-上海,本科,武大,景林资产,Greenwoods,上海浦东,Shanghai,投资,Investments,55.0,770.0,0%,,未知,2024
+940,-185,姜桂廷,Jiang Guiting,66,先生,,,中国-山东-德州,本科,,景津环保,Jingjin,山东德州,Shandong,设备制造,Manufacturing,55.0,770.0,-31%,,夫妇,2024
+940,150,王坚,Wang Jian,62,先生,,,中国-浙江-杭州,本科,浙大,阿里系,Alibaba,浙江杭州,Zhejiang,电子商务、金融科技,"E-commerce, fintech",55.0,770.0,0%,,未知,2024
+940,68,王俊,Wang Jun,48,先生,,,中国-广东-深圳,本科,北大,碳云、华大基因,"iCarbonX, Bgi Genomics",广东深圳,Guangdong,医疗大数据、基因检测,Health Tech,55.0,770.0,-8%,,未知,2024
+940,150,汪东颖,Wang Dongying,58,先生,中国-甘肃-兰州,China -Gansu-Lanzhou,中国-广东-珠海,,,纳思达,Ninestar,广东珠海,Guangdong,打印设备,Printing Equipment,55.0,770.0,0%,,未知,2024
+940,68,王刚,Wang Gang,48,先生,,,中国-浙江-杭州,,,满帮,Manbang,贵州贵阳,Guizhou,物流,Transportation,55.0,770.0,-8%,,未知,2024
+940,133,孙永根,Sun Yonggen,53,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-浙江-绍兴,,,天圣控股,Tiansheng ,浙江绍兴,Zhejiang,化纤,Chemical fibers,55.0,770.0,-4%,,未知,2024
+940,150,束小龙,Shu Xiaolong,36,先生,中国-安徽-合肥,China-Anhui-Hefei,中国-安徽-合肥,,,老乡鸡,Laoxiangji,安徽合肥,Anhui,餐饮,Restaurant,55.0,770.0,0%,,夫妇,2024
+940,217,马国林,Ma Guolin,60,先生,中国-浙江,China-Zhejiang,中国-浙江-嘉兴,,,卫星石化,Zhejiang Satellite Petro Chemical,浙江嘉兴,Zhejiang,化工,Chemicals,55.0,770.0,6%,,未知,2024
+940,202,孟庆南,Meng Qingnan,66,先生,中国-湖北,China - Hubei,中国-湖北-武汉,硕士,,武汉凡谷,Wuhan Fingu,湖北武汉,Hubei,通信设备元件,Communications components ,55.0,770.0,2%,,家族,2024
+940,-185,潘龙泉,Pan Longquan,61,先生,,,中国-江苏-南京,,,泉峰,Chervon,江苏南京,Nanjing,电动工具,Electric Tools,55.0,770.0,-31%,,未知,2024
+940,207,彭浩,Peng Hao,57,先生,中国-陕西-咸阳,China - Shaanxi - Xianyang,中国-广东-深圳,硕士,,信维通信,Sunway Communication,广东深圳,Guangdong,通信部件,Electronic Components,55.0,770.0,4%,,未知,2024
+940,-185,瞿晓铧,Qu Xiaohua,60,先生,,,中国-上海,,,阿特斯,Csi,江苏苏州,Jiangsu,光伏设备,Green Energy,55.0,770.0,-31%,,夫妇,2024
+940,-375,商晓波,Shang Xiaobo,50,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-安徽-合肥,,,鸿路钢构,Honglu Steel Structure,安徽合肥,Anhui,金属结构制造业,Manufacturing of metal structures,55.0,770.0,-48%,,夫妇,2024
+940,-79,杨文龙,Yang Wenlong,62,先生,中国-江西-宜春,China -Jiangxi - Yichun,中国-江西-宜春,硕士,人大,仁和药业,Renhe,江西宜春,Jiangxi,医药,Pharmaceuticals,55.0,770.0,-25%,,家族,2024
+940,-79,姚文琛,Yao Wenchen,73,先生,,,中国-上海,,,姚记扑克,Yaoji,上海,Guangdong,文娱,Entertainment,55.0,770.0,-25%,,家族,2024
+940,68,吕大龙,Lyu Dalong,未知,先生,,,中国-北京,,,韦尔股份,Willsemi,上海浦东,Shanghai,投资,Semiconductors,55.0,770.0,-8%,,未知,2024
+940,-185,林海川,Lin Haichuan,52,先生,中国-广东-东莞,China-Guangdong-Dongguan,中国-广东-东莞,硕士,,宏川,Great River Smarter Logistics,广东东莞,Guangdong,仓储物流,Logistics,55.0,770.0,-31%,,家族,2024
+940,-271,张学政,Zhang Xuezheng,49,先生,,,中国-浙江-嘉兴,本科,,闻泰科技,Wingtech,浙江嘉兴,Zhejiang,半导体,Semiconductors,55.0,770.0,-39%,,未知,2024
+940,-127,张学武,Zhang Xuewu,50,先生,,,中国-湖南-长沙,,,盐津铺子,Yanker,湖南长沙,Hunan,食品制造,Food processing,55.0,770.0,-27%,,未知,2024
+940,-234,谢秉政,Xie Bingzheng,55,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-广东-广州,,,比音勒芬,Biemlf,广东广州,Guangdong,服装,Apparel,55.0,770.0,-35%,,夫妇,2024
+940,New,伍亚林,Wu Yalin,57,先生,中国-福建-莆田,China-Fujian-Yutian,中国-江苏-苏州,,,博俊科技,Bojun,江苏苏州,Jiangsu,汽车零部件,Auto Components,55.0,770.0,NEW,,夫妇,2024
+940,150,陈妙林,Chen Miaolin,72,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-杭州,,,开元旅业,New Century Tourism,浙江杭州,Zhejiang,房地产,Real estate,55.0,770.0,0%,,未知,2024
+987,188,杜越新,Du Yuexin,未知,先生,,,中国-北京,,,嘉德,China Guardian,北京,Beijing,投资、拍卖,"Investments, Auction",54.0,760.0,6%,,未知,2024
+987,18,徐子泉,Xu Ziquan,66,先生,,,中国-北京,本科,,捷成,Jetsen,北京,Beijing,软件与信息服务,Software and Information Services,54.0,760.0,-11%,,夫妇,2024
+987,21,卢荣富,Lu Rongfu,53,先生,,,中国-福建-厦门,本科,复旦,亿联网络,Yealink,福建厦门,Fujian,通信,Communication,54.0,760.0,-10%,,未知,2024
+987,4,耿殿根,Geng Diangen,68,先生,,,中国-北京,硕士,德克萨斯,光环新网,Sinnet,北京,Beijing,电信运营,Telecom,54.0,760.0,-14%,,未知,2024
+991,17,代田田,Dai Tiantian,41,先生,,,中国-上海,硕士,上海交大、上海交大,柏楚电子,Friendess,上海闵行,Shanghai,信息技术,Information technology,53.0,750.0,-12%,,未知,2024
+991,188,熊晓鸽,Xiong Xiaoge,69,先生,中国-湖南-湘潭,China-Hunan-Xiangtan,中国-北京,博士,湖南、社科院、波士顿、塔夫茨,IDG资本,IDG,北京,Beijing,投资,Investments,53.0,750.0,6%,,未知,2024
+991,188,徐小平,Xu Xiaoping,68,先生,中国-江苏-泰兴,China-Jiangsu-Yangzhou,中国-北京,硕士,中央音乐、加拿大萨斯卡彻温,真格,Zhenge,北京,Beijing,投资,Investments,53.0,750.0,6%,,未知,2024
+991,99,施清岛,Shi Qingdao,59,先生,,,中国-浙江-嘉兴,,,台华新材,Taihua New Material Co,浙江嘉兴,Zhejiang,纺织材料,Textiles,53.0,750.0,-4%,,家族,2024
+991,New,奥凤廷,Ao Fengting,65,先生,,,中国-内蒙古-鄂尔多斯,,,蒙泰,Mengtai,内蒙古鄂尔多斯,Inner Mongolia,煤炭、热电、铝合金,"Coal, Energy, Aluminum products",53.0,750.0,NEW,,未知,2024
+991,188,阎焱,Yan Yan,67,先生,中国-安徽-安庆,China -Anhui -Anqing,中国-北京,博士,南航、北大、普林斯顿,赛富,SAIF,北京,Beijing,投资,Investments,53.0,750.0,6%,,未知,2024
+991,-322,徐勇,Xu Yong,60,先生,中国-河南,China-Henan,中国-北京,博士,北大、美国A&M、UC Berkele,百度,Baidu,北京,Beijing,网络信息服务,Internet Information Services,53.0,750.0,-41%,,未知,2024
+991,188,庄辰超,Zhuang Chenchao,48,先生,中国-上海,China-Shanghai,中国-北京,本科,北大,斑马投资,Banma,北京,Beijing,投资,Investments,53.0,750.0,6%,,未知,2024
+991,-51,于果,Yu Guo,62,先生,,,中国-香港,硕士,,中教,China education,香港,Hong Kong,教育,Education,53.0,750.0,-18%,,未知,2024
+991,188,刘满世,Liu Manshi,75,先生,中国-内蒙古,China-Inner Mongolia,中国-内蒙古-鄂尔多斯,,,满世,Manshi,内蒙古鄂尔多斯,Inner Mongolia,煤炭,Coal,53.0,750.0,6%,,家族,2024
+991,-130,丁水波,Ding Shuibo,54,先生,中国-福建-泉州,China-Fujian-Quanzhou,中国-福建-厦门,,,特步,Xtep,福建厦门,Fujian,体育用品,Sportswear,53.0,750.0,-27%,,未知,2024
+991,-51,谢可滔,Xie Ketao,60,先生,,,中国-香港,硕士,,中教,China education,香港,Hong Kong,教育,Education,53.0,750.0,-18%,,未知,2024
+991,99,邱达强,Daniel Chiu Tat Jung,62,先生,中国-香港,China-Hong Kong,中国-香港,,,富地石油,Fortune Oil,香港,Hong Kong,石油化工,Petrochemicals,53.0,750.0,-4%,,未知,2024
+991,-455,吴英,Wu Ying,60,先生,,,中国-北京,,,美畅,Metron,陕西咸阳,Shaanxi,新材料,New materials,53.0,750.0,-52%,,未知,2024
+1005,-440,朱义文,Zhu Yiwen,未知,先生,,,中国-上海,,,海吉亚,Hygia,上海长宁,Shanghai,肿瘤检测,Tumour detection,52.0,730.0,-50%,,父女,2024
+1005,3,李立新,Li Lixin,57,先生,中国-浙江,China-Zhejiang,中国-浙江-宁波,,,利时,Lishi,浙江宁波,Zhejiang,塑胶产品、商业连锁、投资,"Plastic products, commercial chains, Investments",52.0,730.0,-13%,,未知,2024
+1005,-18,袁金华,Yuan Jinhua,65,先生,,,中国-湖南-长沙,本科,中南,三一,Sany,北京,Beijing,重型机械,Heavy Machinery,52.0,730.0,-19%,,未知,2024
+1005,57,傅梅城,Fu Meicheng,67,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-浙江-杭州,,,华策影视,Huace Film & TV,浙江杭州,Zhejiang,影视传媒,Television & media ,52.0,730.0,-12%,,未知,2024
+1005,New,冯陟旻,Feng Zhimin,未知,未知,,,新加坡,本科,新加坡国立大学,冬海集团,Sea,新加坡,Singapore,网络游戏、电商,"Online Games, E-Commerce",52.0,730.0,NEW,,未知,2024
+1005,63,刘海燕,Liu Haiyan,未知,先生,中国-四川,China - Sichuan,中国-四川-成都,,,大陆希望,Continental Hope ,四川成都,Sichuan,机械电气、能源化工、房地产,"Energy, chemical, real estate",52.0,730.0,-10%,,未知,2024
+1011,131,彭翼捷,Peng Yijie,45,先生,,,中国-浙江-杭州,,,阿里系,Alibaba,浙江杭州,Zhejiang,电子商务、金融科技,"E-commerce, fintech",51.0,720.0,-6%,,未知,2024
+1011,69,涂建华,Tu Jianhua,55,先生,,,中国-北京,本科,四川党校,广联达,Glodon,北京,Beijing,软件与信息服务,Software and Information Services,51.0,720.0,-9%,,未知,2024
+1011,-6,王振滔,Wang Zhentao,59,先生,中国-浙江-温州,China-Zhejiang-Wenzhou,中国-浙江-温州,,,奥康,Aokang,浙江温州,Zhejiang,鞋业、地产,"Shoes, real estate",51.0,720.0,-16%,,父子,2024
+1011,168,尤小华,You Xiaohua,未知,先生,,,中国-浙江-温州,,,华峰,Huafeng,浙江温州,Zhejiang,化工、铝业、投资,"Chemical, aluminum, Investments",51.0,720.0,2%,,未知,2024
+1011,62,胡季强,Hu Jiqiang,63,先生,中国-浙江,China-Zhejiang,中国-浙江-杭州,本科,浙大,康恩贝,Conba Pharmaceutical,浙江杭州,Zhejiang,医药,Pharmaceuticals,51.0,720.0,-11%,,未知,2024
+1011,168,周明华,Zhou Minghua,60,先生,中国-浙江,China-Zhejiang,中国-浙江-台州,硕士,,华海药业,Huahai Pharmaceutical,浙江台州,Zhejiang,医药,Pharmaceuticals,51.0,720.0,2%,,未知,2024
+1011,146,周云杰,Zhou Yunjie,63,先生,,,中国-北京,,,奥瑞金,ORG Packaging,北京,Beijing,包装,Packaging,51.0,720.0,-2%,,未知,2024
+1018,161,孙荫环,Sun Yinhuan,74,先生,中国-辽宁,China-Liaoning,中国-辽宁-大连,,,亿达,Yida,辽宁大连,Liaoning,房地产、软件园,"Real Estate, Software Development Zone",50.2,710.0,0%,,家族,2024
+1019,New,戴立忠,Dai Lizhong,56,先生,中国-北京,China -Beijing,中国-湖南-长沙,,,圣湘生物,Sansure,湖南长沙,Hunan,医药制造业,Pharmaceuticals,50.0,700.0,NEW,,未知,2024
+1019,New,张瑞安,Teo Swee Ann,49,先生,,,中国-上海,硕士,新加坡国立、新加坡国立,乐鑫科技,Espressif Systems,上海浦东,Shanghai,芯片,Chips,50.0,700.0,NEW,,未知,2024
+1019,71,张昊,Zhang Hao,37,先生,,,中国-上海,,,莉莉丝,Lilith,上海,Shanghai,游戏,Online games,50.0,700.0,-9%,,未知,2024
+1019,-89,袁永彬,Yuan Yongbin,62,先生,,,中国-安徽-芜湖,,,伯特利,Bethel,安徽芜湖,Anhui,汽车零部件,Auto parts,50.0,700.0,-24%,,夫妇,2024
+1019,71,袁帅,Yuan Shuai,37,先生,,,中国-上海,,,莉莉丝,Lilith,上海,Shanghai,游戏,Online games,50.0,700.0,-9%,,未知,2024
+1019,-79,蒋锡培,Jiang Xipei,61,先生,中国-江苏-无锡,China-Jiangsu-Wuxi,中国-江苏-无锡,,,智慧能源,Smarter Energy,江苏无锡,Jiangsu,电缆、医药、房地产,"Cable, pharmaceuticals, real estate",50.0,700.0,-23%,,父子,2024
+1019,-79,江黎明,Jiang Liming,未知,先生,中国-湖北-武汉,China -Hubei-Wuhan,中国-广东-佛山,本科,武大,利泰,Lited,广东佛山,Guangdong,汽车经销,Automobile Sales,50.0,700.0,-23%,,未知,2024
+1019,43,单建明,Shan Jianming,64,先生,中国-浙江-湖州,China-Zhejiang-Huzhou,中国-浙江-湖州,硕士,,美欣达,Mizuda ,浙江湖州,Zhejiang,纺织、房地产、投资,"Textiles, real estate, Investments ",50.0,700.0,-15%,,夫妇,2024
+1019,71,戴震,Dai Zhen,46,先生,中国-吉林-白城,China-Jilin-Baicheng,中国-山东-青岛,,,能链,Newlink,山东青岛,Shandong,充电服务,SaaS,50.0,700.0,-9%,,未知,2024
+1019,-28,张伟,Zhang Wei,67,先生,,,中国-浙江-杭州,,,热威股份,Heatwell,浙江杭州,Zhejiang,热电元件,Electronic components,50.0,700.0,-21%,,未知,2024
+1019,-206,张天瑜,Zhang Tianyu,57,先生,,,中国-广东-深圳,,,广和通,Fibocom,广东深圳,Guangdong,通信设备,Communications Equipment,50.0,700.0,-33%,,未知,2024
+1019,-264,郑效东,Zheng Xiaodong,60,先生,,,中国-上海,,,东富龙,Tofflon,上海闵行,Shanghai,医疗设备,Medical equipment,50.0,700.0,-38%,,父女,2024
+1019,160,崔维星,Cui Weixing,54,先生,中国-山东-潍坊,China -Shandong - Weifang,中国-上海,本科,厦大,德邦快递,Deppon,上海青浦,Shanghai,快递,Express Delivery,50.0,700.0,0%,,未知,2024
+1019,160,陈小英,Chen Xiaoying,48,先生,中国-浙江-杭州,China-Zhejiang-Hangzhou,中国-上海,,,申通快递,STO,上海青浦,Shanghai,物流,Logistics,50.0,700.0,0%,,未知,2024
+1019,71,陈育新,Chen Yuxin,74,先生,中国-四川,China - Sichuan,中国-四川-成都,本科,四川农业,华西希望,West Hope,四川成都,Sichuan,畜牧业、教育,"Animal Husbandry, Education",50.0,700.0,-9%,,夫妇,2024
+1019,128,车冯升,Che Fengsheng,62,先生,中国-山东,China-Shandong,中国-北京,硕士,中欧,四环医药,Sihuan Pharm,北京,Beijing,医药,Pharmaceuticals,50.0,700.0,-6%,,未知,2024
+1019,-564,陈刚,Chen Gang,56,先生,,,中国-上海,,,爱旭股份,Aikosolar,上海浦东,Shanghai,太阳能电池,Solar cell,50.0,700.0,-62%,,夫妇,2024
+1019,-158,孙洪军,Sun Hongjun,51,先生,中国-辽宁-铁岭,China-Liaoning-Tieling,中国-上海,,,艾为电子,Awinic,上海,Shanghai,芯片,Chips,50.0,700.0,-32%,,未知,2024
+1019,New,孙雁军,Sun Yanjun,未知,未知,,Zhejiang,广东佛山,,,飞南资源,Feinan Resource,广东佛山,Guangdong,金属回收,Metallurgy,50.0,700.0,NEW,,家族,2024
+1019,-20,陶春风,Tao Chunfeng,57,先生,,,中国-浙江-宁波,,,长鸿高科,Changhong Polymer Scientific & Technical,浙江宁波,Zhejiang,高分子材料,Polymers,50.0,700.0,-19%,,未知,2024
+1019,-313,陶意,Tao Yi,未知,先生,,,中国-上海,,,波克,Boke,上海,Shanghai,游戏,Online games,50.0,700.0,-41%,,未知,2024
+1019,New,阙伟东,Que Weidong,56,先生,,,中国-江苏-无锡,,,确成股份,Quechen Silicon,江苏无锡,Jiangsu,化工,Chemicals,50.0,700.0,NEW,,家族,2024
+1019,New,沈国荣,Shen Guorong,未知,先生,,,中国-江苏-南京,,,国电南瑞,Nari,江苏南京,Jiangsu,电网自动化,Automation,50.0,700.0,NEW,,未知,2024
+1019,-158,李俊田,Li Juntian,49,先生,,,中国-广东-深圳,,,汇川技术,Inovance Technology,广东深圳,Guangdong,工业自动化产品,Electronic Equipment,50.0,700.0,-32%,,未知,2024
+1019,New,柯建生,Ke Jiansheng,60,先生,,,中国-广东-广州,,,索菲亚,Suofeiya,广东广州,Guangdong,家具,Furniture,50.0,700.0,NEW,,未知,2024
+1019,-264,李完小,Li Wanxiao,58,先生,中国-湖南-长沙,,中国-湖南-长沙,,,航天环宇,Aerospace Huanyu,湖南长沙,Hunan,航空设备,Aeronautical equipment,50.0,700.0,-38%,,家族,2024
+1019,-11,李志刚,Li Zhigang,48,先生,,,中国-湖北-武汉,博士,,帝尔激光,DR Laser,湖北武汉,Hubei,设备制造,Manufacturing,50.0,700.0,-17%,,未知,2024
+1019,54,林伯实,Lin Por-Shih,79,先生,中国-台湾-台北,China-Taiwan-Taipei,中国-台湾-台北,,,台玻,Taiwan Glass,台湾台北,Taiwan,建筑玻璃,Glass,50.0,700.0,-12%,,家族,2024
+1019,New,林鸿明,Chris Lin,未知,未知,,,台湾新竹,硕士,清华大学,信骅科技,Aspeed,台湾新竹,Taiwan,半导体,Semiconductors,50.0,700.0,NEW,,未知,2024
+1019,71,刘冀鲁,Liu Jilu,77,先生,中国-安徽,China-Anhui,中国-香港,,,顺丰,SF,广东深圳,Guangdong,快递,Express Delivery,50.0,700.0,-9%,,父女,2024
+1019,-206,刘国伟,Liu Guowei,52,先生,,,中国-广东-深圳,,,汇川技术,Inovance Technology,广东深圳,Guangdong,工业自动化产品,Electronic Equipment,50.0,700.0,-33%,,未知,2024
+1019,128,马飞,Ma Fei,56,先生,中国-广东-河源,China-Guangdong-Heyuan,中国-广东-深圳,,,飞荣达,FRD,广东深圳,Guangdong,电子元件,Electronic Components,50.0,700.0,-6%,,夫妇,2024
+1019,138,鲁卫东,Lu Weidong,59,先生,,,中国-内蒙-古鄂尔多斯,,,鄂尔多斯,Erdos,内蒙古鄂尔多斯,Inner Mongolia,羊绒、煤电、冶金、房地产,"Cashmere, Coal, Real Estate",50.0,700.0,-4%,,未知,2024
+1019,New,田刚印,Tian Gangyin,未知,未知,,Jiangsu,广东深圳,本科,北京理工大学,联合飞机,United Aircraft,广东深圳,Guangdong,航天,Aerospace,50.0,700.0,NEW,,未知,2024
+1019,-28,万永兴,Wan Yongxing,53,先生,,,中国-河南-郑州,,,中瑞,Rail holdings,河南郑州,Henan,煤炭供应链管理、房地产,"Coal supply chain management, Real Estate",50.0,700.0,-21%,,未知,2024
+1019,-79,林集永,Lin Jiyong,54,先生,中国-广东-惠阳,China-Guangdong-Huiyang,中国-广东-东莞,,,慕思,De Rucci,广东东莞,Guangdong,床垫,Furniture ,50.0,700.0,-23%,,未知,2024
+1019,160,林晓辉,Lin Xiaohui,51,先生,,,中国-香港,,,伟禄,Realord,香港,Hong Kong,投资、房地产,"Investments, Real Estate",50.0,700.0,0%,,夫妇,2024
+1019,New,王兵,Wang Bing,42,先生,中国-山东-东营,China-Shandong-Dongying,中国-山东-东营,,,十月稻田,Shiyue Daotian,北京,Beijing,食品,Food & Beverages,50.0,700.0,NEW,,夫妇,2024
+1019,-79,王炳坤,Wang Bingkun,52,先生,中国-广东-东莞,China-Guangdong-Dongguan,中国-广东-东莞,,,慕思,De Rucci,广东东莞,Guangdong,床垫,Furniture ,50.0,700.0,-23%,,未知,2024
+1019,New,王念强,Wang Nianqiang,60,先生,中国-安徽-铜陵,China-Anhui-Copper Tomb,中国-广东-深圳,,,比亚迪,BYD,广东深圳,Guangdong,汽车、充电电池,"Automobile, New Energy",50.0,700.0,NEW,,未知,2024
+1019,-206,王晓申,Wang Xiaoshen,56,先生,,,中国-江西-新余,,,赣锋锂业,Ganfeng Lithium,江西新余,Jiangxi,有色金属冶炼加工,Non-ferrous Metals Processing,50.0,700.0,-33%,,未知,2024
+1019,New,王春生,Wang Chunsheng,49,先生,,,中国-江苏-苏州,本科,江苏理工,安洁科技,Anjie,江苏苏州,Jiangsu,消费电子组件,Consumer and Industry Electronics,50.0,700.0,NEW,,夫妇,2024
+1019,New,王力展,Wang Lizhan,未知,先生,,,中国-广东-佛山,,,海天味业,Haitian,广东佛山,Guangdong,调味品,Food Flavorings,50.0,700.0,NEW,,未知,2024
+1019,-89,叶继跃,Ye Jiyue,57,先生,中国-浙江,China-Zhejiang,中国-浙江-台州,本科,,三维股份,Sanwei Holding,浙江台州,Zhejiang,橡胶制品,Rubber Product,50.0,700.0,-24%,,夫妇,2024
+1019,-206,钟怀军,Zhong Huaijun,60,先生,中国-四川-阿坝,China-Sichuan-Aba,中国-上海,,,紫燕食品,Ziyan Foods,上海闵行,Shanghai,食品,Food,50.0,700.0,-33%,,家族,2024
+1019,New,赵贵钦,Zhao Guiqin,未知,未知,,Guangdong,广东广州,,,润本股份,Runben Biotechnology,广东广州,Guangdong,日化用品,Personal Care,50.0,700.0,NEW,,家族,2024
+1019,-11,赵玉乔,Zhao Yuqiao,未知,先生,中国-河北-迁安,China-Hebei-Yuan,中国-河北-迁安,,,九江,Jiujiang,河北迁安,Heibei,钢铁、酒店,"Steel, Restaurants",50.0,700.0,-17%,,家族,2024
+1019,New,陈建造,Chen Jian-Zao,未知,未知,,,台湾台南,,,宝雅,Poya,台湾台南,Taiwan,美妆日用品连锁店,Beauty Chain Stores,50.0,700.0,NEW,,家族,2024
+1019,160,陈茂春,Chen Maochun,72,先生,中国-福建-宁德,China-Fujian-Ningde,中国-河北-邯郸,,,兴华财富,Xinghua Fortune,河北邯郸,Hebei,钢铁,Steel,50.0,700.0,0%,,未知,2024
+1019,New,俞德超,Yu Dechao,60,先生,中国-浙江-台州,China-Zhejiang-Taizhou,中国-江苏-苏州,,,信达生物,Innovent,江苏苏州,Jiangsu,生物医药,Biotechnology,50.0,700.0,NEW,,未知,2024
+1019,160,袁金钰,Yuan Jinyu,68,先生,,,中国-广东-深圳,本科,,顺络电子,Sunlord,广东深圳,Guangdong,新型电子元件,Electronic Components,50.0,700.0,0%,,家族,2024
+1019,-498,曹建伟,Cao Jianwei,46,先生,,,中国-浙江-绍兴,博士,,晶盛机电,Jingsheng Mechanical & Electrical Co,浙江绍兴,Zhejiang,机电设备,Equipment manufacturing,50.0,700.0,-57%,,未知,2024
+1019,-264,曹克坚,Cao Kejian,62,先生,中国-浙江,China-Zhejiang,中国-浙江-衢州,,,开山控股,KaiShan,浙江衢州,Zhejiang,压缩机,Compressor,50.0,700.0,-38%,,未知,2024
+1019,160,叶华能,Ye Huaneng,73,先生,中国-广东-梅州,China-Guangdong-Meizhou,中国-广东-广州,,,宝丽华,Baolihua New Energy,广东广州,Guangdong,新能源,New Energy,50.0,700.0,0%,,未知,2024
+1019,-20,安治富,An Zhifu,78,先生,中国-四川,China - Sichuan,中国-四川-绵阳,本科,,富临,Fulin,四川绵阳,Sichuan,房地产、运输,"Real estate, transportation",50.0,700.0,-19%,,家族,2024
+1019,-11,丁佐宏,Ding Zuohong,62,先生,中国-江苏-南通,China-Jiangsu-Nantong,中国-上海,硕士,中欧,月星,Yuexing,上海普陀,Shanghai,房地产、零售、制造,"Real estate, retail, manufacturing",50.0,700.0,-17%,,未知,2024
+1019,New,蔡浩,Cai Hao,53,先生,,,中国-江苏-苏州,,,中信博,Arctech Solar,江苏苏州,Jiangsu,光伏设备,Green Energy,50.0,700.0,NEW,,夫妇,2024
+1019,-11,冯小华,Feng Xiaohua,68,先生,中国-广东-梅州,China-Guangdong-Meizhou,中国-广西-南宁,本科,暨南,洋浦南华糖业,Nanhua Sugar,广西南宁,Guangxi,制糖业,Sugar,50.0,700.0,-17%,,未知,2024
+1019,-123,付胜龙,Fu Shenglong,62,先生,中国-湖南-邵阳,China-Hunan,中国-湖南-邵阳,,,大汉控股,Dahan,湖南邵阳,Hunan,钢材贸易、房地产,"Steel trading, real estate",50.0,700.0,-29%,,家族,2024
+1019,71,黄伟常,Wong Wai Sheung,73,先生,中国-香港,China-Hong Kong,中国-香港,,,六福,Luk Fook,香港,Hong Kong,珠宝零售,Jewellery Retail,50.0,700.0,-9%,,家族,2024
+1019,-11,纪海鹏,Ji Haipeng,57,先生,中国-广东-汕头,China-Guangdong-Shantou,中国-广东-深圳,,,龙光地产,Logan Property,广东深圳,Guangdong,房地产,Real Estate,50.0,700.0,-17%,,家族,2024
+1019,160,王张兴,Wang Zhangxing,57,先生,中国-浙江-绍兴,China-Zhejiang-Shaoxing,中国-上海,,,城市地产,City,上海浦东,Shanghai,房地产、投资,"Real estate, Investments",50.0,700.0,0%,,未知,2024
+1019,-384,韦锦坤,Wei Jinkun,71,先生,,,中国-上海,,,泛微网络,E-cology,上海闵行,Shanghai,计算机技术,Computer technology,50.0,700.0,-47%,,父子,2024
+1019,54,文剑平,Wen Jianping,62,先生,中国-湖南,China-Hunan,中国-北京,博士,中南林业、中南林业科技、澳大利亚新南威尔士,碧水源,Origin Water,北京,Beijing,污水处理,Sewage Treatment,50.0,700.0,-12%,,未知,2024
+1019,New,方展城,Fang Zhancheng,未知,先生,,,中国-广东-佛山,,,海天味业,Haitian,广东佛山,Guangdong,调味品,Food Flavorings,50.0,700.0,NEW,,未知,2024
+1019,-11,吴亦圭,Wu Yi-Gui,72,先生,中国-台湾,China-Taiwan,中国-台湾-台北,,,台聚,USI,台湾台北,Taiwan,化工,Chemicals,50.0,700.0,-17%,,家族,2024
+1019,New,谢卓明,Hsieh Juor-Ming,未知,未知,,,台湾台北,本科,台湾大同大学,旭隼,Voltronic Power,台湾台北,Taiwan,电气设备,Electronic Equipment,50.0,700.0,NEW,,家族,2024
+1019,160,徐明星,Xu Mingxing,39,先生,,,中国-北京,本科,中国人民大学,欧科云链,OKEx,北京,Beijing,区块链,Blockchain,50.0,700.0,0%,,未知,2024
+1019,-384,徐国忠,Xu Guozhong,61,先生,,,中国-江苏-常州,,,江苏国茂,Guomao,江苏常州,Jiangsu,设备制造,Manufacturing,50.0,700.0,-47%,,家族,2024
+1019,-592,杨建良,Yang Jianliang,55,先生,,,中国-江苏-无锡,,,弘元绿能,Hoyuan Green Energy,江苏无锡,Jiangsu,光伏设备,Green Energy,50.0,700.0,-63%,,家族,2024
+1019,71,杨龙忠,Yang Longzhong,58,先生,中国-江西-上饶,China-Jiangxi-Shangrao,中国-广东-深圳,本科,中南,比亚迪,BYD,广东深圳,Guangdong,汽车、充电电池,"Automobile, New Energy",50.0,700.0,-9%,,未知,2024
+1019,-158,姚雄杰,Yao Xiongjie,未知,先生,中国-福建-龙岩,China-Fujian-Longyan,中国-广东-深圳,,,盛屯,Chengtun,广东深圳,Guangdong,锂电新能源材料,Specialty Chemicals,50.0,700.0,-32%,,未知,2024
+1019,49,周儒欣,Zhou Ruxin,61,先生,中国-北京,China-Beijing,中国-北京,硕士,南开,北斗星通,BDStar,北京,Beijing,卫星导航设备,Satellite Navigating Equipment,50.0,700.0,-14%,,父子,2024
+1019,160,周文起,Zhou Wenqi,未知,先生,,,中国-天津,,,华北,Huabei,天津,Tianjin,铜业、房地产,"Copper, Real Estate",50.0,700.0,0%,,未知,2024
+1019,71,周晓峰,Zhou Xiaofeng,55,先生,,,中国-浙江-宁波,,,宁波华翔,NBHX,浙江宁波,Zhejiang,汽车零配件,Automobile parts,50.0,700.0,-9%,,夫妇,2024
+1019,-79,朱兴良,Zhu Xingliang,65,先生,中国-江苏-苏州,China-Jiangsu-Suzhou,中国-江苏-苏州,,,金螳螂,Gold Mantis,江苏苏州,Jiangsu,建筑,Construction,50.0,700.0,-23%,,未知,2024
